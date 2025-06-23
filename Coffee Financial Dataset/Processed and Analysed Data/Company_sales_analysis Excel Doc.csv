@@ -1,0 +1,2556 @@
+Date,Year,Month,Day,category,Forecasted_Amount,Actual_Amount,SalesAndforecast_difference,PRoduct_Sales_Condition
+2023-01-01,2023,January,Sunday,"Coffee Sales",980,954,-26,Below_Forecast
+2023-01-01,2023,January,Sunday,"Food Sales",646,703,57,Above_Forecast
+2023-01-01,2023,January,Sunday,"Ingredients Cost",457,447,-10,Below_Forecast
+2023-01-01,2023,January,Sunday,Labor,182,188,6,Above_Forecast
+2023-01-01,2023,January,Sunday,Rent,384,375,-9,Below_Forecast
+2023-01-01,2023,January,Sunday,Utilities,489,534,45,Above_Forecast
+2023-01-01,2023,January,Sunday,Marketing,125,125,0,Above_Forecast
+2023-01-02,2023,January,Monday,"Coffee Sales",910,878,-32,Below_Forecast
+2023-01-02,2023,January,Monday,"Food Sales",418,399,-19,Below_Forecast
+2023-01-02,2023,January,Monday,"Ingredients Cost",349,352,3,Above_Forecast
+2023-01-02,2023,January,Monday,Labor,111,108,-3,Below_Forecast
+2023-01-02,2023,January,Monday,Rent,424,392,-32,Below_Forecast
+2023-01-02,2023,January,Monday,Utilities,118,119,1,Above_Forecast
+2023-01-02,2023,January,Monday,Marketing,395,429,34,Above_Forecast
+2023-01-03,2023,January,Tuesday,"Coffee Sales",519,495,-24,Below_Forecast
+2023-01-03,2023,January,Tuesday,"Food Sales",743,669,-74,Below_Forecast
+2023-01-03,2023,January,Tuesday,"Ingredients Cost",306,317,11,Above_Forecast
+2023-01-03,2023,January,Tuesday,Labor,492,474,-18,Below_Forecast
+2023-01-03,2023,January,Tuesday,Rent,490,452,-38,Below_Forecast
+2023-01-03,2023,January,Tuesday,Utilities,332,316,-16,Below_Forecast
+2023-01-03,2023,January,Tuesday,Marketing,343,364,21,Above_Forecast
+2023-01-04,2023,January,Wednesday,"Coffee Sales",273,286,13,Above_Forecast
+2023-01-04,2023,January,Wednesday,"Food Sales",605,568,-37,Below_Forecast
+2023-01-04,2023,January,Wednesday,"Ingredients Cost",398,374,-24,Below_Forecast
+2023-01-04,2023,January,Wednesday,Labor,472,481,9,Above_Forecast
+2023-01-04,2023,January,Wednesday,Rent,194,203,9,Above_Forecast
+2023-01-04,2023,January,Wednesday,Utilities,218,211,-7,Below_Forecast
+2023-01-04,2023,January,Wednesday,Marketing,422,409,-13,Below_Forecast
+2023-01-05,2023,January,Thursday,"Coffee Sales",297,270,-27,Below_Forecast
+2023-01-05,2023,January,Thursday,"Food Sales",546,543,-3,Below_Forecast
+2023-01-05,2023,January,Thursday,"Ingredients Cost",405,393,-12,Below_Forecast
+2023-01-05,2023,January,Thursday,Labor,331,322,-9,Below_Forecast
+2023-01-05,2023,January,Thursday,Rent,209,221,12,Above_Forecast
+2023-01-05,2023,January,Thursday,Utilities,122,109,-13,Below_Forecast
+2023-01-05,2023,January,Thursday,Marketing,265,246,-19,Below_Forecast
+2023-01-06,2023,January,Friday,"Coffee Sales",404,419,15,Above_Forecast
+2023-01-06,2023,January,Friday,"Food Sales",583,601,18,Above_Forecast
+2023-01-06,2023,January,Friday,"Ingredients Cost",442,418,-24,Below_Forecast
+2023-01-06,2023,January,Friday,Labor,257,240,-17,Below_Forecast
+2023-01-06,2023,January,Friday,Rent,210,193,-17,Below_Forecast
+2023-01-06,2023,January,Friday,Utilities,485,526,41,Above_Forecast
+2023-01-06,2023,January,Friday,Marketing,300,271,-29,Below_Forecast
+2023-01-07,2023,January,Saturday,"Coffee Sales",420,439,19,Above_Forecast
+2023-01-07,2023,January,Saturday,"Food Sales",327,334,7,Above_Forecast
+2023-01-07,2023,January,Saturday,"Ingredients Cost",479,475,-4,Below_Forecast
+2023-01-07,2023,January,Saturday,Labor,351,334,-17,Below_Forecast
+2023-01-07,2023,January,Saturday,Rent,281,261,-20,Below_Forecast
+2023-01-07,2023,January,Saturday,Utilities,141,154,13,Above_Forecast
+2023-01-07,2023,January,Saturday,Marketing,497,529,32,Above_Forecast
+2023-01-08,2023,January,Sunday,"Coffee Sales",212,224,12,Above_Forecast
+2023-01-08,2023,January,Sunday,"Food Sales",428,395,-33,Below_Forecast
+2023-01-08,2023,January,Sunday,"Ingredients Cost",279,264,-15,Below_Forecast
+2023-01-08,2023,January,Sunday,Labor,340,339,-1,Below_Forecast
+2023-01-08,2023,January,Sunday,Rent,184,189,5,Above_Forecast
+2023-01-08,2023,January,Sunday,Utilities,301,328,27,Above_Forecast
+2023-01-08,2023,January,Sunday,Marketing,489,525,36,Above_Forecast
+2023-01-09,2023,January,Monday,"Coffee Sales",956,1000,44,Above_Forecast
+2023-01-09,2023,January,Monday,"Food Sales",968,872,-96,Below_Forecast
+2023-01-09,2023,January,Monday,"Ingredients Cost",164,179,15,Above_Forecast
+2023-01-09,2023,January,Monday,Labor,417,454,37,Above_Forecast
+2023-01-09,2023,January,Monday,Rent,291,311,20,Above_Forecast
+2023-01-09,2023,January,Monday,Utilities,163,155,-8,Below_Forecast
+2023-01-09,2023,January,Monday,Marketing,120,128,8,Above_Forecast
+2023-01-10,2023,January,Tuesday,"Coffee Sales",700,642,-58,Below_Forecast
+2023-01-10,2023,January,Tuesday,"Food Sales",389,384,-5,Below_Forecast
+2023-01-10,2023,January,Tuesday,"Ingredients Cost",153,151,-2,Below_Forecast
+2023-01-10,2023,January,Tuesday,Labor,148,156,8,Above_Forecast
+2023-01-10,2023,January,Tuesday,Rent,340,370,30,Above_Forecast
+2023-01-10,2023,January,Tuesday,Utilities,103,98,-5,Below_Forecast
+2023-01-10,2023,January,Tuesday,Marketing,294,307,13,Above_Forecast
+2023-01-11,2023,January,Wednesday,"Coffee Sales",452,444,-8,Below_Forecast
+2023-01-11,2023,January,Wednesday,"Food Sales",971,896,-75,Below_Forecast
+2023-01-11,2023,January,Wednesday,"Ingredients Cost",355,367,12,Above_Forecast
+2023-01-11,2023,January,Wednesday,Labor,500,529,29,Above_Forecast
+2023-01-11,2023,January,Wednesday,Rent,185,200,15,Above_Forecast
+2023-01-11,2023,January,Wednesday,Utilities,320,323,3,Above_Forecast
+2023-01-11,2023,January,Wednesday,Marketing,468,488,20,Above_Forecast
+2023-01-12,2023,January,Thursday,"Coffee Sales",945,972,27,Above_Forecast
+2023-01-12,2023,January,Thursday,"Food Sales",300,277,-23,Below_Forecast
+2023-01-12,2023,January,Thursday,"Ingredients Cost",360,355,-5,Below_Forecast
+2023-01-12,2023,January,Thursday,Labor,412,392,-20,Below_Forecast
+2023-01-12,2023,January,Thursday,Rent,239,235,-4,Below_Forecast
+2023-01-12,2023,January,Thursday,Utilities,288,312,24,Above_Forecast
+2023-01-12,2023,January,Thursday,Marketing,372,387,15,Above_Forecast
+2023-01-13,2023,January,Friday,"Coffee Sales",549,510,-39,Below_Forecast
+2023-01-13,2023,January,Friday,"Food Sales",670,628,-42,Below_Forecast
+2023-01-13,2023,January,Friday,"Ingredients Cost",176,179,3,Above_Forecast
+2023-01-13,2023,January,Friday,Labor,303,314,11,Above_Forecast
+2023-01-13,2023,January,Friday,Rent,378,389,11,Above_Forecast
+2023-01-13,2023,January,Friday,Utilities,361,366,5,Above_Forecast
+2023-01-13,2023,January,Friday,Marketing,259,257,-2,Below_Forecast
+2023-01-14,2023,January,Saturday,"Coffee Sales",564,560,-4,Below_Forecast
+2023-01-14,2023,January,Saturday,"Food Sales",383,407,24,Above_Forecast
+2023-01-14,2023,January,Saturday,"Ingredients Cost",495,528,33,Above_Forecast
+2023-01-14,2023,January,Saturday,Labor,126,122,-4,Below_Forecast
+2023-01-14,2023,January,Saturday,Rent,256,249,-7,Below_Forecast
+2023-01-14,2023,January,Saturday,Utilities,257,264,7,Above_Forecast
+2023-01-14,2023,January,Saturday,Marketing,416,434,18,Above_Forecast
+2023-01-15,2023,January,Sunday,"Coffee Sales",769,796,27,Above_Forecast
+2023-01-15,2023,January,Sunday,"Food Sales",898,970,72,Above_Forecast
+2023-01-15,2023,January,Sunday,"Ingredients Cost",362,327,-35,Below_Forecast
+2023-01-15,2023,January,Sunday,Labor,313,286,-27,Below_Forecast
+2023-01-15,2023,January,Sunday,Rent,119,108,-11,Below_Forecast
+2023-01-15,2023,January,Sunday,Utilities,252,246,-6,Below_Forecast
+2023-01-15,2023,January,Sunday,Marketing,368,388,20,Above_Forecast
+2023-01-16,2023,January,Monday,"Coffee Sales",734,700,-34,Below_Forecast
+2023-01-16,2023,January,Monday,"Food Sales",495,489,-6,Below_Forecast
+2023-01-16,2023,January,Monday,"Ingredients Cost",476,438,-38,Below_Forecast
+2023-01-16,2023,January,Monday,Labor,272,291,19,Above_Forecast
+2023-01-16,2023,January,Monday,Rent,200,212,12,Above_Forecast
+2023-01-16,2023,January,Monday,Utilities,240,242,2,Above_Forecast
+2023-01-16,2023,January,Monday,Marketing,170,172,2,Above_Forecast
+2023-01-17,2023,January,Tuesday,"Coffee Sales",714,707,-7,Below_Forecast
+2023-01-17,2023,January,Tuesday,"Food Sales",206,206,0,Above_Forecast
+2023-01-17,2023,January,Tuesday,"Ingredients Cost",122,127,5,Above_Forecast
+2023-01-17,2023,January,Tuesday,Labor,303,324,21,Above_Forecast
+2023-01-17,2023,January,Tuesday,Rent,472,493,21,Above_Forecast
+2023-01-17,2023,January,Tuesday,Utilities,198,189,-9,Below_Forecast
+2023-01-17,2023,January,Tuesday,Marketing,440,481,41,Above_Forecast
+2023-01-18,2023,January,Wednesday,"Coffee Sales",596,540,-56,Below_Forecast
+2023-01-18,2023,January,Wednesday,"Food Sales",370,391,21,Above_Forecast
+2023-01-18,2023,January,Wednesday,"Ingredients Cost",187,174,-13,Below_Forecast
+2023-01-18,2023,January,Wednesday,Labor,350,362,12,Above_Forecast
+2023-01-18,2023,January,Wednesday,Rent,488,452,-36,Below_Forecast
+2023-01-18,2023,January,Wednesday,Utilities,250,228,-22,Below_Forecast
+2023-01-18,2023,January,Wednesday,Marketing,408,368,-40,Below_Forecast
+2023-01-19,2023,January,Thursday,"Coffee Sales",252,245,-7,Below_Forecast
+2023-01-19,2023,January,Thursday,"Food Sales",801,740,-61,Below_Forecast
+2023-01-19,2023,January,Thursday,"Ingredients Cost",123,131,8,Above_Forecast
+2023-01-19,2023,January,Thursday,Labor,441,404,-37,Below_Forecast
+2023-01-19,2023,January,Thursday,Rent,240,256,16,Above_Forecast
+2023-01-19,2023,January,Thursday,Utilities,424,383,-41,Below_Forecast
+2023-01-19,2023,January,Thursday,Marketing,463,421,-42,Below_Forecast
+2023-01-20,2023,January,Friday,"Coffee Sales",800,779,-21,Below_Forecast
+2023-01-20,2023,January,Friday,"Food Sales",533,486,-47,Below_Forecast
+2023-01-20,2023,January,Friday,"Ingredients Cost",224,219,-5,Below_Forecast
+2023-01-20,2023,January,Friday,Labor,423,427,4,Above_Forecast
+2023-01-20,2023,January,Friday,Rent,468,429,-39,Below_Forecast
+2023-01-20,2023,January,Friday,Utilities,165,167,2,Above_Forecast
+2023-01-20,2023,January,Friday,Marketing,342,353,11,Above_Forecast
+2023-01-21,2023,January,Saturday,"Coffee Sales",790,743,-47,Below_Forecast
+2023-01-21,2023,January,Saturday,"Food Sales",655,710,55,Above_Forecast
+2023-01-21,2023,January,Saturday,"Ingredients Cost",148,151,3,Above_Forecast
+2023-01-21,2023,January,Saturday,Labor,303,303,0,Above_Forecast
+2023-01-21,2023,January,Saturday,Rent,115,103,-12,Below_Forecast
+2023-01-21,2023,January,Saturday,Utilities,108,101,-7,Below_Forecast
+2023-01-21,2023,January,Saturday,Marketing,159,154,-5,Below_Forecast
+2023-01-22,2023,January,Sunday,"Coffee Sales",778,811,33,Above_Forecast
+2023-01-22,2023,January,Sunday,"Food Sales",839,891,52,Above_Forecast
+2023-01-22,2023,January,Sunday,"Ingredients Cost",114,122,8,Above_Forecast
+2023-01-22,2023,January,Sunday,Labor,145,142,-3,Below_Forecast
+2023-01-22,2023,January,Sunday,Rent,105,115,10,Above_Forecast
+2023-01-22,2023,January,Sunday,Utilities,257,250,-7,Below_Forecast
+2023-01-22,2023,January,Sunday,Marketing,251,248,-3,Below_Forecast
+2023-01-23,2023,January,Monday,"Coffee Sales",710,695,-15,Below_Forecast
+2023-01-23,2023,January,Monday,"Food Sales",435,416,-19,Below_Forecast
+2023-01-23,2023,January,Monday,"Ingredients Cost",286,271,-15,Below_Forecast
+2023-01-23,2023,January,Monday,Labor,152,149,-3,Below_Forecast
+2023-01-23,2023,January,Monday,Rent,328,359,31,Above_Forecast
+2023-01-23,2023,January,Monday,Utilities,196,188,-8,Below_Forecast
+2023-01-23,2023,January,Monday,Marketing,326,355,29,Above_Forecast
+2023-01-24,2023,January,Tuesday,"Coffee Sales",313,286,-27,Below_Forecast
+2023-01-24,2023,January,Tuesday,"Food Sales",636,624,-12,Below_Forecast
+2023-01-24,2023,January,Tuesday,"Ingredients Cost",133,134,1,Above_Forecast
+2023-01-24,2023,January,Tuesday,Labor,230,221,-9,Below_Forecast
+2023-01-24,2023,January,Tuesday,Rent,412,426,14,Above_Forecast
+2023-01-24,2023,January,Tuesday,Utilities,411,439,28,Above_Forecast
+2023-01-24,2023,January,Tuesday,Marketing,318,346,28,Above_Forecast
+2023-01-25,2023,January,Wednesday,"Coffee Sales",560,578,18,Above_Forecast
+2023-01-25,2023,January,Wednesday,"Food Sales",266,283,17,Above_Forecast
+2023-01-25,2023,January,Wednesday,"Ingredients Cost",399,414,15,Above_Forecast
+2023-01-25,2023,January,Wednesday,Labor,224,238,14,Above_Forecast
+2023-01-25,2023,January,Wednesday,Rent,101,94,-7,Below_Forecast
+2023-01-25,2023,January,Wednesday,Utilities,444,437,-7,Below_Forecast
+2023-01-25,2023,January,Wednesday,Marketing,172,183,11,Above_Forecast
+2023-01-26,2023,January,Thursday,"Coffee Sales",741,749,8,Above_Forecast
+2023-01-26,2023,January,Thursday,"Food Sales",285,280,-5,Below_Forecast
+2023-01-26,2023,January,Thursday,"Ingredients Cost",499,477,-22,Below_Forecast
+2023-01-26,2023,January,Thursday,Labor,252,252,0,Above_Forecast
+2023-01-26,2023,January,Thursday,Rent,138,140,2,Above_Forecast
+2023-01-26,2023,January,Thursday,Utilities,469,426,-43,Below_Forecast
+2023-01-26,2023,January,Thursday,Marketing,136,147,11,Above_Forecast
+2023-01-27,2023,January,Friday,"Coffee Sales",734,791,57,Above_Forecast
+2023-01-27,2023,January,Friday,"Food Sales",944,947,3,Above_Forecast
+2023-01-27,2023,January,Friday,"Ingredients Cost",250,238,-12,Below_Forecast
+2023-01-27,2023,January,Friday,Labor,125,121,-4,Below_Forecast
+2023-01-27,2023,January,Friday,Rent,488,445,-43,Below_Forecast
+2023-01-27,2023,January,Friday,Utilities,226,238,12,Above_Forecast
+2023-01-27,2023,January,Friday,Marketing,192,181,-11,Below_Forecast
+2023-01-28,2023,January,Saturday,"Coffee Sales",532,548,16,Above_Forecast
+2023-01-28,2023,January,Saturday,"Food Sales",514,537,23,Above_Forecast
+2023-01-28,2023,January,Saturday,"Ingredients Cost",349,348,-1,Below_Forecast
+2023-01-28,2023,January,Saturday,Labor,482,513,31,Above_Forecast
+2023-01-28,2023,January,Saturday,Rent,129,136,7,Above_Forecast
+2023-01-28,2023,January,Saturday,Utilities,111,119,8,Above_Forecast
+2023-01-28,2023,January,Saturday,Marketing,376,348,-28,Below_Forecast
+2023-01-29,2023,January,Sunday,"Coffee Sales",897,849,-48,Below_Forecast
+2023-01-29,2023,January,Sunday,"Food Sales",708,765,57,Above_Forecast
+2023-01-29,2023,January,Sunday,"Ingredients Cost",300,322,22,Above_Forecast
+2023-01-29,2023,January,Sunday,Labor,388,361,-27,Below_Forecast
+2023-01-29,2023,January,Sunday,Rent,143,140,-3,Below_Forecast
+2023-01-29,2023,January,Sunday,Utilities,387,383,-4,Below_Forecast
+2023-01-29,2023,January,Sunday,Marketing,431,435,4,Above_Forecast
+2023-01-30,2023,January,Monday,"Coffee Sales",486,502,16,Above_Forecast
+2023-01-30,2023,January,Monday,"Food Sales",696,651,-45,Below_Forecast
+2023-01-30,2023,January,Monday,"Ingredients Cost",176,160,-16,Below_Forecast
+2023-01-30,2023,January,Monday,Labor,278,278,0,Above_Forecast
+2023-01-30,2023,January,Monday,Rent,275,258,-17,Below_Forecast
+2023-01-30,2023,January,Monday,Utilities,299,310,11,Above_Forecast
+2023-01-30,2023,January,Monday,Marketing,127,127,0,Above_Forecast
+2023-01-31,2023,January,Tuesday,"Coffee Sales",985,1049,64,Above_Forecast
+2023-01-31,2023,January,Tuesday,"Food Sales",402,421,19,Above_Forecast
+2023-01-31,2023,January,Tuesday,"Ingredients Cost",329,346,17,Above_Forecast
+2023-01-31,2023,January,Tuesday,Labor,332,342,10,Above_Forecast
+2023-01-31,2023,January,Tuesday,Rent,272,298,26,Above_Forecast
+2023-01-31,2023,January,Tuesday,Utilities,361,376,15,Above_Forecast
+2023-01-31,2023,January,Tuesday,Marketing,194,211,17,Above_Forecast
+2023-02-01,2023,February,Wednesday,"Coffee Sales",550,575,25,Above_Forecast
+2023-02-01,2023,February,Wednesday,"Food Sales",597,652,55,Above_Forecast
+2023-02-01,2023,February,Wednesday,"Ingredients Cost",406,398,-8,Below_Forecast
+2023-02-01,2023,February,Wednesday,Labor,427,424,-3,Below_Forecast
+2023-02-01,2023,February,Wednesday,Rent,192,174,-18,Below_Forecast
+2023-02-01,2023,February,Wednesday,Utilities,307,285,-22,Below_Forecast
+2023-02-01,2023,February,Wednesday,Marketing,132,120,-12,Below_Forecast
+2023-02-02,2023,February,Thursday,"Coffee Sales",676,692,16,Above_Forecast
+2023-02-02,2023,February,Thursday,"Food Sales",379,341,-38,Below_Forecast
+2023-02-02,2023,February,Thursday,"Ingredients Cost",171,185,14,Above_Forecast
+2023-02-02,2023,February,Thursday,Labor,455,419,-36,Below_Forecast
+2023-02-02,2023,February,Thursday,Rent,157,154,-3,Below_Forecast
+2023-02-02,2023,February,Thursday,Utilities,494,453,-41,Below_Forecast
+2023-02-02,2023,February,Thursday,Marketing,459,446,-13,Below_Forecast
+2023-02-03,2023,February,Friday,"Coffee Sales",453,485,32,Above_Forecast
+2023-02-03,2023,February,Friday,"Food Sales",392,420,28,Above_Forecast
+2023-02-03,2023,February,Friday,"Ingredients Cost",204,208,4,Above_Forecast
+2023-02-03,2023,February,Friday,Labor,194,187,-7,Below_Forecast
+2023-02-03,2023,February,Friday,Rent,103,107,4,Above_Forecast
+2023-02-03,2023,February,Friday,Utilities,353,364,11,Above_Forecast
+2023-02-03,2023,February,Friday,Marketing,368,380,12,Above_Forecast
+2023-02-04,2023,February,Saturday,"Coffee Sales",964,910,-54,Below_Forecast
+2023-02-04,2023,February,Saturday,"Food Sales",242,218,-24,Below_Forecast
+2023-02-04,2023,February,Saturday,"Ingredients Cost",445,449,4,Above_Forecast
+2023-02-04,2023,February,Saturday,Labor,376,399,23,Above_Forecast
+2023-02-04,2023,February,Saturday,Rent,449,474,25,Above_Forecast
+2023-02-04,2023,February,Saturday,Utilities,125,113,-12,Below_Forecast
+2023-02-04,2023,February,Saturday,Marketing,269,244,-25,Below_Forecast
+2023-02-05,2023,February,Sunday,"Coffee Sales",662,674,12,Above_Forecast
+2023-02-05,2023,February,Sunday,"Food Sales",653,713,60,Above_Forecast
+2023-02-05,2023,February,Sunday,"Ingredients Cost",189,183,-6,Below_Forecast
+2023-02-05,2023,February,Sunday,Labor,100,96,-4,Below_Forecast
+2023-02-05,2023,February,Sunday,Rent,394,431,37,Above_Forecast
+2023-02-05,2023,February,Sunday,Utilities,196,180,-16,Below_Forecast
+2023-02-05,2023,February,Sunday,Marketing,494,455,-39,Below_Forecast
+2023-02-06,2023,February,Monday,"Coffee Sales",604,593,-11,Below_Forecast
+2023-02-06,2023,February,Monday,"Food Sales",620,607,-13,Below_Forecast
+2023-02-06,2023,February,Monday,"Ingredients Cost",261,242,-19,Below_Forecast
+2023-02-06,2023,February,Monday,Labor,277,250,-27,Below_Forecast
+2023-02-06,2023,February,Monday,Rent,248,252,4,Above_Forecast
+2023-02-06,2023,February,Monday,Utilities,119,121,2,Above_Forecast
+2023-02-06,2023,February,Monday,Marketing,340,339,-1,Below_Forecast
+2023-02-07,2023,February,Tuesday,"Coffee Sales",224,214,-10,Below_Forecast
+2023-02-07,2023,February,Tuesday,"Food Sales",911,846,-65,Below_Forecast
+2023-02-07,2023,February,Tuesday,"Ingredients Cost",223,208,-15,Below_Forecast
+2023-02-07,2023,February,Tuesday,Labor,408,399,-9,Below_Forecast
+2023-02-07,2023,February,Tuesday,Rent,249,271,22,Above_Forecast
+2023-02-07,2023,February,Tuesday,Utilities,308,301,-7,Below_Forecast
+2023-02-07,2023,February,Tuesday,Marketing,407,407,0,Above_Forecast
+2023-02-08,2023,February,Wednesday,"Coffee Sales",453,495,42,Above_Forecast
+2023-02-08,2023,February,Wednesday,"Food Sales",891,843,-48,Below_Forecast
+2023-02-08,2023,February,Wednesday,"Ingredients Cost",169,159,-10,Below_Forecast
+2023-02-08,2023,February,Wednesday,Labor,435,442,7,Above_Forecast
+2023-02-08,2023,February,Wednesday,Rent,270,257,-13,Below_Forecast
+2023-02-08,2023,February,Wednesday,Utilities,429,439,10,Above_Forecast
+2023-02-08,2023,February,Wednesday,Marketing,391,422,31,Above_Forecast
+2023-02-09,2023,February,Thursday,"Coffee Sales",278,303,25,Above_Forecast
+2023-02-09,2023,February,Thursday,"Food Sales",704,713,9,Above_Forecast
+2023-02-09,2023,February,Thursday,"Ingredients Cost",256,239,-17,Below_Forecast
+2023-02-09,2023,February,Thursday,Labor,327,325,-2,Below_Forecast
+2023-02-09,2023,February,Thursday,Rent,306,301,-5,Below_Forecast
+2023-02-09,2023,February,Thursday,Utilities,247,252,5,Above_Forecast
+2023-02-09,2023,February,Thursday,Marketing,205,211,6,Above_Forecast
+2023-02-10,2023,February,Friday,"Coffee Sales",234,213,-21,Below_Forecast
+2023-02-10,2023,February,Friday,"Food Sales",691,633,-58,Below_Forecast
+2023-02-10,2023,February,Friday,"Ingredients Cost",275,251,-24,Below_Forecast
+2023-02-10,2023,February,Friday,Labor,374,393,19,Above_Forecast
+2023-02-10,2023,February,Friday,Rent,303,317,14,Above_Forecast
+2023-02-10,2023,February,Friday,Utilities,456,412,-44,Below_Forecast
+2023-02-10,2023,February,Friday,Marketing,420,432,12,Above_Forecast
+2023-02-11,2023,February,Saturday,"Coffee Sales",983,1068,85,Above_Forecast
+2023-02-11,2023,February,Saturday,"Food Sales",277,274,-3,Below_Forecast
+2023-02-11,2023,February,Saturday,"Ingredients Cost",345,379,34,Above_Forecast
+2023-02-11,2023,February,Saturday,Labor,304,286,-18,Below_Forecast
+2023-02-11,2023,February,Saturday,Rent,332,321,-11,Below_Forecast
+2023-02-11,2023,February,Saturday,Utilities,397,416,19,Above_Forecast
+2023-02-11,2023,February,Saturday,Marketing,348,326,-22,Below_Forecast
+2023-02-12,2023,February,Sunday,"Coffee Sales",619,634,15,Above_Forecast
+2023-02-12,2023,February,Sunday,"Food Sales",361,366,5,Above_Forecast
+2023-02-12,2023,February,Sunday,"Ingredients Cost",195,181,-14,Below_Forecast
+2023-02-12,2023,February,Sunday,Labor,458,449,-9,Below_Forecast
+2023-02-12,2023,February,Sunday,Rent,372,351,-21,Below_Forecast
+2023-02-12,2023,February,Sunday,Utilities,181,196,15,Above_Forecast
+2023-02-12,2023,February,Sunday,Marketing,291,267,-24,Below_Forecast
+2023-02-13,2023,February,Monday,"Coffee Sales",451,416,-35,Below_Forecast
+2023-02-13,2023,February,Monday,"Food Sales",367,356,-11,Below_Forecast
+2023-02-13,2023,February,Monday,"Ingredients Cost",194,175,-19,Below_Forecast
+2023-02-13,2023,February,Monday,Labor,150,145,-5,Below_Forecast
+2023-02-13,2023,February,Monday,Rent,210,220,10,Above_Forecast
+2023-02-13,2023,February,Monday,Utilities,454,468,14,Above_Forecast
+2023-02-13,2023,February,Monday,Marketing,166,180,14,Above_Forecast
+2023-02-14,2023,February,Tuesday,"Coffee Sales",235,222,-13,Below_Forecast
+2023-02-14,2023,February,Tuesday,"Food Sales",294,294,0,Above_Forecast
+2023-02-14,2023,February,Tuesday,"Ingredients Cost",419,425,6,Above_Forecast
+2023-02-14,2023,February,Tuesday,Labor,457,436,-21,Below_Forecast
+2023-02-14,2023,February,Tuesday,Rent,191,192,1,Above_Forecast
+2023-02-14,2023,February,Tuesday,Utilities,210,215,5,Above_Forecast
+2023-02-14,2023,February,Tuesday,Marketing,307,298,-9,Below_Forecast
+2023-02-15,2023,February,Wednesday,"Coffee Sales",769,763,-6,Below_Forecast
+2023-02-15,2023,February,Wednesday,"Food Sales",984,990,6,Above_Forecast
+2023-02-15,2023,February,Wednesday,"Ingredients Cost",328,314,-14,Below_Forecast
+2023-02-15,2023,February,Wednesday,Labor,228,230,2,Above_Forecast
+2023-02-15,2023,February,Wednesday,Rent,386,353,-33,Below_Forecast
+2023-02-15,2023,February,Wednesday,Utilities,401,417,16,Above_Forecast
+2023-02-15,2023,February,Wednesday,Marketing,486,499,13,Above_Forecast
+2023-02-16,2023,February,Thursday,"Coffee Sales",810,846,36,Above_Forecast
+2023-02-16,2023,February,Thursday,"Food Sales",825,828,3,Above_Forecast
+2023-02-16,2023,February,Thursday,"Ingredients Cost",118,123,5,Above_Forecast
+2023-02-16,2023,February,Thursday,Labor,285,310,25,Above_Forecast
+2023-02-16,2023,February,Thursday,Rent,343,370,27,Above_Forecast
+2023-02-16,2023,February,Thursday,Utilities,126,130,4,Above_Forecast
+2023-02-16,2023,February,Thursday,Marketing,319,324,5,Above_Forecast
+2023-02-17,2023,February,Friday,"Coffee Sales",458,453,-5,Below_Forecast
+2023-02-17,2023,February,Friday,"Food Sales",983,888,-95,Below_Forecast
+2023-02-17,2023,February,Friday,"Ingredients Cost",157,157,0,Above_Forecast
+2023-02-17,2023,February,Friday,Labor,240,253,13,Above_Forecast
+2023-02-17,2023,February,Friday,Rent,410,440,30,Above_Forecast
+2023-02-17,2023,February,Friday,Utilities,262,244,-18,Below_Forecast
+2023-02-17,2023,February,Friday,Marketing,442,442,0,Above_Forecast
+2023-02-18,2023,February,Saturday,"Coffee Sales",221,210,-11,Below_Forecast
+2023-02-18,2023,February,Saturday,"Food Sales",675,709,34,Above_Forecast
+2023-02-18,2023,February,Saturday,"Ingredients Cost",244,241,-3,Below_Forecast
+2023-02-18,2023,February,Saturday,Labor,287,315,28,Above_Forecast
+2023-02-18,2023,February,Saturday,Rent,338,329,-9,Below_Forecast
+2023-02-18,2023,February,Saturday,Utilities,352,377,25,Above_Forecast
+2023-02-18,2023,February,Saturday,Marketing,232,219,-13,Below_Forecast
+2023-02-19,2023,February,Sunday,"Coffee Sales",566,574,8,Above_Forecast
+2023-02-19,2023,February,Sunday,"Food Sales",720,706,-14,Below_Forecast
+2023-02-19,2023,February,Sunday,"Ingredients Cost",301,273,-28,Below_Forecast
+2023-02-19,2023,February,Sunday,Labor,196,178,-18,Below_Forecast
+2023-02-19,2023,February,Sunday,Rent,142,130,-12,Below_Forecast
+2023-02-19,2023,February,Sunday,Utilities,265,250,-15,Below_Forecast
+2023-02-19,2023,February,Sunday,Marketing,283,257,-26,Below_Forecast
+2023-02-20,2023,February,Monday,"Coffee Sales",845,877,32,Above_Forecast
+2023-02-20,2023,February,Monday,"Food Sales",275,282,7,Above_Forecast
+2023-02-20,2023,February,Monday,"Ingredients Cost",343,309,-34,Below_Forecast
+2023-02-20,2023,February,Monday,Labor,491,477,-14,Below_Forecast
+2023-02-20,2023,February,Monday,Rent,319,301,-18,Below_Forecast
+2023-02-20,2023,February,Monday,Utilities,390,379,-11,Below_Forecast
+2023-02-20,2023,February,Monday,Marketing,435,415,-20,Below_Forecast
+2023-02-21,2023,February,Tuesday,"Coffee Sales",956,970,14,Above_Forecast
+2023-02-21,2023,February,Tuesday,"Food Sales",889,976,87,Above_Forecast
+2023-02-21,2023,February,Tuesday,"Ingredients Cost",427,440,13,Above_Forecast
+2023-02-21,2023,February,Tuesday,Labor,113,109,-4,Below_Forecast
+2023-02-21,2023,February,Tuesday,Rent,494,521,27,Above_Forecast
+2023-02-21,2023,February,Tuesday,Utilities,370,346,-24,Below_Forecast
+2023-02-21,2023,February,Tuesday,Marketing,309,330,21,Above_Forecast
+2023-02-22,2023,February,Wednesday,"Coffee Sales",947,1031,84,Above_Forecast
+2023-02-22,2023,February,Wednesday,"Food Sales",704,660,-44,Below_Forecast
+2023-02-22,2023,February,Wednesday,"Ingredients Cost",214,224,10,Above_Forecast
+2023-02-22,2023,February,Wednesday,Labor,186,203,17,Above_Forecast
+2023-02-22,2023,February,Wednesday,Rent,361,338,-23,Below_Forecast
+2023-02-22,2023,February,Wednesday,Utilities,141,133,-8,Below_Forecast
+2023-02-22,2023,February,Wednesday,Marketing,469,455,-14,Below_Forecast
+2023-02-23,2023,February,Thursday,"Coffee Sales",887,924,37,Above_Forecast
+2023-02-23,2023,February,Thursday,"Food Sales",943,975,32,Above_Forecast
+2023-02-23,2023,February,Thursday,"Ingredients Cost",294,284,-10,Below_Forecast
+2023-02-23,2023,February,Thursday,Labor,200,184,-16,Below_Forecast
+2023-02-23,2023,February,Thursday,Rent,222,216,-6,Below_Forecast
+2023-02-23,2023,February,Thursday,Utilities,323,315,-8,Below_Forecast
+2023-02-23,2023,February,Thursday,Marketing,360,374,14,Above_Forecast
+2023-02-24,2023,February,Friday,"Coffee Sales",570,537,-33,Below_Forecast
+2023-02-24,2023,February,Friday,"Food Sales",718,659,-59,Below_Forecast
+2023-02-24,2023,February,Friday,"Ingredients Cost",411,405,-6,Below_Forecast
+2023-02-24,2023,February,Friday,Labor,154,157,3,Above_Forecast
+2023-02-24,2023,February,Friday,Rent,150,152,2,Above_Forecast
+2023-02-24,2023,February,Friday,Utilities,269,285,16,Above_Forecast
+2023-02-24,2023,February,Friday,Marketing,134,141,7,Above_Forecast
+2023-02-25,2023,February,Saturday,"Coffee Sales",834,822,-12,Below_Forecast
+2023-02-25,2023,February,Saturday,"Food Sales",592,611,19,Above_Forecast
+2023-02-25,2023,February,Saturday,"Ingredients Cost",344,366,22,Above_Forecast
+2023-02-25,2023,February,Saturday,Labor,471,425,-46,Below_Forecast
+2023-02-25,2023,February,Saturday,Rent,371,343,-28,Below_Forecast
+2023-02-25,2023,February,Saturday,Utilities,121,119,-2,Below_Forecast
+2023-02-25,2023,February,Saturday,Marketing,364,386,22,Above_Forecast
+2023-02-26,2023,February,Sunday,"Coffee Sales",382,405,23,Above_Forecast
+2023-02-26,2023,February,Sunday,"Food Sales",906,834,-72,Below_Forecast
+2023-02-26,2023,February,Sunday,"Ingredients Cost",292,312,20,Above_Forecast
+2023-02-26,2023,February,Sunday,Labor,280,257,-23,Below_Forecast
+2023-02-26,2023,February,Sunday,Rent,290,269,-21,Below_Forecast
+2023-02-26,2023,February,Sunday,Utilities,413,428,15,Above_Forecast
+2023-02-26,2023,February,Sunday,Marketing,327,315,-12,Below_Forecast
+2023-02-27,2023,February,Monday,"Coffee Sales",414,426,12,Above_Forecast
+2023-02-27,2023,February,Monday,"Food Sales",312,324,12,Above_Forecast
+2023-02-27,2023,February,Monday,"Ingredients Cost",433,432,-1,Below_Forecast
+2023-02-27,2023,February,Monday,Labor,295,294,-1,Below_Forecast
+2023-02-27,2023,February,Monday,Rent,351,330,-21,Below_Forecast
+2023-02-27,2023,February,Monday,Utilities,383,407,24,Above_Forecast
+2023-02-27,2023,February,Monday,Marketing,222,242,20,Above_Forecast
+2023-02-28,2023,February,Tuesday,"Coffee Sales",661,649,-12,Below_Forecast
+2023-02-28,2023,February,Tuesday,"Food Sales",996,1074,78,Above_Forecast
+2023-02-28,2023,February,Tuesday,"Ingredients Cost",484,452,-32,Below_Forecast
+2023-02-28,2023,February,Tuesday,Labor,339,367,28,Above_Forecast
+2023-02-28,2023,February,Tuesday,Rent,368,362,-6,Below_Forecast
+2023-02-28,2023,February,Tuesday,Utilities,420,425,5,Above_Forecast
+2023-02-28,2023,February,Tuesday,Marketing,479,503,24,Above_Forecast
+2023-03-01,2023,March,Wednesday,"Coffee Sales",534,528,-6,Below_Forecast
+2023-03-01,2023,March,Wednesday,"Food Sales",328,345,17,Above_Forecast
+2023-03-01,2023,March,Wednesday,"Ingredients Cost",416,387,-29,Below_Forecast
+2023-03-01,2023,March,Wednesday,Labor,448,447,-1,Below_Forecast
+2023-03-01,2023,March,Wednesday,Rent,157,145,-12,Below_Forecast
+2023-03-01,2023,March,Wednesday,Utilities,205,193,-12,Below_Forecast
+2023-03-01,2023,March,Wednesday,Marketing,251,269,18,Above_Forecast
+2023-03-02,2023,March,Thursday,"Coffee Sales",256,264,8,Above_Forecast
+2023-03-02,2023,March,Thursday,"Food Sales",590,545,-45,Below_Forecast
+2023-03-02,2023,March,Thursday,"Ingredients Cost",239,244,5,Above_Forecast
+2023-03-02,2023,March,Thursday,Labor,432,435,3,Above_Forecast
+2023-03-02,2023,March,Thursday,Rent,216,230,14,Above_Forecast
+2023-03-02,2023,March,Thursday,Utilities,294,267,-27,Below_Forecast
+2023-03-02,2023,March,Thursday,Marketing,411,409,-2,Below_Forecast
+2023-03-03,2023,March,Friday,"Coffee Sales",762,728,-34,Below_Forecast
+2023-03-03,2023,March,Friday,"Food Sales",923,915,-8,Below_Forecast
+2023-03-03,2023,March,Friday,"Ingredients Cost",245,258,13,Above_Forecast
+2023-03-03,2023,March,Friday,Labor,181,169,-12,Below_Forecast
+2023-03-03,2023,March,Friday,Rent,314,301,-13,Below_Forecast
+2023-03-03,2023,March,Friday,Utilities,344,338,-6,Below_Forecast
+2023-03-03,2023,March,Friday,Marketing,133,139,6,Above_Forecast
+2023-03-04,2023,March,Saturday,"Coffee Sales",267,285,18,Above_Forecast
+2023-03-04,2023,March,Saturday,"Food Sales",330,329,-1,Below_Forecast
+2023-03-04,2023,March,Saturday,"Ingredients Cost",320,346,26,Above_Forecast
+2023-03-04,2023,March,Saturday,Labor,454,490,36,Above_Forecast
+2023-03-04,2023,March,Saturday,Rent,450,425,-25,Below_Forecast
+2023-03-04,2023,March,Saturday,Utilities,345,373,28,Above_Forecast
+2023-03-04,2023,March,Saturday,Marketing,191,188,-3,Below_Forecast
+2023-03-05,2023,March,Sunday,"Coffee Sales",614,662,48,Above_Forecast
+2023-03-05,2023,March,Sunday,"Food Sales",389,408,19,Above_Forecast
+2023-03-05,2023,March,Sunday,"Ingredients Cost",342,322,-20,Below_Forecast
+2023-03-05,2023,March,Sunday,Labor,431,437,6,Above_Forecast
+2023-03-05,2023,March,Sunday,Rent,225,241,16,Above_Forecast
+2023-03-05,2023,March,Sunday,Utilities,380,344,-36,Below_Forecast
+2023-03-05,2023,March,Sunday,Marketing,210,226,16,Above_Forecast
+2023-03-06,2023,March,Monday,"Coffee Sales",778,849,71,Above_Forecast
+2023-03-06,2023,March,Monday,"Food Sales",338,356,18,Above_Forecast
+2023-03-06,2023,March,Monday,"Ingredients Cost",277,275,-2,Below_Forecast
+2023-03-06,2023,March,Monday,Labor,151,165,14,Above_Forecast
+2023-03-06,2023,March,Monday,Rent,315,316,1,Above_Forecast
+2023-03-06,2023,March,Monday,Utilities,484,526,42,Above_Forecast
+2023-03-06,2023,March,Monday,Marketing,469,468,-1,Below_Forecast
+2023-03-07,2023,March,Tuesday,"Coffee Sales",872,855,-17,Below_Forecast
+2023-03-07,2023,March,Tuesday,"Food Sales",464,438,-26,Below_Forecast
+2023-03-07,2023,March,Tuesday,"Ingredients Cost",218,217,-1,Below_Forecast
+2023-03-07,2023,March,Tuesday,Labor,445,487,42,Above_Forecast
+2023-03-07,2023,March,Tuesday,Rent,225,245,20,Above_Forecast
+2023-03-07,2023,March,Tuesday,Utilities,169,181,12,Above_Forecast
+2023-03-07,2023,March,Tuesday,Marketing,224,204,-20,Below_Forecast
+2023-03-08,2023,March,Wednesday,"Coffee Sales",695,658,-37,Below_Forecast
+2023-03-08,2023,March,Wednesday,"Food Sales",623,678,55,Above_Forecast
+2023-03-08,2023,March,Wednesday,"Ingredients Cost",320,321,1,Above_Forecast
+2023-03-08,2023,March,Wednesday,Labor,335,303,-32,Below_Forecast
+2023-03-08,2023,March,Wednesday,Rent,408,414,6,Above_Forecast
+2023-03-08,2023,March,Wednesday,Utilities,401,387,-14,Below_Forecast
+2023-03-08,2023,March,Wednesday,Marketing,492,526,34,Above_Forecast
+2023-03-09,2023,March,Thursday,"Coffee Sales",807,749,-58,Below_Forecast
+2023-03-09,2023,March,Thursday,"Food Sales",307,323,16,Above_Forecast
+2023-03-09,2023,March,Thursday,"Ingredients Cost",398,404,6,Above_Forecast
+2023-03-09,2023,March,Thursday,Labor,205,190,-15,Below_Forecast
+2023-03-09,2023,March,Thursday,Rent,363,384,21,Above_Forecast
+2023-03-09,2023,March,Thursday,Utilities,151,158,7,Above_Forecast
+2023-03-09,2023,March,Thursday,Marketing,107,110,3,Above_Forecast
+2023-03-10,2023,March,Friday,"Coffee Sales",305,294,-11,Below_Forecast
+2023-03-10,2023,March,Friday,"Food Sales",809,838,29,Above_Forecast
+2023-03-10,2023,March,Friday,"Ingredients Cost",183,193,10,Above_Forecast
+2023-03-10,2023,March,Friday,Labor,446,415,-31,Below_Forecast
+2023-03-10,2023,March,Friday,Rent,376,399,23,Above_Forecast
+2023-03-10,2023,March,Friday,Utilities,272,246,-26,Below_Forecast
+2023-03-10,2023,March,Friday,Marketing,499,509,10,Above_Forecast
+2023-03-11,2023,March,Saturday,"Coffee Sales",910,921,11,Above_Forecast
+2023-03-11,2023,March,Saturday,"Food Sales",378,359,-19,Below_Forecast
+2023-03-11,2023,March,Saturday,"Ingredients Cost",231,232,1,Above_Forecast
+2023-03-11,2023,March,Saturday,Labor,239,258,19,Above_Forecast
+2023-03-11,2023,March,Saturday,Rent,290,262,-28,Below_Forecast
+2023-03-11,2023,March,Saturday,Utilities,329,322,-7,Below_Forecast
+2023-03-11,2023,March,Saturday,Marketing,103,98,-5,Below_Forecast
+2023-03-12,2023,March,Sunday,"Coffee Sales",416,408,-8,Below_Forecast
+2023-03-12,2023,March,Sunday,"Food Sales",938,965,27,Above_Forecast
+2023-03-12,2023,March,Sunday,"Ingredients Cost",469,501,32,Above_Forecast
+2023-03-12,2023,March,Sunday,Labor,152,151,-1,Below_Forecast
+2023-03-12,2023,March,Sunday,Rent,269,261,-8,Below_Forecast
+2023-03-12,2023,March,Sunday,Utilities,357,331,-26,Below_Forecast
+2023-03-12,2023,March,Sunday,Marketing,425,402,-23,Below_Forecast
+2023-03-13,2023,March,Monday,"Coffee Sales",496,499,3,Above_Forecast
+2023-03-13,2023,March,Monday,"Food Sales",693,738,45,Above_Forecast
+2023-03-13,2023,March,Monday,"Ingredients Cost",416,405,-11,Below_Forecast
+2023-03-13,2023,March,Monday,Labor,128,138,10,Above_Forecast
+2023-03-13,2023,March,Monday,Rent,222,233,11,Above_Forecast
+2023-03-13,2023,March,Monday,Utilities,214,193,-21,Below_Forecast
+2023-03-13,2023,March,Monday,Marketing,206,189,-17,Below_Forecast
+2023-03-14,2023,March,Tuesday,"Coffee Sales",978,1066,88,Above_Forecast
+2023-03-14,2023,March,Tuesday,"Food Sales",626,597,-29,Below_Forecast
+2023-03-14,2023,March,Tuesday,"Ingredients Cost",364,346,-18,Below_Forecast
+2023-03-14,2023,March,Tuesday,Labor,170,184,14,Above_Forecast
+2023-03-14,2023,March,Tuesday,Rent,249,261,12,Above_Forecast
+2023-03-14,2023,March,Tuesday,Utilities,203,207,4,Above_Forecast
+2023-03-14,2023,March,Tuesday,Marketing,353,362,9,Above_Forecast
+2023-03-15,2023,March,Wednesday,"Coffee Sales",522,559,37,Above_Forecast
+2023-03-15,2023,March,Wednesday,"Food Sales",880,837,-43,Below_Forecast
+2023-03-15,2023,March,Wednesday,"Ingredients Cost",269,252,-17,Below_Forecast
+2023-03-15,2023,March,Wednesday,Labor,411,418,7,Above_Forecast
+2023-03-15,2023,March,Wednesday,Rent,155,142,-13,Below_Forecast
+2023-03-15,2023,March,Wednesday,Utilities,490,461,-29,Below_Forecast
+2023-03-15,2023,March,Wednesday,Marketing,216,204,-12,Below_Forecast
+2023-03-16,2023,March,Thursday,"Coffee Sales",741,774,33,Above_Forecast
+2023-03-16,2023,March,Thursday,"Food Sales",233,241,8,Above_Forecast
+2023-03-16,2023,March,Thursday,"Ingredients Cost",161,175,14,Above_Forecast
+2023-03-16,2023,March,Thursday,Labor,286,313,27,Above_Forecast
+2023-03-16,2023,March,Thursday,Rent,365,348,-17,Below_Forecast
+2023-03-16,2023,March,Thursday,Utilities,242,250,8,Above_Forecast
+2023-03-16,2023,March,Thursday,Marketing,106,99,-7,Below_Forecast
+2023-03-17,2023,March,Friday,"Coffee Sales",241,263,22,Above_Forecast
+2023-03-17,2023,March,Friday,"Food Sales",958,1027,69,Above_Forecast
+2023-03-17,2023,March,Friday,"Ingredients Cost",200,195,-5,Below_Forecast
+2023-03-17,2023,March,Friday,Labor,414,449,35,Above_Forecast
+2023-03-17,2023,March,Friday,Rent,201,206,5,Above_Forecast
+2023-03-17,2023,March,Friday,Utilities,290,265,-25,Below_Forecast
+2023-03-17,2023,March,Friday,Marketing,146,155,9,Above_Forecast
+2023-03-18,2023,March,Saturday,"Coffee Sales",464,425,-39,Below_Forecast
+2023-03-18,2023,March,Saturday,"Food Sales",637,696,59,Above_Forecast
+2023-03-18,2023,March,Saturday,"Ingredients Cost",328,346,18,Above_Forecast
+2023-03-18,2023,March,Saturday,Labor,198,215,17,Above_Forecast
+2023-03-18,2023,March,Saturday,Rent,214,203,-11,Below_Forecast
+2023-03-18,2023,March,Saturday,Utilities,161,154,-7,Below_Forecast
+2023-03-18,2023,March,Saturday,Marketing,371,388,17,Above_Forecast
+2023-03-19,2023,March,Sunday,"Coffee Sales",842,773,-69,Below_Forecast
+2023-03-19,2023,March,Sunday,"Food Sales",358,365,7,Above_Forecast
+2023-03-19,2023,March,Sunday,"Ingredients Cost",308,288,-20,Below_Forecast
+2023-03-19,2023,March,Sunday,Labor,179,178,-1,Below_Forecast
+2023-03-19,2023,March,Sunday,Rent,103,110,7,Above_Forecast
+2023-03-19,2023,March,Sunday,Utilities,213,213,0,Above_Forecast
+2023-03-19,2023,March,Sunday,Marketing,408,403,-5,Below_Forecast
+2023-03-20,2023,March,Monday,"Coffee Sales",347,380,33,Above_Forecast
+2023-03-20,2023,March,Monday,"Food Sales",751,695,-56,Below_Forecast
+2023-03-20,2023,March,Monday,"Ingredients Cost",154,151,-3,Below_Forecast
+2023-03-20,2023,March,Monday,Labor,128,133,5,Above_Forecast
+2023-03-20,2023,March,Monday,Rent,397,418,21,Above_Forecast
+2023-03-20,2023,March,Monday,Utilities,258,233,-25,Below_Forecast
+2023-03-20,2023,March,Monday,Marketing,168,182,14,Above_Forecast
+2023-03-21,2023,March,Tuesday,"Coffee Sales",241,254,13,Above_Forecast
+2023-03-21,2023,March,Tuesday,"Food Sales",712,677,-35,Below_Forecast
+2023-03-21,2023,March,Tuesday,"Ingredients Cost",484,512,28,Above_Forecast
+2023-03-21,2023,March,Tuesday,Labor,469,499,30,Above_Forecast
+2023-03-21,2023,March,Tuesday,Rent,188,197,9,Above_Forecast
+2023-03-21,2023,March,Tuesday,Utilities,362,385,23,Above_Forecast
+2023-03-21,2023,March,Tuesday,Marketing,431,407,-24,Below_Forecast
+2023-03-22,2023,March,Wednesday,"Coffee Sales",821,852,31,Above_Forecast
+2023-03-22,2023,March,Wednesday,"Food Sales",918,995,77,Above_Forecast
+2023-03-22,2023,March,Wednesday,"Ingredients Cost",181,189,8,Above_Forecast
+2023-03-22,2023,March,Wednesday,Labor,357,332,-25,Below_Forecast
+2023-03-22,2023,March,Wednesday,Rent,373,356,-17,Below_Forecast
+2023-03-22,2023,March,Wednesday,Utilities,152,141,-11,Below_Forecast
+2023-03-22,2023,March,Wednesday,Marketing,225,244,19,Above_Forecast
+2023-03-23,2023,March,Thursday,"Coffee Sales",974,1050,76,Above_Forecast
+2023-03-23,2023,March,Thursday,"Food Sales",867,810,-57,Below_Forecast
+2023-03-23,2023,March,Thursday,"Ingredients Cost",458,434,-24,Below_Forecast
+2023-03-23,2023,March,Thursday,Labor,151,152,1,Above_Forecast
+2023-03-23,2023,March,Thursday,Rent,453,442,-11,Below_Forecast
+2023-03-23,2023,March,Thursday,Utilities,156,162,6,Above_Forecast
+2023-03-23,2023,March,Thursday,Marketing,242,229,-13,Below_Forecast
+2023-03-24,2023,March,Friday,"Coffee Sales",254,245,-9,Below_Forecast
+2023-03-24,2023,March,Friday,"Food Sales",871,945,74,Above_Forecast
+2023-03-24,2023,March,Friday,"Ingredients Cost",391,415,24,Above_Forecast
+2023-03-24,2023,March,Friday,Labor,405,426,21,Above_Forecast
+2023-03-24,2023,March,Friday,Rent,486,488,2,Above_Forecast
+2023-03-24,2023,March,Friday,Utilities,192,208,16,Above_Forecast
+2023-03-24,2023,March,Friday,Marketing,251,242,-9,Below_Forecast
+2023-03-25,2023,March,Saturday,"Coffee Sales",515,553,38,Above_Forecast
+2023-03-25,2023,March,Saturday,"Food Sales",388,355,-33,Below_Forecast
+2023-03-25,2023,March,Saturday,"Ingredients Cost",178,174,-4,Below_Forecast
+2023-03-25,2023,March,Saturday,Labor,308,305,-3,Below_Forecast
+2023-03-25,2023,March,Saturday,Rent,306,334,28,Above_Forecast
+2023-03-25,2023,March,Saturday,Utilities,357,326,-31,Below_Forecast
+2023-03-25,2023,March,Saturday,Marketing,199,184,-15,Below_Forecast
+2023-03-26,2023,March,Sunday,"Coffee Sales",586,562,-24,Below_Forecast
+2023-03-26,2023,March,Sunday,"Food Sales",666,692,26,Above_Forecast
+2023-03-26,2023,March,Sunday,"Ingredients Cost",391,384,-7,Below_Forecast
+2023-03-26,2023,March,Sunday,Labor,253,229,-24,Below_Forecast
+2023-03-26,2023,March,Sunday,Rent,416,436,20,Above_Forecast
+2023-03-26,2023,March,Sunday,Utilities,221,205,-16,Below_Forecast
+2023-03-26,2023,March,Sunday,Marketing,105,109,4,Above_Forecast
+2023-03-27,2023,March,Monday,"Coffee Sales",235,222,-13,Below_Forecast
+2023-03-27,2023,March,Monday,"Food Sales",432,455,23,Above_Forecast
+2023-03-27,2023,March,Monday,"Ingredients Cost",146,151,5,Above_Forecast
+2023-03-27,2023,March,Monday,Labor,352,386,34,Above_Forecast
+2023-03-27,2023,March,Monday,Rent,461,442,-19,Below_Forecast
+2023-03-27,2023,March,Monday,Utilities,124,136,12,Above_Forecast
+2023-03-27,2023,March,Monday,Marketing,338,344,6,Above_Forecast
+2023-03-28,2023,March,Tuesday,"Coffee Sales",951,1006,55,Above_Forecast
+2023-03-28,2023,March,Tuesday,"Food Sales",779,798,19,Above_Forecast
+2023-03-28,2023,March,Tuesday,"Ingredients Cost",413,397,-16,Below_Forecast
+2023-03-28,2023,March,Tuesday,Labor,473,467,-6,Below_Forecast
+2023-03-28,2023,March,Tuesday,Rent,261,237,-24,Below_Forecast
+2023-03-28,2023,March,Tuesday,Utilities,401,381,-20,Below_Forecast
+2023-03-28,2023,March,Tuesday,Marketing,373,388,15,Above_Forecast
+2023-03-29,2023,March,Wednesday,"Coffee Sales",754,685,-69,Below_Forecast
+2023-03-29,2023,March,Wednesday,"Food Sales",747,760,13,Above_Forecast
+2023-03-29,2023,March,Wednesday,"Ingredients Cost",200,180,-20,Below_Forecast
+2023-03-29,2023,March,Wednesday,Labor,141,145,4,Above_Forecast
+2023-03-29,2023,March,Wednesday,Rent,278,259,-19,Below_Forecast
+2023-03-29,2023,March,Wednesday,Utilities,488,463,-25,Below_Forecast
+2023-03-29,2023,March,Wednesday,Marketing,293,294,1,Above_Forecast
+2023-03-30,2023,March,Thursday,"Coffee Sales",874,800,-74,Below_Forecast
+2023-03-30,2023,March,Thursday,"Food Sales",824,741,-83,Below_Forecast
+2023-03-30,2023,March,Thursday,"Ingredients Cost",194,208,14,Above_Forecast
+2023-03-30,2023,March,Thursday,Labor,399,434,35,Above_Forecast
+2023-03-30,2023,March,Thursday,Rent,495,528,33,Above_Forecast
+2023-03-30,2023,March,Thursday,Utilities,405,373,-32,Below_Forecast
+2023-03-30,2023,March,Thursday,Marketing,122,111,-11,Below_Forecast
+2023-03-31,2023,March,Friday,"Coffee Sales",923,968,45,Above_Forecast
+2023-03-31,2023,March,Friday,"Food Sales",256,271,15,Above_Forecast
+2023-03-31,2023,March,Friday,"Ingredients Cost",181,191,10,Above_Forecast
+2023-03-31,2023,March,Friday,Labor,307,324,17,Above_Forecast
+2023-03-31,2023,March,Friday,Rent,157,156,-1,Below_Forecast
+2023-03-31,2023,March,Friday,Utilities,491,486,-5,Below_Forecast
+2023-03-31,2023,March,Friday,Marketing,338,348,10,Above_Forecast
+2023-04-01,2023,April,Saturday,"Coffee Sales",598,563,-35,Below_Forecast
+2023-04-01,2023,April,Saturday,"Food Sales",602,597,-5,Below_Forecast
+2023-04-01,2023,April,Saturday,"Ingredients Cost",217,214,-3,Below_Forecast
+2023-04-01,2023,April,Saturday,Labor,141,130,-11,Below_Forecast
+2023-04-01,2023,April,Saturday,Rent,481,499,18,Above_Forecast
+2023-04-01,2023,April,Saturday,Utilities,455,471,16,Above_Forecast
+2023-04-01,2023,April,Saturday,Marketing,259,260,1,Above_Forecast
+2023-04-02,2023,April,Sunday,"Coffee Sales",289,294,5,Above_Forecast
+2023-04-02,2023,April,Sunday,"Food Sales",565,582,17,Above_Forecast
+2023-04-02,2023,April,Sunday,"Ingredients Cost",268,250,-18,Below_Forecast
+2023-04-02,2023,April,Sunday,Labor,355,336,-19,Below_Forecast
+2023-04-02,2023,April,Sunday,Rent,485,460,-25,Below_Forecast
+2023-04-02,2023,April,Sunday,Utilities,301,276,-25,Below_Forecast
+2023-04-02,2023,April,Sunday,Marketing,229,250,21,Above_Forecast
+2023-04-03,2023,April,Monday,"Coffee Sales",221,239,18,Above_Forecast
+2023-04-03,2023,April,Monday,"Food Sales",845,781,-64,Below_Forecast
+2023-04-03,2023,April,Monday,"Ingredients Cost",214,232,18,Above_Forecast
+2023-04-03,2023,April,Monday,Labor,173,171,-2,Below_Forecast
+2023-04-03,2023,April,Monday,Rent,304,279,-25,Below_Forecast
+2023-04-03,2023,April,Monday,Utilities,117,123,6,Above_Forecast
+2023-04-03,2023,April,Monday,Marketing,165,150,-15,Below_Forecast
+2023-04-04,2023,April,Tuesday,"Coffee Sales",582,559,-23,Below_Forecast
+2023-04-04,2023,April,Tuesday,"Food Sales",816,768,-48,Below_Forecast
+2023-04-04,2023,April,Tuesday,"Ingredients Cost",339,370,31,Above_Forecast
+2023-04-04,2023,April,Tuesday,Labor,133,127,-6,Below_Forecast
+2023-04-04,2023,April,Tuesday,Rent,123,131,8,Above_Forecast
+2023-04-04,2023,April,Tuesday,Utilities,471,481,10,Above_Forecast
+2023-04-04,2023,April,Tuesday,Marketing,254,229,-25,Below_Forecast
+2023-04-05,2023,April,Wednesday,"Coffee Sales",652,654,2,Above_Forecast
+2023-04-05,2023,April,Wednesday,"Food Sales",899,916,17,Above_Forecast
+2023-04-05,2023,April,Wednesday,"Ingredients Cost",233,237,4,Above_Forecast
+2023-04-05,2023,April,Wednesday,Labor,199,196,-3,Below_Forecast
+2023-04-05,2023,April,Wednesday,Rent,431,448,17,Above_Forecast
+2023-04-05,2023,April,Wednesday,Utilities,185,167,-18,Below_Forecast
+2023-04-05,2023,April,Wednesday,Marketing,464,451,-13,Below_Forecast
+2023-04-06,2023,April,Thursday,"Coffee Sales",977,882,-95,Below_Forecast
+2023-04-06,2023,April,Thursday,"Food Sales",889,841,-48,Below_Forecast
+2023-04-06,2023,April,Thursday,"Ingredients Cost",395,416,21,Above_Forecast
+2023-04-06,2023,April,Thursday,Labor,381,389,8,Above_Forecast
+2023-04-06,2023,April,Thursday,Rent,350,357,7,Above_Forecast
+2023-04-06,2023,April,Thursday,Utilities,417,422,5,Above_Forecast
+2023-04-06,2023,April,Thursday,Marketing,112,113,1,Above_Forecast
+2023-04-07,2023,April,Friday,"Coffee Sales",932,872,-60,Below_Forecast
+2023-04-07,2023,April,Friday,"Food Sales",863,786,-77,Below_Forecast
+2023-04-07,2023,April,Friday,"Ingredients Cost",468,491,23,Above_Forecast
+2023-04-07,2023,April,Friday,Labor,128,136,8,Above_Forecast
+2023-04-07,2023,April,Friday,Rent,393,378,-15,Below_Forecast
+2023-04-07,2023,April,Friday,Utilities,169,165,-4,Below_Forecast
+2023-04-07,2023,April,Friday,Marketing,271,248,-23,Below_Forecast
+2023-04-08,2023,April,Saturday,"Coffee Sales",921,872,-49,Below_Forecast
+2023-04-08,2023,April,Saturday,"Food Sales",228,242,14,Above_Forecast
+2023-04-08,2023,April,Saturday,"Ingredients Cost",315,298,-17,Below_Forecast
+2023-04-08,2023,April,Saturday,Labor,144,151,7,Above_Forecast
+2023-04-08,2023,April,Saturday,Rent,141,134,-7,Below_Forecast
+2023-04-08,2023,April,Saturday,Utilities,103,94,-9,Below_Forecast
+2023-04-08,2023,April,Saturday,Marketing,243,237,-6,Below_Forecast
+2023-04-09,2023,April,Sunday,"Coffee Sales",599,648,49,Above_Forecast
+2023-04-09,2023,April,Sunday,"Food Sales",813,787,-26,Below_Forecast
+2023-04-09,2023,April,Sunday,"Ingredients Cost",239,259,20,Above_Forecast
+2023-04-09,2023,April,Sunday,Labor,277,285,8,Above_Forecast
+2023-04-09,2023,April,Sunday,Rent,420,428,8,Above_Forecast
+2023-04-09,2023,April,Sunday,Utilities,401,373,-28,Below_Forecast
+2023-04-09,2023,April,Sunday,Marketing,109,119,10,Above_Forecast
+2023-04-10,2023,April,Monday,"Coffee Sales",679,711,32,Above_Forecast
+2023-04-10,2023,April,Monday,"Food Sales",628,612,-16,Below_Forecast
+2023-04-10,2023,April,Monday,"Ingredients Cost",298,326,28,Above_Forecast
+2023-04-10,2023,April,Monday,Labor,298,271,-27,Below_Forecast
+2023-04-10,2023,April,Monday,Rent,366,393,27,Above_Forecast
+2023-04-10,2023,April,Monday,Utilities,152,154,2,Above_Forecast
+2023-04-10,2023,April,Monday,Marketing,433,466,33,Above_Forecast
+2023-04-11,2023,April,Tuesday,"Coffee Sales",223,222,-1,Below_Forecast
+2023-04-11,2023,April,Tuesday,"Food Sales",360,356,-4,Below_Forecast
+2023-04-11,2023,April,Tuesday,"Ingredients Cost",362,336,-26,Below_Forecast
+2023-04-11,2023,April,Tuesday,Labor,431,437,6,Above_Forecast
+2023-04-11,2023,April,Tuesday,Rent,252,261,9,Above_Forecast
+2023-04-11,2023,April,Tuesday,Utilities,196,212,16,Above_Forecast
+2023-04-11,2023,April,Tuesday,Marketing,111,110,-1,Below_Forecast
+2023-04-12,2023,April,Wednesday,"Coffee Sales",573,620,47,Above_Forecast
+2023-04-12,2023,April,Wednesday,"Food Sales",298,323,25,Above_Forecast
+2023-04-12,2023,April,Wednesday,"Ingredients Cost",246,239,-7,Below_Forecast
+2023-04-12,2023,April,Wednesday,Labor,314,303,-11,Below_Forecast
+2023-04-12,2023,April,Wednesday,Rent,176,158,-18,Below_Forecast
+2023-04-12,2023,April,Wednesday,Utilities,433,409,-24,Below_Forecast
+2023-04-12,2023,April,Wednesday,Marketing,158,165,7,Above_Forecast
+2023-04-13,2023,April,Thursday,"Coffee Sales",532,527,-5,Below_Forecast
+2023-04-13,2023,April,Thursday,"Food Sales",292,295,3,Above_Forecast
+2023-04-13,2023,April,Thursday,"Ingredients Cost",158,152,-6,Below_Forecast
+2023-04-13,2023,April,Thursday,Labor,170,175,5,Above_Forecast
+2023-04-13,2023,April,Thursday,Rent,226,206,-20,Below_Forecast
+2023-04-13,2023,April,Thursday,Utilities,187,187,0,Above_Forecast
+2023-04-13,2023,April,Thursday,Marketing,210,224,14,Above_Forecast
+2023-04-14,2023,April,Friday,"Coffee Sales",349,362,13,Above_Forecast
+2023-04-14,2023,April,Friday,"Food Sales",519,526,7,Above_Forecast
+2023-04-14,2023,April,Friday,"Ingredients Cost",279,283,4,Above_Forecast
+2023-04-14,2023,April,Friday,Labor,301,307,6,Above_Forecast
+2023-04-14,2023,April,Friday,Rent,336,362,26,Above_Forecast
+2023-04-14,2023,April,Friday,Utilities,289,303,14,Above_Forecast
+2023-04-14,2023,April,Friday,Marketing,173,175,2,Above_Forecast
+2023-04-15,2023,April,Saturday,"Coffee Sales",751,755,4,Above_Forecast
+2023-04-15,2023,April,Saturday,"Food Sales",461,474,13,Above_Forecast
+2023-04-15,2023,April,Saturday,"Ingredients Cost",307,297,-10,Below_Forecast
+2023-04-15,2023,April,Saturday,Labor,246,231,-15,Below_Forecast
+2023-04-15,2023,April,Saturday,Rent,366,377,11,Above_Forecast
+2023-04-15,2023,April,Saturday,Utilities,137,130,-7,Below_Forecast
+2023-04-15,2023,April,Saturday,Marketing,293,274,-19,Below_Forecast
+2023-04-16,2023,April,Sunday,"Coffee Sales",906,832,-74,Below_Forecast
+2023-04-16,2023,April,Sunday,"Food Sales",744,766,22,Above_Forecast
+2023-04-16,2023,April,Sunday,"Ingredients Cost",492,465,-27,Below_Forecast
+2023-04-16,2023,April,Sunday,Labor,174,189,15,Above_Forecast
+2023-04-16,2023,April,Sunday,Rent,440,411,-29,Below_Forecast
+2023-04-16,2023,April,Sunday,Utilities,479,522,43,Above_Forecast
+2023-04-16,2023,April,Sunday,Marketing,170,166,-4,Below_Forecast
+2023-04-17,2023,April,Monday,"Coffee Sales",346,355,9,Above_Forecast
+2023-04-17,2023,April,Monday,"Food Sales",583,630,47,Above_Forecast
+2023-04-17,2023,April,Monday,"Ingredients Cost",277,269,-8,Below_Forecast
+2023-04-17,2023,April,Monday,Labor,214,221,7,Above_Forecast
+2023-04-17,2023,April,Monday,Rent,125,130,5,Above_Forecast
+2023-04-17,2023,April,Monday,Utilities,288,282,-6,Below_Forecast
+2023-04-17,2023,April,Monday,Marketing,487,489,2,Above_Forecast
+2023-04-18,2023,April,Tuesday,"Coffee Sales",999,1010,11,Above_Forecast
+2023-04-18,2023,April,Tuesday,"Food Sales",898,809,-89,Below_Forecast
+2023-04-18,2023,April,Tuesday,"Ingredients Cost",152,161,9,Above_Forecast
+2023-04-18,2023,April,Tuesday,Labor,153,139,-14,Below_Forecast
+2023-04-18,2023,April,Tuesday,Rent,389,362,-27,Below_Forecast
+2023-04-18,2023,April,Tuesday,Utilities,319,304,-15,Below_Forecast
+2023-04-18,2023,April,Tuesday,Marketing,217,233,16,Above_Forecast
+2023-04-19,2023,April,Wednesday,"Coffee Sales",720,785,65,Above_Forecast
+2023-04-19,2023,April,Wednesday,"Food Sales",304,310,6,Above_Forecast
+2023-04-19,2023,April,Wednesday,"Ingredients Cost",348,361,13,Above_Forecast
+2023-04-19,2023,April,Wednesday,Labor,301,292,-9,Below_Forecast
+2023-04-19,2023,April,Wednesday,Rent,337,345,8,Above_Forecast
+2023-04-19,2023,April,Wednesday,Utilities,154,168,14,Above_Forecast
+2023-04-19,2023,April,Wednesday,Marketing,178,161,-17,Below_Forecast
+2023-04-20,2023,April,Thursday,"Coffee Sales",396,435,39,Above_Forecast
+2023-04-20,2023,April,Thursday,"Food Sales",680,737,57,Above_Forecast
+2023-04-20,2023,April,Thursday,"Ingredients Cost",289,299,10,Above_Forecast
+2023-04-20,2023,April,Thursday,Labor,106,98,-8,Below_Forecast
+2023-04-20,2023,April,Thursday,Rent,144,132,-12,Below_Forecast
+2023-04-20,2023,April,Thursday,Utilities,144,155,11,Above_Forecast
+2023-04-20,2023,April,Thursday,Marketing,270,252,-18,Below_Forecast
+2023-04-21,2023,April,Friday,"Coffee Sales",887,947,60,Above_Forecast
+2023-04-21,2023,April,Friday,"Food Sales",815,805,-10,Below_Forecast
+2023-04-21,2023,April,Friday,"Ingredients Cost",209,226,17,Above_Forecast
+2023-04-21,2023,April,Friday,Labor,470,464,-6,Below_Forecast
+2023-04-21,2023,April,Friday,Rent,248,262,14,Above_Forecast
+2023-04-21,2023,April,Friday,Utilities,323,290,-33,Below_Forecast
+2023-04-21,2023,April,Friday,Marketing,260,277,17,Above_Forecast
+2023-04-22,2023,April,Saturday,"Coffee Sales",714,747,33,Above_Forecast
+2023-04-22,2023,April,Saturday,"Food Sales",618,628,10,Above_Forecast
+2023-04-22,2023,April,Saturday,"Ingredients Cost",409,389,-20,Below_Forecast
+2023-04-22,2023,April,Saturday,Labor,170,186,16,Above_Forecast
+2023-04-22,2023,April,Saturday,Rent,127,132,5,Above_Forecast
+2023-04-22,2023,April,Saturday,Utilities,333,322,-11,Below_Forecast
+2023-04-22,2023,April,Saturday,Marketing,239,220,-19,Below_Forecast
+2023-04-23,2023,April,Sunday,"Coffee Sales",416,426,10,Above_Forecast
+2023-04-23,2023,April,Sunday,"Food Sales",282,255,-27,Below_Forecast
+2023-04-23,2023,April,Sunday,"Ingredients Cost",106,102,-4,Below_Forecast
+2023-04-23,2023,April,Sunday,Labor,177,160,-17,Below_Forecast
+2023-04-23,2023,April,Sunday,Rent,372,374,2,Above_Forecast
+2023-04-23,2023,April,Sunday,Utilities,211,209,-2,Below_Forecast
+2023-04-23,2023,April,Sunday,Marketing,392,359,-33,Below_Forecast
+2023-04-24,2023,April,Monday,"Coffee Sales",330,350,20,Above_Forecast
+2023-04-24,2023,April,Monday,"Food Sales",766,822,56,Above_Forecast
+2023-04-24,2023,April,Monday,"Ingredients Cost",149,162,13,Above_Forecast
+2023-04-24,2023,April,Monday,Labor,185,179,-6,Below_Forecast
+2023-04-24,2023,April,Monday,Rent,279,263,-16,Below_Forecast
+2023-04-24,2023,April,Monday,Utilities,313,335,22,Above_Forecast
+2023-04-24,2023,April,Monday,Marketing,249,234,-15,Below_Forecast
+2023-04-25,2023,April,Tuesday,"Coffee Sales",722,706,-16,Below_Forecast
+2023-04-25,2023,April,Tuesday,"Food Sales",507,502,-5,Below_Forecast
+2023-04-25,2023,April,Tuesday,"Ingredients Cost",312,285,-27,Below_Forecast
+2023-04-25,2023,April,Tuesday,Labor,303,315,12,Above_Forecast
+2023-04-25,2023,April,Tuesday,Rent,432,393,-39,Below_Forecast
+2023-04-25,2023,April,Tuesday,Utilities,495,516,21,Above_Forecast
+2023-04-25,2023,April,Tuesday,Marketing,317,343,26,Above_Forecast
+2023-04-26,2023,April,Wednesday,"Coffee Sales",981,898,-83,Below_Forecast
+2023-04-26,2023,April,Wednesday,"Food Sales",406,395,-11,Below_Forecast
+2023-04-26,2023,April,Wednesday,"Ingredients Cost",202,192,-10,Below_Forecast
+2023-04-26,2023,April,Wednesday,Labor,290,269,-21,Below_Forecast
+2023-04-26,2023,April,Wednesday,Rent,461,459,-2,Below_Forecast
+2023-04-26,2023,April,Wednesday,Utilities,437,447,10,Above_Forecast
+2023-04-26,2023,April,Wednesday,Marketing,438,438,0,Above_Forecast
+2023-04-27,2023,April,Thursday,"Coffee Sales",686,639,-47,Below_Forecast
+2023-04-27,2023,April,Thursday,"Food Sales",589,627,38,Above_Forecast
+2023-04-27,2023,April,Thursday,"Ingredients Cost",190,204,14,Above_Forecast
+2023-04-27,2023,April,Thursday,Labor,337,358,21,Above_Forecast
+2023-04-27,2023,April,Thursday,Rent,108,107,-1,Below_Forecast
+2023-04-27,2023,April,Thursday,Utilities,241,254,13,Above_Forecast
+2023-04-27,2023,April,Thursday,Marketing,407,426,19,Above_Forecast
+2023-04-28,2023,April,Friday,"Coffee Sales",914,908,-6,Below_Forecast
+2023-04-28,2023,April,Friday,"Food Sales",874,880,6,Above_Forecast
+2023-04-28,2023,April,Friday,"Ingredients Cost",273,291,18,Above_Forecast
+2023-04-28,2023,April,Friday,Labor,115,113,-2,Below_Forecast
+2023-04-28,2023,April,Friday,Rent,339,309,-30,Below_Forecast
+2023-04-28,2023,April,Friday,Utilities,199,206,7,Above_Forecast
+2023-04-28,2023,April,Friday,Marketing,321,324,3,Above_Forecast
+2023-04-29,2023,April,Saturday,"Coffee Sales",598,644,46,Above_Forecast
+2023-04-29,2023,April,Saturday,"Food Sales",807,780,-27,Below_Forecast
+2023-04-29,2023,April,Saturday,"Ingredients Cost",298,309,11,Above_Forecast
+2023-04-29,2023,April,Saturday,Labor,311,341,30,Above_Forecast
+2023-04-29,2023,April,Saturday,Rent,487,439,-48,Below_Forecast
+2023-04-29,2023,April,Saturday,Utilities,176,180,4,Above_Forecast
+2023-04-29,2023,April,Saturday,Marketing,457,459,2,Above_Forecast
+2023-04-30,2023,April,Sunday,"Coffee Sales",483,477,-6,Below_Forecast
+2023-04-30,2023,April,Sunday,"Food Sales",717,757,40,Above_Forecast
+2023-04-30,2023,April,Sunday,"Ingredients Cost",158,150,-8,Below_Forecast
+2023-04-30,2023,April,Sunday,Labor,170,174,4,Above_Forecast
+2023-04-30,2023,April,Sunday,Rent,115,104,-11,Below_Forecast
+2023-04-30,2023,April,Sunday,Utilities,401,371,-30,Below_Forecast
+2023-04-30,2023,April,Sunday,Marketing,301,274,-27,Below_Forecast
+2023-05-01,2023,May,Monday,"Coffee Sales",833,794,-39,Below_Forecast
+2023-05-01,2023,May,Monday,"Food Sales",445,486,41,Above_Forecast
+2023-05-01,2023,May,Monday,"Ingredients Cost",123,131,8,Above_Forecast
+2023-05-01,2023,May,Monday,Labor,462,486,24,Above_Forecast
+2023-05-01,2023,May,Monday,Rent,161,148,-13,Below_Forecast
+2023-05-01,2023,May,Monday,Utilities,487,454,-33,Below_Forecast
+2023-05-01,2023,May,Monday,Marketing,154,152,-2,Below_Forecast
+2023-05-02,2023,May,Tuesday,"Coffee Sales",639,626,-13,Below_Forecast
+2023-05-02,2023,May,Tuesday,"Food Sales",635,656,21,Above_Forecast
+2023-05-02,2023,May,Tuesday,"Ingredients Cost",422,437,15,Above_Forecast
+2023-05-02,2023,May,Tuesday,Labor,234,232,-2,Below_Forecast
+2023-05-02,2023,May,Tuesday,Rent,214,227,13,Above_Forecast
+2023-05-02,2023,May,Tuesday,Utilities,260,277,17,Above_Forecast
+2023-05-02,2023,May,Tuesday,Marketing,462,459,-3,Below_Forecast
+2023-05-03,2023,May,Wednesday,"Coffee Sales",593,556,-37,Below_Forecast
+2023-05-03,2023,May,Wednesday,"Food Sales",471,459,-12,Below_Forecast
+2023-05-03,2023,May,Wednesday,"Ingredients Cost",236,254,18,Above_Forecast
+2023-05-03,2023,May,Wednesday,Labor,448,431,-17,Below_Forecast
+2023-05-03,2023,May,Wednesday,Rent,138,149,11,Above_Forecast
+2023-05-03,2023,May,Wednesday,Utilities,493,537,44,Above_Forecast
+2023-05-03,2023,May,Wednesday,Marketing,487,438,-49,Below_Forecast
+2023-05-04,2023,May,Thursday,"Coffee Sales",322,293,-29,Below_Forecast
+2023-05-04,2023,May,Thursday,"Food Sales",908,841,-67,Below_Forecast
+2023-05-04,2023,May,Thursday,"Ingredients Cost",138,139,1,Above_Forecast
+2023-05-04,2023,May,Thursday,Labor,334,302,-32,Below_Forecast
+2023-05-04,2023,May,Thursday,Rent,358,322,-36,Below_Forecast
+2023-05-04,2023,May,Thursday,Utilities,144,151,7,Above_Forecast
+2023-05-04,2023,May,Thursday,Marketing,437,426,-11,Below_Forecast
+2023-05-05,2023,May,Friday,"Coffee Sales",348,332,-16,Below_Forecast
+2023-05-05,2023,May,Friday,"Food Sales",505,456,-49,Below_Forecast
+2023-05-05,2023,May,Friday,"Ingredients Cost",380,357,-23,Below_Forecast
+2023-05-05,2023,May,Friday,Labor,191,192,1,Above_Forecast
+2023-05-05,2023,May,Friday,Rent,277,280,3,Above_Forecast
+2023-05-05,2023,May,Friday,Utilities,435,395,-40,Below_Forecast
+2023-05-05,2023,May,Friday,Marketing,133,124,-9,Below_Forecast
+2023-05-06,2023,May,Saturday,"Coffee Sales",331,341,10,Above_Forecast
+2023-05-06,2023,May,Saturday,"Food Sales",388,421,33,Above_Forecast
+2023-05-06,2023,May,Saturday,"Ingredients Cost",364,396,32,Above_Forecast
+2023-05-06,2023,May,Saturday,Labor,115,124,9,Above_Forecast
+2023-05-06,2023,May,Saturday,Rent,295,310,15,Above_Forecast
+2023-05-06,2023,May,Saturday,Utilities,166,176,10,Above_Forecast
+2023-05-06,2023,May,Saturday,Marketing,163,168,5,Above_Forecast
+2023-05-07,2023,May,Sunday,"Coffee Sales",535,485,-50,Below_Forecast
+2023-05-07,2023,May,Sunday,"Food Sales",917,930,13,Above_Forecast
+2023-05-07,2023,May,Sunday,"Ingredients Cost",244,225,-19,Below_Forecast
+2023-05-07,2023,May,Sunday,Labor,304,276,-28,Below_Forecast
+2023-05-07,2023,May,Sunday,Rent,494,514,20,Above_Forecast
+2023-05-07,2023,May,Sunday,Utilities,311,330,19,Above_Forecast
+2023-05-07,2023,May,Sunday,Marketing,220,202,-18,Below_Forecast
+2023-05-08,2023,May,Monday,"Coffee Sales",275,278,3,Above_Forecast
+2023-05-08,2023,May,Monday,"Food Sales",952,949,-3,Below_Forecast
+2023-05-08,2023,May,Monday,"Ingredients Cost",245,258,13,Above_Forecast
+2023-05-08,2023,May,Monday,Labor,106,108,2,Above_Forecast
+2023-05-08,2023,May,Monday,Rent,277,271,-6,Below_Forecast
+2023-05-08,2023,May,Monday,Utilities,254,272,18,Above_Forecast
+2023-05-08,2023,May,Monday,Marketing,142,148,6,Above_Forecast
+2023-05-09,2023,May,Tuesday,"Coffee Sales",297,286,-11,Below_Forecast
+2023-05-09,2023,May,Tuesday,"Food Sales",950,864,-86,Below_Forecast
+2023-05-09,2023,May,Tuesday,"Ingredients Cost",226,216,-10,Below_Forecast
+2023-05-09,2023,May,Tuesday,Labor,455,498,43,Above_Forecast
+2023-05-09,2023,May,Tuesday,Rent,258,234,-24,Below_Forecast
+2023-05-09,2023,May,Tuesday,Utilities,181,186,5,Above_Forecast
+2023-05-09,2023,May,Tuesday,Marketing,309,300,-9,Below_Forecast
+2023-05-10,2023,May,Wednesday,"Coffee Sales",809,738,-71,Below_Forecast
+2023-05-10,2023,May,Wednesday,"Food Sales",615,669,54,Above_Forecast
+2023-05-10,2023,May,Wednesday,"Ingredients Cost",172,177,5,Above_Forecast
+2023-05-10,2023,May,Wednesday,Labor,243,219,-24,Below_Forecast
+2023-05-10,2023,May,Wednesday,Rent,297,296,-1,Below_Forecast
+2023-05-10,2023,May,Wednesday,Utilities,127,118,-9,Below_Forecast
+2023-05-10,2023,May,Wednesday,Marketing,427,402,-25,Below_Forecast
+2023-05-11,2023,May,Thursday,"Coffee Sales",976,946,-30,Below_Forecast
+2023-05-11,2023,May,Thursday,"Food Sales",917,963,46,Above_Forecast
+2023-05-11,2023,May,Thursday,"Ingredients Cost",377,341,-36,Below_Forecast
+2023-05-11,2023,May,Thursday,Labor,257,281,24,Above_Forecast
+2023-05-11,2023,May,Thursday,Rent,322,304,-18,Below_Forecast
+2023-05-11,2023,May,Thursday,Utilities,147,141,-6,Below_Forecast
+2023-05-11,2023,May,Thursday,Marketing,137,124,-13,Below_Forecast
+2023-05-12,2023,May,Friday,"Coffee Sales",942,853,-89,Below_Forecast
+2023-05-12,2023,May,Friday,"Food Sales",262,276,14,Above_Forecast
+2023-05-12,2023,May,Friday,"Ingredients Cost",197,179,-18,Below_Forecast
+2023-05-12,2023,May,Friday,Labor,221,206,-15,Below_Forecast
+2023-05-12,2023,May,Friday,Rent,227,249,22,Above_Forecast
+2023-05-12,2023,May,Friday,Utilities,351,380,29,Above_Forecast
+2023-05-12,2023,May,Friday,Marketing,473,515,42,Above_Forecast
+2023-05-13,2023,May,Saturday,"Coffee Sales",815,787,-28,Below_Forecast
+2023-05-13,2023,May,Saturday,"Food Sales",822,795,-27,Below_Forecast
+2023-05-13,2023,May,Saturday,"Ingredients Cost",315,293,-22,Below_Forecast
+2023-05-13,2023,May,Saturday,Labor,406,444,38,Above_Forecast
+2023-05-13,2023,May,Saturday,Rent,121,111,-10,Below_Forecast
+2023-05-13,2023,May,Saturday,Utilities,400,403,3,Above_Forecast
+2023-05-13,2023,May,Saturday,Marketing,452,473,21,Above_Forecast
+2023-05-14,2023,May,Sunday,"Coffee Sales",895,872,-23,Below_Forecast
+2023-05-14,2023,May,Sunday,"Food Sales",808,843,35,Above_Forecast
+2023-05-14,2023,May,Sunday,"Ingredients Cost",340,366,26,Above_Forecast
+2023-05-14,2023,May,Sunday,Labor,103,109,6,Above_Forecast
+2023-05-14,2023,May,Sunday,Rent,472,459,-13,Below_Forecast
+2023-05-14,2023,May,Sunday,Utilities,431,442,11,Above_Forecast
+2023-05-14,2023,May,Sunday,Marketing,380,359,-21,Below_Forecast
+2023-05-15,2023,May,Monday,"Coffee Sales",873,823,-50,Below_Forecast
+2023-05-15,2023,May,Monday,"Food Sales",653,592,-61,Below_Forecast
+2023-05-15,2023,May,Monday,"Ingredients Cost",363,374,11,Above_Forecast
+2023-05-15,2023,May,Monday,Labor,287,314,27,Above_Forecast
+2023-05-15,2023,May,Monday,Rent,155,162,7,Above_Forecast
+2023-05-15,2023,May,Monday,Utilities,120,119,-1,Below_Forecast
+2023-05-15,2023,May,Monday,Marketing,378,369,-9,Below_Forecast
+2023-05-16,2023,May,Tuesday,"Coffee Sales",612,631,19,Above_Forecast
+2023-05-16,2023,May,Tuesday,"Food Sales",666,665,-1,Below_Forecast
+2023-05-16,2023,May,Tuesday,"Ingredients Cost",208,205,-3,Below_Forecast
+2023-05-16,2023,May,Tuesday,Labor,210,230,20,Above_Forecast
+2023-05-16,2023,May,Tuesday,Rent,437,447,10,Above_Forecast
+2023-05-16,2023,May,Tuesday,Utilities,122,121,-1,Below_Forecast
+2023-05-16,2023,May,Tuesday,Marketing,366,373,7,Above_Forecast
+2023-05-17,2023,May,Wednesday,"Coffee Sales",334,310,-24,Below_Forecast
+2023-05-17,2023,May,Wednesday,"Food Sales",485,518,33,Above_Forecast
+2023-05-17,2023,May,Wednesday,"Ingredients Cost",389,400,11,Above_Forecast
+2023-05-17,2023,May,Wednesday,Labor,213,201,-12,Below_Forecast
+2023-05-17,2023,May,Wednesday,Rent,378,377,-1,Below_Forecast
+2023-05-17,2023,May,Wednesday,Utilities,127,135,8,Above_Forecast
+2023-05-17,2023,May,Wednesday,Marketing,302,323,21,Above_Forecast
+2023-05-18,2023,May,Thursday,"Coffee Sales",659,638,-21,Below_Forecast
+2023-05-18,2023,May,Thursday,"Food Sales",478,468,-10,Below_Forecast
+2023-05-18,2023,May,Thursday,"Ingredients Cost",235,225,-10,Below_Forecast
+2023-05-18,2023,May,Thursday,Labor,406,372,-34,Below_Forecast
+2023-05-18,2023,May,Thursday,Rent,157,159,2,Above_Forecast
+2023-05-18,2023,May,Thursday,Utilities,382,393,11,Above_Forecast
+2023-05-18,2023,May,Thursday,Marketing,433,462,29,Above_Forecast
+2023-05-19,2023,May,Friday,"Coffee Sales",446,476,30,Above_Forecast
+2023-05-19,2023,May,Friday,"Food Sales",264,289,25,Above_Forecast
+2023-05-19,2023,May,Friday,"Ingredients Cost",249,250,1,Above_Forecast
+2023-05-19,2023,May,Friday,Labor,244,248,4,Above_Forecast
+2023-05-19,2023,May,Friday,Rent,319,311,-8,Below_Forecast
+2023-05-19,2023,May,Friday,Utilities,465,465,0,Above_Forecast
+2023-05-19,2023,May,Friday,Marketing,217,226,9,Above_Forecast
+2023-05-20,2023,May,Saturday,"Coffee Sales",506,517,11,Above_Forecast
+2023-05-20,2023,May,Saturday,"Food Sales",430,416,-14,Below_Forecast
+2023-05-20,2023,May,Saturday,"Ingredients Cost",238,227,-11,Below_Forecast
+2023-05-20,2023,May,Saturday,Labor,435,441,6,Above_Forecast
+2023-05-20,2023,May,Saturday,Rent,431,409,-22,Below_Forecast
+2023-05-20,2023,May,Saturday,Utilities,209,211,2,Above_Forecast
+2023-05-20,2023,May,Saturday,Marketing,105,113,8,Above_Forecast
+2023-05-21,2023,May,Sunday,"Coffee Sales",645,676,31,Above_Forecast
+2023-05-21,2023,May,Sunday,"Food Sales",435,463,28,Above_Forecast
+2023-05-21,2023,May,Sunday,"Ingredients Cost",286,295,9,Above_Forecast
+2023-05-21,2023,May,Sunday,Labor,101,97,-4,Below_Forecast
+2023-05-21,2023,May,Sunday,Rent,147,155,8,Above_Forecast
+2023-05-21,2023,May,Sunday,Utilities,131,128,-3,Below_Forecast
+2023-05-21,2023,May,Sunday,Marketing,347,380,33,Above_Forecast
+2023-05-22,2023,May,Monday,"Coffee Sales",653,654,1,Above_Forecast
+2023-05-22,2023,May,Monday,"Food Sales",715,747,32,Above_Forecast
+2023-05-22,2023,May,Monday,"Ingredients Cost",410,380,-30,Below_Forecast
+2023-05-22,2023,May,Monday,Labor,226,235,9,Above_Forecast
+2023-05-22,2023,May,Monday,Rent,201,204,3,Above_Forecast
+2023-05-22,2023,May,Monday,Utilities,433,462,29,Above_Forecast
+2023-05-22,2023,May,Monday,Marketing,216,235,19,Above_Forecast
+2023-05-23,2023,May,Tuesday,"Coffee Sales",909,848,-61,Below_Forecast
+2023-05-23,2023,May,Tuesday,"Food Sales",608,572,-36,Below_Forecast
+2023-05-23,2023,May,Tuesday,"Ingredients Cost",162,175,13,Above_Forecast
+2023-05-23,2023,May,Tuesday,Labor,380,342,-38,Below_Forecast
+2023-05-23,2023,May,Tuesday,Rent,373,342,-31,Below_Forecast
+2023-05-23,2023,May,Tuesday,Utilities,351,347,-4,Below_Forecast
+2023-05-23,2023,May,Tuesday,Marketing,346,316,-30,Below_Forecast
+2023-05-24,2023,May,Wednesday,"Coffee Sales",201,201,0,Above_Forecast
+2023-05-24,2023,May,Wednesday,"Food Sales",975,1043,68,Above_Forecast
+2023-05-24,2023,May,Wednesday,"Ingredients Cost",287,314,27,Above_Forecast
+2023-05-24,2023,May,Wednesday,Labor,345,373,28,Above_Forecast
+2023-05-24,2023,May,Wednesday,Rent,389,375,-14,Below_Forecast
+2023-05-24,2023,May,Wednesday,Utilities,415,393,-22,Below_Forecast
+2023-05-24,2023,May,Wednesday,Marketing,110,109,-1,Below_Forecast
+2023-05-25,2023,May,Thursday,"Coffee Sales",251,231,-20,Below_Forecast
+2023-05-25,2023,May,Thursday,"Food Sales",919,903,-16,Below_Forecast
+2023-05-25,2023,May,Thursday,"Ingredients Cost",474,517,43,Above_Forecast
+2023-05-25,2023,May,Thursday,Labor,453,495,42,Above_Forecast
+2023-05-25,2023,May,Thursday,Rent,219,214,-5,Below_Forecast
+2023-05-25,2023,May,Thursday,Utilities,210,202,-8,Below_Forecast
+2023-05-25,2023,May,Thursday,Marketing,309,300,-9,Below_Forecast
+2023-05-26,2023,May,Friday,"Coffee Sales",505,494,-11,Below_Forecast
+2023-05-26,2023,May,Friday,"Food Sales",543,507,-36,Below_Forecast
+2023-05-26,2023,May,Friday,"Ingredients Cost",179,188,9,Above_Forecast
+2023-05-26,2023,May,Friday,Labor,298,312,14,Above_Forecast
+2023-05-26,2023,May,Friday,Rent,187,189,2,Above_Forecast
+2023-05-26,2023,May,Friday,Utilities,242,256,14,Above_Forecast
+2023-05-26,2023,May,Friday,Marketing,367,354,-13,Below_Forecast
+2023-05-27,2023,May,Saturday,"Coffee Sales",951,1024,73,Above_Forecast
+2023-05-27,2023,May,Saturday,"Food Sales",932,874,-58,Below_Forecast
+2023-05-27,2023,May,Saturday,"Ingredients Cost",399,431,32,Above_Forecast
+2023-05-27,2023,May,Saturday,Labor,392,424,32,Above_Forecast
+2023-05-27,2023,May,Saturday,Rent,213,212,-1,Below_Forecast
+2023-05-27,2023,May,Saturday,Utilities,298,277,-21,Below_Forecast
+2023-05-27,2023,May,Saturday,Marketing,171,164,-7,Below_Forecast
+2023-05-28,2023,May,Sunday,"Coffee Sales",493,452,-41,Below_Forecast
+2023-05-28,2023,May,Sunday,"Food Sales",465,504,39,Above_Forecast
+2023-05-28,2023,May,Sunday,"Ingredients Cost",485,449,-36,Below_Forecast
+2023-05-28,2023,May,Sunday,Labor,338,305,-33,Below_Forecast
+2023-05-28,2023,May,Sunday,Rent,424,401,-23,Below_Forecast
+2023-05-28,2023,May,Sunday,Utilities,141,137,-4,Below_Forecast
+2023-05-28,2023,May,Sunday,Marketing,301,279,-22,Below_Forecast
+2023-05-29,2023,May,Monday,"Coffee Sales",900,856,-44,Below_Forecast
+2023-05-29,2023,May,Monday,"Food Sales",401,404,3,Above_Forecast
+2023-05-29,2023,May,Monday,"Ingredients Cost",269,244,-25,Below_Forecast
+2023-05-29,2023,May,Monday,Labor,129,139,10,Above_Forecast
+2023-05-29,2023,May,Monday,Rent,180,183,3,Above_Forecast
+2023-05-29,2023,May,Monday,Utilities,491,475,-16,Below_Forecast
+2023-05-29,2023,May,Monday,Marketing,356,386,30,Above_Forecast
+2023-05-30,2023,May,Tuesday,"Coffee Sales",259,271,12,Above_Forecast
+2023-05-30,2023,May,Tuesday,"Food Sales",465,490,25,Above_Forecast
+2023-05-30,2023,May,Tuesday,"Ingredients Cost",401,430,29,Above_Forecast
+2023-05-30,2023,May,Tuesday,Labor,367,331,-36,Below_Forecast
+2023-05-30,2023,May,Tuesday,Rent,306,319,13,Above_Forecast
+2023-05-30,2023,May,Tuesday,Utilities,102,91,-11,Below_Forecast
+2023-05-30,2023,May,Tuesday,Marketing,254,235,-19,Below_Forecast
+2023-05-31,2023,May,Wednesday,"Coffee Sales",842,887,45,Above_Forecast
+2023-05-31,2023,May,Wednesday,"Food Sales",500,541,41,Above_Forecast
+2023-05-31,2023,May,Wednesday,"Ingredients Cost",180,170,-10,Below_Forecast
+2023-05-31,2023,May,Wednesday,Labor,467,499,32,Above_Forecast
+2023-05-31,2023,May,Wednesday,Rent,423,389,-34,Below_Forecast
+2023-05-31,2023,May,Wednesday,Utilities,387,390,3,Above_Forecast
+2023-05-31,2023,May,Wednesday,Marketing,105,114,9,Above_Forecast
+2023-06-01,2023,June,Thursday,"Coffee Sales",735,680,-55,Below_Forecast
+2023-06-01,2023,June,Thursday,"Food Sales",243,244,1,Above_Forecast
+2023-06-01,2023,June,Thursday,"Ingredients Cost",112,110,-2,Below_Forecast
+2023-06-01,2023,June,Thursday,Labor,389,371,-18,Below_Forecast
+2023-06-01,2023,June,Thursday,Rent,474,472,-2,Below_Forecast
+2023-06-01,2023,June,Thursday,Utilities,155,142,-13,Below_Forecast
+2023-06-01,2023,June,Thursday,Marketing,372,366,-6,Below_Forecast
+2023-06-02,2023,June,Friday,"Coffee Sales",978,920,-58,Below_Forecast
+2023-06-02,2023,June,Friday,"Food Sales",205,193,-12,Below_Forecast
+2023-06-02,2023,June,Friday,"Ingredients Cost",176,172,-4,Below_Forecast
+2023-06-02,2023,June,Friday,Labor,488,492,4,Above_Forecast
+2023-06-02,2023,June,Friday,Rent,276,264,-12,Below_Forecast
+2023-06-02,2023,June,Friday,Utilities,356,337,-19,Below_Forecast
+2023-06-02,2023,June,Friday,Marketing,257,247,-10,Below_Forecast
+2023-06-03,2023,June,Saturday,"Coffee Sales",684,673,-11,Below_Forecast
+2023-06-03,2023,June,Saturday,"Food Sales",834,860,26,Above_Forecast
+2023-06-03,2023,June,Saturday,"Ingredients Cost",161,161,0,Above_Forecast
+2023-06-03,2023,June,Saturday,Labor,281,264,-17,Below_Forecast
+2023-06-03,2023,June,Saturday,Rent,253,249,-4,Below_Forecast
+2023-06-03,2023,June,Saturday,Utilities,439,414,-25,Below_Forecast
+2023-06-03,2023,June,Saturday,Marketing,446,452,6,Above_Forecast
+2023-06-04,2023,June,Sunday,"Coffee Sales",485,476,-9,Below_Forecast
+2023-06-04,2023,June,Sunday,"Food Sales",813,811,-2,Below_Forecast
+2023-06-04,2023,June,Sunday,"Ingredients Cost",160,146,-14,Below_Forecast
+2023-06-04,2023,June,Sunday,Labor,492,530,38,Above_Forecast
+2023-06-04,2023,June,Sunday,Rent,334,354,20,Above_Forecast
+2023-06-04,2023,June,Sunday,Utilities,330,346,16,Above_Forecast
+2023-06-04,2023,June,Sunday,Marketing,237,216,-21,Below_Forecast
+2023-06-05,2023,June,Monday,"Coffee Sales",406,443,37,Above_Forecast
+2023-06-05,2023,June,Monday,"Food Sales",770,704,-66,Below_Forecast
+2023-06-05,2023,June,Monday,"Ingredients Cost",478,481,3,Above_Forecast
+2023-06-05,2023,June,Monday,Labor,174,180,6,Above_Forecast
+2023-06-05,2023,June,Monday,Rent,323,328,5,Above_Forecast
+2023-06-05,2023,June,Monday,Utilities,449,410,-39,Below_Forecast
+2023-06-05,2023,June,Monday,Marketing,177,177,0,Above_Forecast
+2023-06-06,2023,June,Tuesday,"Coffee Sales",450,471,21,Above_Forecast
+2023-06-06,2023,June,Tuesday,"Food Sales",693,742,49,Above_Forecast
+2023-06-06,2023,June,Tuesday,"Ingredients Cost",182,186,4,Above_Forecast
+2023-06-06,2023,June,Tuesday,Labor,386,359,-27,Below_Forecast
+2023-06-06,2023,June,Tuesday,Rent,186,190,4,Above_Forecast
+2023-06-06,2023,June,Tuesday,Utilities,156,165,9,Above_Forecast
+2023-06-06,2023,June,Tuesday,Marketing,146,146,0,Above_Forecast
+2023-06-07,2023,June,Wednesday,"Coffee Sales",572,533,-39,Below_Forecast
+2023-06-07,2023,June,Wednesday,"Food Sales",349,325,-24,Below_Forecast
+2023-06-07,2023,June,Wednesday,"Ingredients Cost",191,183,-8,Below_Forecast
+2023-06-07,2023,June,Wednesday,Labor,362,330,-32,Below_Forecast
+2023-06-07,2023,June,Wednesday,Rent,107,109,2,Above_Forecast
+2023-06-07,2023,June,Wednesday,Utilities,354,366,12,Above_Forecast
+2023-06-07,2023,June,Wednesday,Marketing,403,387,-16,Below_Forecast
+2023-06-08,2023,June,Thursday,"Coffee Sales",344,319,-25,Below_Forecast
+2023-06-08,2023,June,Thursday,"Food Sales",335,315,-20,Below_Forecast
+2023-06-08,2023,June,Thursday,"Ingredients Cost",209,218,9,Above_Forecast
+2023-06-08,2023,June,Thursday,Labor,155,168,13,Above_Forecast
+2023-06-08,2023,June,Thursday,Rent,216,209,-7,Below_Forecast
+2023-06-08,2023,June,Thursday,Utilities,449,417,-32,Below_Forecast
+2023-06-08,2023,June,Thursday,Marketing,261,253,-8,Below_Forecast
+2023-06-09,2023,June,Friday,"Coffee Sales",543,512,-31,Below_Forecast
+2023-06-09,2023,June,Friday,"Food Sales",452,438,-14,Below_Forecast
+2023-06-09,2023,June,Friday,"Ingredients Cost",327,359,32,Above_Forecast
+2023-06-09,2023,June,Friday,Labor,269,267,-2,Below_Forecast
+2023-06-09,2023,June,Friday,Rent,498,472,-26,Below_Forecast
+2023-06-09,2023,June,Friday,Utilities,221,221,0,Above_Forecast
+2023-06-09,2023,June,Friday,Marketing,131,136,5,Above_Forecast
+2023-06-10,2023,June,Saturday,"Coffee Sales",862,799,-63,Below_Forecast
+2023-06-10,2023,June,Saturday,"Food Sales",713,667,-46,Below_Forecast
+2023-06-10,2023,June,Saturday,"Ingredients Cost",250,226,-24,Below_Forecast
+2023-06-10,2023,June,Saturday,Labor,186,199,13,Above_Forecast
+2023-06-10,2023,June,Saturday,Rent,166,178,12,Above_Forecast
+2023-06-10,2023,June,Saturday,Utilities,469,491,22,Above_Forecast
+2023-06-10,2023,June,Saturday,Marketing,469,478,9,Above_Forecast
+2023-06-11,2023,June,Sunday,"Coffee Sales",775,713,-62,Below_Forecast
+2023-06-11,2023,June,Sunday,"Food Sales",450,478,28,Above_Forecast
+2023-06-11,2023,June,Sunday,"Ingredients Cost",251,265,14,Above_Forecast
+2023-06-11,2023,June,Sunday,Labor,307,290,-17,Below_Forecast
+2023-06-11,2023,June,Sunday,Rent,352,385,33,Above_Forecast
+2023-06-11,2023,June,Sunday,Utilities,286,308,22,Above_Forecast
+2023-06-11,2023,June,Sunday,Marketing,440,448,8,Above_Forecast
+2023-06-12,2023,June,Monday,"Coffee Sales",453,411,-42,Below_Forecast
+2023-06-12,2023,June,Monday,"Food Sales",429,446,17,Above_Forecast
+2023-06-12,2023,June,Monday,"Ingredients Cost",381,404,23,Above_Forecast
+2023-06-12,2023,June,Monday,Labor,424,437,13,Above_Forecast
+2023-06-12,2023,June,Monday,Rent,355,347,-8,Below_Forecast
+2023-06-12,2023,June,Monday,Utilities,371,366,-5,Below_Forecast
+2023-06-12,2023,June,Monday,Marketing,102,109,7,Above_Forecast
+2023-06-13,2023,June,Tuesday,"Coffee Sales",701,643,-58,Below_Forecast
+2023-06-13,2023,June,Tuesday,"Food Sales",947,925,-22,Below_Forecast
+2023-06-13,2023,June,Tuesday,"Ingredients Cost",324,354,30,Above_Forecast
+2023-06-13,2023,June,Tuesday,Labor,346,311,-35,Below_Forecast
+2023-06-13,2023,June,Tuesday,Rent,309,305,-4,Below_Forecast
+2023-06-13,2023,June,Tuesday,Utilities,301,324,23,Above_Forecast
+2023-06-13,2023,June,Tuesday,Marketing,346,321,-25,Below_Forecast
+2023-06-14,2023,June,Wednesday,"Coffee Sales",460,497,37,Above_Forecast
+2023-06-14,2023,June,Wednesday,"Food Sales",624,680,56,Above_Forecast
+2023-06-14,2023,June,Wednesday,"Ingredients Cost",454,443,-11,Below_Forecast
+2023-06-14,2023,June,Wednesday,Labor,406,393,-13,Below_Forecast
+2023-06-14,2023,June,Wednesday,Rent,266,266,0,Above_Forecast
+2023-06-14,2023,June,Wednesday,Utilities,404,442,38,Above_Forecast
+2023-06-14,2023,June,Wednesday,Marketing,417,389,-28,Below_Forecast
+2023-06-15,2023,June,Thursday,"Coffee Sales",223,200,-23,Below_Forecast
+2023-06-15,2023,June,Thursday,"Food Sales",852,864,12,Above_Forecast
+2023-06-15,2023,June,Thursday,"Ingredients Cost",220,203,-17,Below_Forecast
+2023-06-15,2023,June,Thursday,Labor,104,107,3,Above_Forecast
+2023-06-15,2023,June,Thursday,Rent,380,373,-7,Below_Forecast
+2023-06-15,2023,June,Thursday,Utilities,171,174,3,Above_Forecast
+2023-06-15,2023,June,Thursday,Marketing,133,141,8,Above_Forecast
+2023-06-16,2023,June,Friday,"Coffee Sales",283,265,-18,Below_Forecast
+2023-06-16,2023,June,Friday,"Food Sales",243,258,15,Above_Forecast
+2023-06-16,2023,June,Friday,"Ingredients Cost",217,230,13,Above_Forecast
+2023-06-16,2023,June,Friday,Labor,240,225,-15,Below_Forecast
+2023-06-16,2023,June,Friday,Rent,274,291,17,Above_Forecast
+2023-06-16,2023,June,Friday,Utilities,448,490,42,Above_Forecast
+2023-06-16,2023,June,Friday,Marketing,328,339,11,Above_Forecast
+2023-06-17,2023,June,Saturday,"Coffee Sales",306,277,-29,Below_Forecast
+2023-06-17,2023,June,Saturday,"Food Sales",761,804,43,Above_Forecast
+2023-06-17,2023,June,Saturday,"Ingredients Cost",193,187,-6,Below_Forecast
+2023-06-17,2023,June,Saturday,Labor,300,309,9,Above_Forecast
+2023-06-17,2023,June,Saturday,Rent,389,350,-39,Below_Forecast
+2023-06-17,2023,June,Saturday,Utilities,102,93,-9,Below_Forecast
+2023-06-17,2023,June,Saturday,Marketing,470,484,14,Above_Forecast
+2023-06-18,2023,June,Sunday,"Coffee Sales",633,668,35,Above_Forecast
+2023-06-18,2023,June,Sunday,"Food Sales",430,387,-43,Below_Forecast
+2023-06-18,2023,June,Sunday,"Ingredients Cost",252,237,-15,Below_Forecast
+2023-06-18,2023,June,Sunday,Labor,209,200,-9,Below_Forecast
+2023-06-18,2023,June,Sunday,Rent,290,281,-9,Below_Forecast
+2023-06-18,2023,June,Sunday,Utilities,408,374,-34,Below_Forecast
+2023-06-18,2023,June,Sunday,Marketing,403,407,4,Above_Forecast
+2023-06-19,2023,June,Monday,"Coffee Sales",765,820,55,Above_Forecast
+2023-06-19,2023,June,Monday,"Food Sales",253,263,10,Above_Forecast
+2023-06-19,2023,June,Monday,"Ingredients Cost",293,287,-6,Below_Forecast
+2023-06-19,2023,June,Monday,Labor,344,317,-27,Below_Forecast
+2023-06-19,2023,June,Monday,Rent,265,277,12,Above_Forecast
+2023-06-19,2023,June,Monday,Utilities,393,383,-10,Below_Forecast
+2023-06-19,2023,June,Monday,Marketing,360,327,-33,Below_Forecast
+2023-06-20,2023,June,Tuesday,"Coffee Sales",526,562,36,Above_Forecast
+2023-06-20,2023,June,Tuesday,"Food Sales",627,570,-57,Below_Forecast
+2023-06-20,2023,June,Tuesday,"Ingredients Cost",305,334,29,Above_Forecast
+2023-06-20,2023,June,Tuesday,Labor,405,394,-11,Below_Forecast
+2023-06-20,2023,June,Tuesday,Rent,437,430,-7,Below_Forecast
+2023-06-20,2023,June,Tuesday,Utilities,273,296,23,Above_Forecast
+2023-06-20,2023,June,Tuesday,Marketing,352,373,21,Above_Forecast
+2023-06-21,2023,June,Wednesday,"Coffee Sales",280,265,-15,Below_Forecast
+2023-06-21,2023,June,Wednesday,"Food Sales",737,721,-16,Below_Forecast
+2023-06-21,2023,June,Wednesday,"Ingredients Cost",271,277,6,Above_Forecast
+2023-06-21,2023,June,Wednesday,Labor,286,268,-18,Below_Forecast
+2023-06-21,2023,June,Wednesday,Rent,181,173,-8,Below_Forecast
+2023-06-21,2023,June,Wednesday,Utilities,248,228,-20,Below_Forecast
+2023-06-21,2023,June,Wednesday,Marketing,330,352,22,Above_Forecast
+2023-06-22,2023,June,Thursday,"Coffee Sales",257,238,-19,Below_Forecast
+2023-06-22,2023,June,Thursday,"Food Sales",957,980,23,Above_Forecast
+2023-06-22,2023,June,Thursday,"Ingredients Cost",293,268,-25,Below_Forecast
+2023-06-22,2023,June,Thursday,Labor,209,216,7,Above_Forecast
+2023-06-22,2023,June,Thursday,Rent,473,448,-25,Below_Forecast
+2023-06-22,2023,June,Thursday,Utilities,122,133,11,Above_Forecast
+2023-06-22,2023,June,Thursday,Marketing,442,444,2,Above_Forecast
+2023-06-23,2023,June,Friday,"Coffee Sales",414,448,34,Above_Forecast
+2023-06-23,2023,June,Friday,"Food Sales",204,207,3,Above_Forecast
+2023-06-23,2023,June,Friday,"Ingredients Cost",351,379,28,Above_Forecast
+2023-06-23,2023,June,Friday,Labor,235,235,0,Above_Forecast
+2023-06-23,2023,June,Friday,Rent,494,492,-2,Below_Forecast
+2023-06-23,2023,June,Friday,Utilities,335,339,4,Above_Forecast
+2023-06-23,2023,June,Friday,Marketing,130,141,11,Above_Forecast
+2023-06-24,2023,June,Saturday,"Coffee Sales",598,552,-46,Below_Forecast
+2023-06-24,2023,June,Saturday,"Food Sales",967,1030,63,Above_Forecast
+2023-06-24,2023,June,Saturday,"Ingredients Cost",360,332,-28,Below_Forecast
+2023-06-24,2023,June,Saturday,Labor,152,156,4,Above_Forecast
+2023-06-24,2023,June,Saturday,Rent,259,259,0,Above_Forecast
+2023-06-24,2023,June,Saturday,Utilities,245,221,-24,Below_Forecast
+2023-06-24,2023,June,Saturday,Marketing,242,221,-21,Below_Forecast
+2023-06-25,2023,June,Sunday,"Coffee Sales",873,785,-88,Below_Forecast
+2023-06-25,2023,June,Sunday,"Food Sales",256,275,19,Above_Forecast
+2023-06-25,2023,June,Sunday,"Ingredients Cost",427,444,17,Above_Forecast
+2023-06-25,2023,June,Sunday,Labor,449,470,21,Above_Forecast
+2023-06-25,2023,June,Sunday,Rent,367,340,-27,Below_Forecast
+2023-06-25,2023,June,Sunday,Utilities,191,177,-14,Below_Forecast
+2023-06-25,2023,June,Sunday,Marketing,230,220,-10,Below_Forecast
+2023-06-26,2023,June,Monday,"Coffee Sales",302,290,-12,Below_Forecast
+2023-06-26,2023,June,Monday,"Food Sales",899,818,-81,Below_Forecast
+2023-06-26,2023,June,Monday,"Ingredients Cost",364,395,31,Above_Forecast
+2023-06-26,2023,June,Monday,Labor,140,139,-1,Below_Forecast
+2023-06-26,2023,June,Monday,Rent,226,222,-4,Below_Forecast
+2023-06-26,2023,June,Monday,Utilities,172,172,0,Above_Forecast
+2023-06-26,2023,June,Monday,Marketing,389,376,-13,Below_Forecast
+2023-06-27,2023,June,Tuesday,"Coffee Sales",812,767,-45,Below_Forecast
+2023-06-27,2023,June,Tuesday,"Food Sales",653,677,24,Above_Forecast
+2023-06-27,2023,June,Tuesday,"Ingredients Cost",494,496,2,Above_Forecast
+2023-06-27,2023,June,Tuesday,Labor,434,426,-8,Below_Forecast
+2023-06-27,2023,June,Tuesday,Rent,276,258,-18,Below_Forecast
+2023-06-27,2023,June,Tuesday,Utilities,500,511,11,Above_Forecast
+2023-06-27,2023,June,Tuesday,Marketing,431,438,7,Above_Forecast
+2023-06-28,2023,June,Wednesday,"Coffee Sales",376,393,17,Above_Forecast
+2023-06-28,2023,June,Wednesday,"Food Sales",496,494,-2,Below_Forecast
+2023-06-28,2023,June,Wednesday,"Ingredients Cost",417,395,-22,Below_Forecast
+2023-06-28,2023,June,Wednesday,Labor,498,467,-31,Below_Forecast
+2023-06-28,2023,June,Wednesday,Rent,383,393,10,Above_Forecast
+2023-06-28,2023,June,Wednesday,Utilities,119,115,-4,Below_Forecast
+2023-06-28,2023,June,Wednesday,Marketing,158,144,-14,Below_Forecast
+2023-06-29,2023,June,Thursday,"Coffee Sales",233,245,12,Above_Forecast
+2023-06-29,2023,June,Thursday,"Food Sales",529,558,29,Above_Forecast
+2023-06-29,2023,June,Thursday,"Ingredients Cost",273,247,-26,Below_Forecast
+2023-06-29,2023,June,Thursday,Labor,101,94,-7,Below_Forecast
+2023-06-29,2023,June,Thursday,Rent,230,241,11,Above_Forecast
+2023-06-29,2023,June,Thursday,Utilities,485,528,43,Above_Forecast
+2023-06-29,2023,June,Thursday,Marketing,354,327,-27,Below_Forecast
+2023-06-30,2023,June,Friday,"Coffee Sales",269,277,8,Above_Forecast
+2023-06-30,2023,June,Friday,"Food Sales",568,515,-53,Below_Forecast
+2023-06-30,2023,June,Friday,"Ingredients Cost",370,333,-37,Below_Forecast
+2023-06-30,2023,June,Friday,Labor,436,446,10,Above_Forecast
+2023-06-30,2023,June,Friday,Rent,299,273,-26,Below_Forecast
+2023-06-30,2023,June,Friday,Utilities,360,343,-17,Below_Forecast
+2023-06-30,2023,June,Friday,Marketing,170,173,3,Above_Forecast
+2023-07-01,2023,July,Saturday,"Coffee Sales",828,773,-55,Below_Forecast
+2023-07-01,2023,July,Saturday,"Food Sales",799,729,-70,Below_Forecast
+2023-07-01,2023,July,Saturday,"Ingredients Cost",374,355,-19,Below_Forecast
+2023-07-01,2023,July,Saturday,Labor,326,329,3,Above_Forecast
+2023-07-01,2023,July,Saturday,Rent,442,460,18,Above_Forecast
+2023-07-01,2023,July,Saturday,Utilities,403,413,10,Above_Forecast
+2023-07-01,2023,July,Saturday,Marketing,128,116,-12,Below_Forecast
+2023-07-02,2023,July,Sunday,"Coffee Sales",824,742,-82,Below_Forecast
+2023-07-02,2023,July,Sunday,"Food Sales",219,200,-19,Below_Forecast
+2023-07-02,2023,July,Sunday,"Ingredients Cost",448,442,-6,Below_Forecast
+2023-07-02,2023,July,Sunday,Labor,491,452,-39,Below_Forecast
+2023-07-02,2023,July,Sunday,Rent,103,98,-5,Below_Forecast
+2023-07-02,2023,July,Sunday,Utilities,228,242,14,Above_Forecast
+2023-07-02,2023,July,Sunday,Marketing,461,480,19,Above_Forecast
+2023-07-03,2023,July,Monday,"Coffee Sales",550,567,17,Above_Forecast
+2023-07-03,2023,July,Monday,"Food Sales",293,316,23,Above_Forecast
+2023-07-03,2023,July,Monday,"Ingredients Cost",106,109,3,Above_Forecast
+2023-07-03,2023,July,Monday,Labor,397,390,-7,Below_Forecast
+2023-07-03,2023,July,Monday,Rent,196,178,-18,Below_Forecast
+2023-07-03,2023,July,Monday,Utilities,373,359,-14,Below_Forecast
+2023-07-03,2023,July,Monday,Marketing,337,333,-4,Below_Forecast
+2023-07-04,2023,July,Tuesday,"Coffee Sales",738,802,64,Above_Forecast
+2023-07-04,2023,July,Tuesday,"Food Sales",500,453,-47,Below_Forecast
+2023-07-04,2023,July,Tuesday,"Ingredients Cost",162,163,1,Above_Forecast
+2023-07-04,2023,July,Tuesday,Labor,383,418,35,Above_Forecast
+2023-07-04,2023,July,Tuesday,Rent,275,275,0,Above_Forecast
+2023-07-04,2023,July,Tuesday,Utilities,186,195,9,Above_Forecast
+2023-07-04,2023,July,Tuesday,Marketing,468,430,-38,Below_Forecast
+2023-07-05,2023,July,Wednesday,"Coffee Sales",383,411,28,Above_Forecast
+2023-07-05,2023,July,Wednesday,"Food Sales",867,820,-47,Below_Forecast
+2023-07-05,2023,July,Wednesday,"Ingredients Cost",496,515,19,Above_Forecast
+2023-07-05,2023,July,Wednesday,Labor,242,263,21,Above_Forecast
+2023-07-05,2023,July,Wednesday,Rent,321,300,-21,Below_Forecast
+2023-07-05,2023,July,Wednesday,Utilities,106,110,4,Above_Forecast
+2023-07-05,2023,July,Wednesday,Marketing,413,396,-17,Below_Forecast
+2023-07-06,2023,July,Thursday,"Coffee Sales",995,1012,17,Above_Forecast
+2023-07-06,2023,July,Thursday,"Food Sales",360,364,4,Above_Forecast
+2023-07-06,2023,July,Thursday,"Ingredients Cost",336,344,8,Above_Forecast
+2023-07-06,2023,July,Thursday,Labor,372,340,-32,Below_Forecast
+2023-07-06,2023,July,Thursday,Rent,310,318,8,Above_Forecast
+2023-07-06,2023,July,Thursday,Utilities,406,374,-32,Below_Forecast
+2023-07-06,2023,July,Thursday,Marketing,274,285,11,Above_Forecast
+2023-07-07,2023,July,Friday,"Coffee Sales",329,334,5,Above_Forecast
+2023-07-07,2023,July,Friday,"Food Sales",930,982,52,Above_Forecast
+2023-07-07,2023,July,Friday,"Ingredients Cost",388,359,-29,Below_Forecast
+2023-07-07,2023,July,Friday,Labor,454,454,0,Above_Forecast
+2023-07-07,2023,July,Friday,Rent,444,426,-18,Below_Forecast
+2023-07-07,2023,July,Friday,Utilities,460,441,-19,Below_Forecast
+2023-07-07,2023,July,Friday,Marketing,191,201,10,Above_Forecast
+2023-07-08,2023,July,Saturday,"Coffee Sales",624,659,35,Above_Forecast
+2023-07-08,2023,July,Saturday,"Food Sales",711,741,30,Above_Forecast
+2023-07-08,2023,July,Saturday,"Ingredients Cost",222,238,16,Above_Forecast
+2023-07-08,2023,July,Saturday,Labor,127,121,-6,Below_Forecast
+2023-07-08,2023,July,Saturday,Rent,297,291,-6,Below_Forecast
+2023-07-08,2023,July,Saturday,Utilities,494,476,-18,Below_Forecast
+2023-07-08,2023,July,Saturday,Marketing,187,203,16,Above_Forecast
+2023-07-09,2023,July,Sunday,"Coffee Sales",996,1087,91,Above_Forecast
+2023-07-09,2023,July,Sunday,"Food Sales",903,854,-49,Below_Forecast
+2023-07-09,2023,July,Sunday,"Ingredients Cost",468,469,1,Above_Forecast
+2023-07-09,2023,July,Sunday,Labor,424,446,22,Above_Forecast
+2023-07-09,2023,July,Sunday,Rent,148,133,-15,Below_Forecast
+2023-07-09,2023,July,Sunday,Utilities,172,179,7,Above_Forecast
+2023-07-09,2023,July,Sunday,Marketing,424,445,21,Above_Forecast
+2023-07-10,2023,July,Monday,"Coffee Sales",210,227,17,Above_Forecast
+2023-07-10,2023,July,Monday,"Food Sales",569,539,-30,Below_Forecast
+2023-07-10,2023,July,Monday,"Ingredients Cost",306,303,-3,Below_Forecast
+2023-07-10,2023,July,Monday,Labor,245,227,-18,Below_Forecast
+2023-07-10,2023,July,Monday,Rent,495,447,-48,Below_Forecast
+2023-07-10,2023,July,Monday,Utilities,121,118,-3,Below_Forecast
+2023-07-10,2023,July,Monday,Marketing,344,338,-6,Below_Forecast
+2023-07-11,2023,July,Tuesday,"Coffee Sales",347,374,27,Above_Forecast
+2023-07-11,2023,July,Tuesday,"Food Sales",476,504,28,Above_Forecast
+2023-07-11,2023,July,Tuesday,"Ingredients Cost",195,175,-20,Below_Forecast
+2023-07-11,2023,July,Tuesday,Labor,486,521,35,Above_Forecast
+2023-07-11,2023,July,Tuesday,Rent,278,256,-22,Below_Forecast
+2023-07-11,2023,July,Tuesday,Utilities,288,301,13,Above_Forecast
+2023-07-11,2023,July,Tuesday,Marketing,254,237,-17,Below_Forecast
+2023-07-12,2023,July,Wednesday,"Coffee Sales",239,242,3,Above_Forecast
+2023-07-12,2023,July,Wednesday,"Food Sales",622,562,-60,Below_Forecast
+2023-07-12,2023,July,Wednesday,"Ingredients Cost",476,511,35,Above_Forecast
+2023-07-12,2023,July,Wednesday,Labor,397,365,-32,Below_Forecast
+2023-07-12,2023,July,Wednesday,Rent,441,424,-17,Below_Forecast
+2023-07-12,2023,July,Wednesday,Utilities,139,151,12,Above_Forecast
+2023-07-12,2023,July,Wednesday,Marketing,356,356,0,Above_Forecast
+2023-07-13,2023,July,Thursday,"Coffee Sales",721,680,-41,Below_Forecast
+2023-07-13,2023,July,Thursday,"Food Sales",244,255,11,Above_Forecast
+2023-07-13,2023,July,Thursday,"Ingredients Cost",247,237,-10,Below_Forecast
+2023-07-13,2023,July,Thursday,Labor,242,235,-7,Below_Forecast
+2023-07-13,2023,July,Thursday,Rent,177,167,-10,Below_Forecast
+2023-07-13,2023,July,Thursday,Utilities,463,489,26,Above_Forecast
+2023-07-13,2023,July,Thursday,Marketing,478,522,44,Above_Forecast
+2023-07-14,2023,July,Friday,"Coffee Sales",278,255,-23,Below_Forecast
+2023-07-14,2023,July,Friday,"Food Sales",497,544,47,Above_Forecast
+2023-07-14,2023,July,Friday,"Ingredients Cost",166,173,7,Above_Forecast
+2023-07-14,2023,July,Friday,Labor,150,140,-10,Below_Forecast
+2023-07-14,2023,July,Friday,Rent,296,306,10,Above_Forecast
+2023-07-14,2023,July,Friday,Utilities,202,215,13,Above_Forecast
+2023-07-14,2023,July,Friday,Marketing,385,394,9,Above_Forecast
+2023-07-15,2023,July,Saturday,"Coffee Sales",269,258,-11,Below_Forecast
+2023-07-15,2023,July,Saturday,"Food Sales",693,733,40,Above_Forecast
+2023-07-15,2023,July,Saturday,"Ingredients Cost",436,449,13,Above_Forecast
+2023-07-15,2023,July,Saturday,Labor,265,270,5,Above_Forecast
+2023-07-15,2023,July,Saturday,Rent,460,499,39,Above_Forecast
+2023-07-15,2023,July,Saturday,Utilities,486,474,-12,Below_Forecast
+2023-07-15,2023,July,Saturday,Marketing,173,189,16,Above_Forecast
+2023-07-16,2023,July,Sunday,"Coffee Sales",949,904,-45,Below_Forecast
+2023-07-16,2023,July,Sunday,"Food Sales",314,334,20,Above_Forecast
+2023-07-16,2023,July,Sunday,"Ingredients Cost",307,284,-23,Below_Forecast
+2023-07-16,2023,July,Sunday,Labor,437,429,-8,Below_Forecast
+2023-07-16,2023,July,Sunday,Rent,202,203,1,Above_Forecast
+2023-07-16,2023,July,Sunday,Utilities,351,353,2,Above_Forecast
+2023-07-16,2023,July,Sunday,Marketing,313,309,-4,Below_Forecast
+2023-07-17,2023,July,Monday,"Coffee Sales",612,611,-1,Below_Forecast
+2023-07-17,2023,July,Monday,"Food Sales",563,529,-34,Below_Forecast
+2023-07-17,2023,July,Monday,"Ingredients Cost",415,439,24,Above_Forecast
+2023-07-17,2023,July,Monday,Labor,342,312,-30,Below_Forecast
+2023-07-17,2023,July,Monday,Rent,105,112,7,Above_Forecast
+2023-07-17,2023,July,Monday,Utilities,316,322,6,Above_Forecast
+2023-07-17,2023,July,Monday,Marketing,307,313,6,Above_Forecast
+2023-07-18,2023,July,Tuesday,"Coffee Sales",840,795,-45,Below_Forecast
+2023-07-18,2023,July,Tuesday,"Food Sales",521,567,46,Above_Forecast
+2023-07-18,2023,July,Tuesday,"Ingredients Cost",280,279,-1,Below_Forecast
+2023-07-18,2023,July,Tuesday,Labor,309,315,6,Above_Forecast
+2023-07-18,2023,July,Tuesday,Rent,295,316,21,Above_Forecast
+2023-07-18,2023,July,Tuesday,Utilities,435,430,-5,Below_Forecast
+2023-07-18,2023,July,Tuesday,Marketing,305,312,7,Above_Forecast
+2023-07-19,2023,July,Wednesday,"Coffee Sales",556,542,-14,Below_Forecast
+2023-07-19,2023,July,Wednesday,"Food Sales",595,621,26,Above_Forecast
+2023-07-19,2023,July,Wednesday,"Ingredients Cost",400,409,9,Above_Forecast
+2023-07-19,2023,July,Wednesday,Labor,426,423,-3,Below_Forecast
+2023-07-19,2023,July,Wednesday,Rent,107,99,-8,Below_Forecast
+2023-07-19,2023,July,Wednesday,Utilities,336,355,19,Above_Forecast
+2023-07-19,2023,July,Wednesday,Marketing,285,286,1,Above_Forecast
+2023-07-20,2023,July,Thursday,"Coffee Sales",986,1042,56,Above_Forecast
+2023-07-20,2023,July,Thursday,"Food Sales",203,202,-1,Below_Forecast
+2023-07-20,2023,July,Thursday,"Ingredients Cost",249,228,-21,Below_Forecast
+2023-07-20,2023,July,Thursday,Labor,438,480,42,Above_Forecast
+2023-07-20,2023,July,Thursday,Rent,500,478,-22,Below_Forecast
+2023-07-20,2023,July,Thursday,Utilities,343,329,-14,Below_Forecast
+2023-07-20,2023,July,Thursday,Marketing,281,299,18,Above_Forecast
+2023-07-21,2023,July,Friday,"Coffee Sales",529,537,8,Above_Forecast
+2023-07-21,2023,July,Friday,"Food Sales",356,331,-25,Below_Forecast
+2023-07-21,2023,July,Friday,"Ingredients Cost",498,480,-18,Below_Forecast
+2023-07-21,2023,July,Friday,Labor,290,318,28,Above_Forecast
+2023-07-21,2023,July,Friday,Rent,407,431,24,Above_Forecast
+2023-07-21,2023,July,Friday,Utilities,412,385,-27,Below_Forecast
+2023-07-21,2023,July,Friday,Marketing,307,311,4,Above_Forecast
+2023-07-22,2023,July,Saturday,"Coffee Sales",624,597,-27,Below_Forecast
+2023-07-22,2023,July,Saturday,"Food Sales",688,751,63,Above_Forecast
+2023-07-22,2023,July,Saturday,"Ingredients Cost",126,120,-6,Below_Forecast
+2023-07-22,2023,July,Saturday,Labor,318,298,-20,Below_Forecast
+2023-07-22,2023,July,Saturday,Rent,405,377,-28,Below_Forecast
+2023-07-22,2023,July,Saturday,Utilities,364,357,-7,Below_Forecast
+2023-07-22,2023,July,Saturday,Marketing,397,432,35,Above_Forecast
+2023-07-23,2023,July,Sunday,"Coffee Sales",954,1041,87,Above_Forecast
+2023-07-23,2023,July,Sunday,"Food Sales",787,777,-10,Below_Forecast
+2023-07-23,2023,July,Sunday,"Ingredients Cost",398,401,3,Above_Forecast
+2023-07-23,2023,July,Sunday,Labor,322,326,4,Above_Forecast
+2023-07-23,2023,July,Sunday,Rent,389,365,-24,Below_Forecast
+2023-07-23,2023,July,Sunday,Utilities,139,150,11,Above_Forecast
+2023-07-23,2023,July,Sunday,Marketing,337,338,1,Above_Forecast
+2023-07-24,2023,July,Monday,"Coffee Sales",434,427,-7,Below_Forecast
+2023-07-24,2023,July,Monday,"Food Sales",599,639,40,Above_Forecast
+2023-07-24,2023,July,Monday,"Ingredients Cost",216,205,-11,Below_Forecast
+2023-07-24,2023,July,Monday,Labor,267,270,3,Above_Forecast
+2023-07-24,2023,July,Monday,Rent,337,352,15,Above_Forecast
+2023-07-24,2023,July,Monday,Utilities,458,420,-38,Below_Forecast
+2023-07-24,2023,July,Monday,Marketing,419,424,5,Above_Forecast
+2023-07-25,2023,July,Tuesday,"Coffee Sales",850,816,-34,Below_Forecast
+2023-07-25,2023,July,Tuesday,"Food Sales",716,762,46,Above_Forecast
+2023-07-25,2023,July,Tuesday,"Ingredients Cost",441,415,-26,Below_Forecast
+2023-07-25,2023,July,Tuesday,Labor,426,451,25,Above_Forecast
+2023-07-25,2023,July,Tuesday,Rent,215,235,20,Above_Forecast
+2023-07-25,2023,July,Tuesday,Utilities,382,395,13,Above_Forecast
+2023-07-25,2023,July,Tuesday,Marketing,167,180,13,Above_Forecast
+2023-07-26,2023,July,Wednesday,"Coffee Sales",836,763,-73,Below_Forecast
+2023-07-26,2023,July,Wednesday,"Food Sales",529,551,22,Above_Forecast
+2023-07-26,2023,July,Wednesday,"Ingredients Cost",212,208,-4,Below_Forecast
+2023-07-26,2023,July,Wednesday,Labor,182,200,18,Above_Forecast
+2023-07-26,2023,July,Wednesday,Rent,244,242,-2,Below_Forecast
+2023-07-26,2023,July,Wednesday,Utilities,479,495,16,Above_Forecast
+2023-07-26,2023,July,Wednesday,Marketing,119,116,-3,Below_Forecast
+2023-07-27,2023,July,Thursday,"Coffee Sales",904,910,6,Above_Forecast
+2023-07-27,2023,July,Thursday,"Food Sales",803,809,6,Above_Forecast
+2023-07-27,2023,July,Thursday,"Ingredients Cost",260,276,16,Above_Forecast
+2023-07-27,2023,July,Thursday,Labor,194,206,12,Above_Forecast
+2023-07-27,2023,July,Thursday,Rent,478,498,20,Above_Forecast
+2023-07-27,2023,July,Thursday,Utilities,392,391,-1,Below_Forecast
+2023-07-27,2023,July,Thursday,Marketing,451,413,-38,Below_Forecast
+2023-07-28,2023,July,Friday,"Coffee Sales",714,750,36,Above_Forecast
+2023-07-28,2023,July,Friday,"Food Sales",762,788,26,Above_Forecast
+2023-07-28,2023,July,Friday,"Ingredients Cost",257,261,4,Above_Forecast
+2023-07-28,2023,July,Friday,Labor,499,481,-18,Below_Forecast
+2023-07-28,2023,July,Friday,Rent,471,487,16,Above_Forecast
+2023-07-28,2023,July,Friday,Utilities,345,367,22,Above_Forecast
+2023-07-28,2023,July,Friday,Marketing,175,161,-14,Below_Forecast
+2023-07-29,2023,July,Saturday,"Coffee Sales",865,894,29,Above_Forecast
+2023-07-29,2023,July,Saturday,"Food Sales",475,487,12,Above_Forecast
+2023-07-29,2023,July,Saturday,"Ingredients Cost",226,242,16,Above_Forecast
+2023-07-29,2023,July,Saturday,Labor,213,232,19,Above_Forecast
+2023-07-29,2023,July,Saturday,Rent,353,380,27,Above_Forecast
+2023-07-29,2023,July,Saturday,Utilities,493,463,-30,Below_Forecast
+2023-07-29,2023,July,Saturday,Marketing,208,226,18,Above_Forecast
+2023-07-30,2023,July,Sunday,"Coffee Sales",302,331,29,Above_Forecast
+2023-07-30,2023,July,Sunday,"Food Sales",985,921,-64,Below_Forecast
+2023-07-30,2023,July,Sunday,"Ingredients Cost",275,260,-15,Below_Forecast
+2023-07-30,2023,July,Sunday,Labor,428,450,22,Above_Forecast
+2023-07-30,2023,July,Sunday,Rent,325,295,-30,Below_Forecast
+2023-07-30,2023,July,Sunday,Utilities,204,191,-13,Below_Forecast
+2023-07-30,2023,July,Sunday,Marketing,409,431,22,Above_Forecast
+2023-07-31,2023,July,Monday,"Coffee Sales",667,640,-27,Below_Forecast
+2023-07-31,2023,July,Monday,"Food Sales",347,370,23,Above_Forecast
+2023-07-31,2023,July,Monday,"Ingredients Cost",139,136,-3,Below_Forecast
+2023-07-31,2023,July,Monday,Labor,387,410,23,Above_Forecast
+2023-07-31,2023,July,Monday,Rent,306,334,28,Above_Forecast
+2023-07-31,2023,July,Monday,Utilities,347,378,31,Above_Forecast
+2023-07-31,2023,July,Monday,Marketing,328,326,-2,Below_Forecast
+2023-08-01,2023,August,Tuesday,"Coffee Sales",668,646,-22,Below_Forecast
+2023-08-01,2023,August,Tuesday,"Food Sales",292,268,-24,Below_Forecast
+2023-08-01,2023,August,Tuesday,"Ingredients Cost",252,239,-13,Below_Forecast
+2023-08-01,2023,August,Tuesday,Labor,163,161,-2,Below_Forecast
+2023-08-01,2023,August,Tuesday,Rent,254,228,-26,Below_Forecast
+2023-08-01,2023,August,Tuesday,Utilities,186,185,-1,Below_Forecast
+2023-08-01,2023,August,Tuesday,Marketing,282,270,-12,Below_Forecast
+2023-08-02,2023,August,Wednesday,"Coffee Sales",330,299,-31,Below_Forecast
+2023-08-02,2023,August,Wednesday,"Food Sales",597,554,-43,Below_Forecast
+2023-08-02,2023,August,Wednesday,"Ingredients Cost",454,422,-32,Below_Forecast
+2023-08-02,2023,August,Wednesday,Labor,206,210,4,Above_Forecast
+2023-08-02,2023,August,Wednesday,Rent,323,305,-18,Below_Forecast
+2023-08-02,2023,August,Wednesday,Utilities,288,306,18,Above_Forecast
+2023-08-02,2023,August,Wednesday,Marketing,109,107,-2,Below_Forecast
+2023-08-03,2023,August,Thursday,"Coffee Sales",659,601,-58,Below_Forecast
+2023-08-03,2023,August,Thursday,"Food Sales",212,212,0,Above_Forecast
+2023-08-03,2023,August,Thursday,"Ingredients Cost",436,452,16,Above_Forecast
+2023-08-03,2023,August,Thursday,Labor,468,484,16,Above_Forecast
+2023-08-03,2023,August,Thursday,Rent,478,454,-24,Below_Forecast
+2023-08-03,2023,August,Thursday,Utilities,333,351,18,Above_Forecast
+2023-08-03,2023,August,Thursday,Marketing,403,421,18,Above_Forecast
+2023-08-04,2023,August,Friday,"Coffee Sales",738,706,-32,Below_Forecast
+2023-08-04,2023,August,Friday,"Food Sales",570,541,-29,Below_Forecast
+2023-08-04,2023,August,Friday,"Ingredients Cost",433,392,-41,Below_Forecast
+2023-08-04,2023,August,Friday,Labor,251,242,-9,Below_Forecast
+2023-08-04,2023,August,Friday,Rent,343,347,4,Above_Forecast
+2023-08-04,2023,August,Friday,Utilities,395,381,-14,Below_Forecast
+2023-08-04,2023,August,Friday,Marketing,450,424,-26,Below_Forecast
+2023-08-05,2023,August,Saturday,"Coffee Sales",441,407,-34,Below_Forecast
+2023-08-05,2023,August,Saturday,"Food Sales",864,814,-50,Below_Forecast
+2023-08-05,2023,August,Saturday,"Ingredients Cost",358,392,34,Above_Forecast
+2023-08-05,2023,August,Saturday,Labor,204,200,-4,Below_Forecast
+2023-08-05,2023,August,Saturday,Rent,427,459,32,Above_Forecast
+2023-08-05,2023,August,Saturday,Utilities,422,446,24,Above_Forecast
+2023-08-05,2023,August,Saturday,Marketing,130,121,-9,Below_Forecast
+2023-08-06,2023,August,Sunday,"Coffee Sales",913,859,-54,Below_Forecast
+2023-08-06,2023,August,Sunday,"Food Sales",904,969,65,Above_Forecast
+2023-08-06,2023,August,Sunday,"Ingredients Cost",355,365,10,Above_Forecast
+2023-08-06,2023,August,Sunday,Labor,215,224,9,Above_Forecast
+2023-08-06,2023,August,Sunday,Rent,477,465,-12,Below_Forecast
+2023-08-06,2023,August,Sunday,Utilities,161,172,11,Above_Forecast
+2023-08-06,2023,August,Sunday,Marketing,334,341,7,Above_Forecast
+2023-08-07,2023,August,Monday,"Coffee Sales",530,577,47,Above_Forecast
+2023-08-07,2023,August,Monday,"Food Sales",532,557,25,Above_Forecast
+2023-08-07,2023,August,Monday,"Ingredients Cost",256,239,-17,Below_Forecast
+2023-08-07,2023,August,Monday,Labor,174,156,-18,Below_Forecast
+2023-08-07,2023,August,Monday,Rent,195,193,-2,Below_Forecast
+2023-08-07,2023,August,Monday,Utilities,465,450,-15,Below_Forecast
+2023-08-07,2023,August,Monday,Marketing,286,285,-1,Below_Forecast
+2023-08-08,2023,August,Tuesday,"Coffee Sales",489,448,-41,Below_Forecast
+2023-08-08,2023,August,Tuesday,"Food Sales",718,746,28,Above_Forecast
+2023-08-08,2023,August,Tuesday,"Ingredients Cost",274,297,23,Above_Forecast
+2023-08-08,2023,August,Tuesday,Labor,451,439,-12,Below_Forecast
+2023-08-08,2023,August,Tuesday,Rent,224,211,-13,Below_Forecast
+2023-08-08,2023,August,Tuesday,Utilities,387,401,14,Above_Forecast
+2023-08-08,2023,August,Tuesday,Marketing,446,488,42,Above_Forecast
+2023-08-09,2023,August,Wednesday,"Coffee Sales",300,313,13,Above_Forecast
+2023-08-09,2023,August,Wednesday,"Food Sales",234,255,21,Above_Forecast
+2023-08-09,2023,August,Wednesday,"Ingredients Cost",123,123,0,Above_Forecast
+2023-08-09,2023,August,Wednesday,Labor,135,128,-7,Below_Forecast
+2023-08-09,2023,August,Wednesday,Rent,219,204,-15,Below_Forecast
+2023-08-09,2023,August,Wednesday,Utilities,187,204,17,Above_Forecast
+2023-08-09,2023,August,Wednesday,Marketing,398,401,3,Above_Forecast
+2023-08-10,2023,August,Thursday,"Coffee Sales",625,576,-49,Below_Forecast
+2023-08-10,2023,August,Thursday,"Food Sales",662,704,42,Above_Forecast
+2023-08-10,2023,August,Thursday,"Ingredients Cost",496,542,46,Above_Forecast
+2023-08-10,2023,August,Thursday,Labor,188,199,11,Above_Forecast
+2023-08-10,2023,August,Thursday,Rent,165,164,-1,Below_Forecast
+2023-08-10,2023,August,Thursday,Utilities,441,467,26,Above_Forecast
+2023-08-10,2023,August,Thursday,Marketing,224,229,5,Above_Forecast
+2023-08-11,2023,August,Friday,"Coffee Sales",475,429,-46,Below_Forecast
+2023-08-11,2023,August,Friday,"Food Sales",940,984,44,Above_Forecast
+2023-08-11,2023,August,Friday,"Ingredients Cost",227,239,12,Above_Forecast
+2023-08-11,2023,August,Friday,Labor,460,465,5,Above_Forecast
+2023-08-11,2023,August,Friday,Rent,246,250,4,Above_Forecast
+2023-08-11,2023,August,Friday,Utilities,268,246,-22,Below_Forecast
+2023-08-11,2023,August,Friday,Marketing,497,509,12,Above_Forecast
+2023-08-12,2023,August,Saturday,"Coffee Sales",399,427,28,Above_Forecast
+2023-08-12,2023,August,Saturday,"Food Sales",860,891,31,Above_Forecast
+2023-08-12,2023,August,Saturday,"Ingredients Cost",393,371,-22,Below_Forecast
+2023-08-12,2023,August,Saturday,Labor,256,246,-10,Below_Forecast
+2023-08-12,2023,August,Saturday,Rent,353,382,29,Above_Forecast
+2023-08-12,2023,August,Saturday,Utilities,236,232,-4,Below_Forecast
+2023-08-12,2023,August,Saturday,Marketing,167,158,-9,Below_Forecast
+2023-08-13,2023,August,Sunday,"Coffee Sales",909,877,-32,Below_Forecast
+2023-08-13,2023,August,Sunday,"Food Sales",942,1029,87,Above_Forecast
+2023-08-13,2023,August,Sunday,"Ingredients Cost",445,463,18,Above_Forecast
+2023-08-13,2023,August,Sunday,Labor,231,221,-10,Below_Forecast
+2023-08-13,2023,August,Sunday,Rent,337,361,24,Above_Forecast
+2023-08-13,2023,August,Sunday,Utilities,157,160,3,Above_Forecast
+2023-08-13,2023,August,Sunday,Marketing,428,443,15,Above_Forecast
+2023-08-14,2023,August,Monday,"Coffee Sales",535,568,33,Above_Forecast
+2023-08-14,2023,August,Monday,"Food Sales",536,493,-43,Below_Forecast
+2023-08-14,2023,August,Monday,"Ingredients Cost",283,257,-26,Below_Forecast
+2023-08-14,2023,August,Monday,Labor,348,343,-5,Below_Forecast
+2023-08-14,2023,August,Monday,Rent,360,370,10,Above_Forecast
+2023-08-14,2023,August,Monday,Utilities,438,429,-9,Below_Forecast
+2023-08-14,2023,August,Monday,Marketing,136,123,-13,Below_Forecast
+2023-08-15,2023,August,Tuesday,"Coffee Sales",562,509,-53,Below_Forecast
+2023-08-15,2023,August,Tuesday,"Food Sales",411,412,1,Above_Forecast
+2023-08-15,2023,August,Tuesday,"Ingredients Cost",279,266,-13,Below_Forecast
+2023-08-15,2023,August,Tuesday,Labor,453,496,43,Above_Forecast
+2023-08-15,2023,August,Tuesday,Rent,466,437,-29,Below_Forecast
+2023-08-15,2023,August,Tuesday,Utilities,349,333,-16,Below_Forecast
+2023-08-15,2023,August,Tuesday,Marketing,159,157,-2,Below_Forecast
+2023-08-16,2023,August,Wednesday,"Coffee Sales",550,524,-26,Below_Forecast
+2023-08-16,2023,August,Wednesday,"Food Sales",632,688,56,Above_Forecast
+2023-08-16,2023,August,Wednesday,"Ingredients Cost",252,270,18,Above_Forecast
+2023-08-16,2023,August,Wednesday,Labor,176,161,-15,Below_Forecast
+2023-08-16,2023,August,Wednesday,Rent,218,211,-7,Below_Forecast
+2023-08-16,2023,August,Wednesday,Utilities,102,108,6,Above_Forecast
+2023-08-16,2023,August,Wednesday,Marketing,210,210,0,Above_Forecast
+2023-08-17,2023,August,Thursday,"Coffee Sales",492,497,5,Above_Forecast
+2023-08-17,2023,August,Thursday,"Food Sales",735,746,11,Above_Forecast
+2023-08-17,2023,August,Thursday,"Ingredients Cost",281,268,-13,Below_Forecast
+2023-08-17,2023,August,Thursday,Labor,107,114,7,Above_Forecast
+2023-08-17,2023,August,Thursday,Rent,371,339,-32,Below_Forecast
+2023-08-17,2023,August,Thursday,Utilities,452,411,-41,Below_Forecast
+2023-08-17,2023,August,Thursday,Marketing,394,365,-29,Below_Forecast
+2023-08-18,2023,August,Friday,"Coffee Sales",848,880,32,Above_Forecast
+2023-08-18,2023,August,Friday,"Food Sales",369,396,27,Above_Forecast
+2023-08-18,2023,August,Friday,"Ingredients Cost",287,289,2,Above_Forecast
+2023-08-18,2023,August,Friday,Labor,132,125,-7,Below_Forecast
+2023-08-18,2023,August,Friday,Rent,239,242,3,Above_Forecast
+2023-08-18,2023,August,Friday,Utilities,258,276,18,Above_Forecast
+2023-08-18,2023,August,Friday,Marketing,101,96,-5,Below_Forecast
+2023-08-19,2023,August,Saturday,"Coffee Sales",796,808,12,Above_Forecast
+2023-08-19,2023,August,Saturday,"Food Sales",793,848,55,Above_Forecast
+2023-08-19,2023,August,Saturday,"Ingredients Cost",303,281,-22,Below_Forecast
+2023-08-19,2023,August,Saturday,Labor,147,161,14,Above_Forecast
+2023-08-19,2023,August,Saturday,Rent,373,342,-31,Below_Forecast
+2023-08-19,2023,August,Saturday,Utilities,372,335,-37,Below_Forecast
+2023-08-19,2023,August,Saturday,Marketing,170,178,8,Above_Forecast
+2023-08-20,2023,August,Sunday,"Coffee Sales",823,842,19,Above_Forecast
+2023-08-20,2023,August,Sunday,"Food Sales",779,849,70,Above_Forecast
+2023-08-20,2023,August,Sunday,"Ingredients Cost",140,132,-8,Below_Forecast
+2023-08-20,2023,August,Sunday,Labor,490,497,7,Above_Forecast
+2023-08-20,2023,August,Sunday,Rent,446,449,3,Above_Forecast
+2023-08-20,2023,August,Sunday,Utilities,475,511,36,Above_Forecast
+2023-08-20,2023,August,Sunday,Marketing,414,391,-23,Below_Forecast
+2023-08-21,2023,August,Monday,"Coffee Sales",887,908,21,Above_Forecast
+2023-08-21,2023,August,Monday,"Food Sales",282,280,-2,Below_Forecast
+2023-08-21,2023,August,Monday,"Ingredients Cost",428,389,-39,Below_Forecast
+2023-08-21,2023,August,Monday,Labor,178,160,-18,Below_Forecast
+2023-08-21,2023,August,Monday,Rent,377,374,-3,Below_Forecast
+2023-08-21,2023,August,Monday,Utilities,286,302,16,Above_Forecast
+2023-08-21,2023,August,Monday,Marketing,238,246,8,Above_Forecast
+2023-08-22,2023,August,Tuesday,"Coffee Sales",552,555,3,Above_Forecast
+2023-08-22,2023,August,Tuesday,"Food Sales",822,783,-39,Below_Forecast
+2023-08-22,2023,August,Tuesday,"Ingredients Cost",335,336,1,Above_Forecast
+2023-08-22,2023,August,Tuesday,Labor,334,364,30,Above_Forecast
+2023-08-22,2023,August,Tuesday,Rent,109,101,-8,Below_Forecast
+2023-08-22,2023,August,Tuesday,Utilities,186,171,-15,Below_Forecast
+2023-08-22,2023,August,Tuesday,Marketing,348,361,13,Above_Forecast
+2023-08-23,2023,August,Wednesday,"Coffee Sales",865,861,-4,Below_Forecast
+2023-08-23,2023,August,Wednesday,"Food Sales",731,781,50,Above_Forecast
+2023-08-23,2023,August,Wednesday,"Ingredients Cost",401,387,-14,Below_Forecast
+2023-08-23,2023,August,Wednesday,Labor,267,261,-6,Below_Forecast
+2023-08-23,2023,August,Wednesday,Rent,389,376,-13,Below_Forecast
+2023-08-23,2023,August,Wednesday,Utilities,495,514,19,Above_Forecast
+2023-08-23,2023,August,Wednesday,Marketing,304,319,15,Above_Forecast
+2023-08-24,2023,August,Thursday,"Coffee Sales",386,372,-14,Below_Forecast
+2023-08-24,2023,August,Thursday,"Food Sales",725,689,-36,Below_Forecast
+2023-08-24,2023,August,Thursday,"Ingredients Cost",326,323,-3,Below_Forecast
+2023-08-24,2023,August,Thursday,Labor,486,516,30,Above_Forecast
+2023-08-24,2023,August,Thursday,Rent,351,330,-21,Below_Forecast
+2023-08-24,2023,August,Thursday,Utilities,366,370,4,Above_Forecast
+2023-08-24,2023,August,Thursday,Marketing,382,395,13,Above_Forecast
+2023-08-25,2023,August,Friday,"Coffee Sales",569,568,-1,Below_Forecast
+2023-08-25,2023,August,Friday,"Food Sales",207,195,-12,Below_Forecast
+2023-08-25,2023,August,Friday,"Ingredients Cost",231,209,-22,Below_Forecast
+2023-08-25,2023,August,Friday,Labor,472,448,-24,Below_Forecast
+2023-08-25,2023,August,Friday,Rent,132,140,8,Above_Forecast
+2023-08-25,2023,August,Friday,Utilities,482,450,-32,Below_Forecast
+2023-08-25,2023,August,Friday,Marketing,234,226,-8,Below_Forecast
+2023-08-26,2023,August,Saturday,"Coffee Sales",707,670,-37,Below_Forecast
+2023-08-26,2023,August,Saturday,"Food Sales",203,203,0,Above_Forecast
+2023-08-26,2023,August,Saturday,"Ingredients Cost",101,100,-1,Below_Forecast
+2023-08-26,2023,August,Saturday,Labor,191,184,-7,Below_Forecast
+2023-08-26,2023,August,Saturday,Rent,466,509,43,Above_Forecast
+2023-08-26,2023,August,Saturday,Utilities,492,500,8,Above_Forecast
+2023-08-26,2023,August,Saturday,Marketing,474,507,33,Above_Forecast
+2023-08-27,2023,August,Sunday,"Coffee Sales",554,570,16,Above_Forecast
+2023-08-27,2023,August,Sunday,"Food Sales",568,623,55,Above_Forecast
+2023-08-27,2023,August,Sunday,"Ingredients Cost",180,173,-7,Below_Forecast
+2023-08-27,2023,August,Sunday,Labor,443,462,19,Above_Forecast
+2023-08-27,2023,August,Sunday,Rent,319,293,-26,Below_Forecast
+2023-08-27,2023,August,Sunday,Utilities,270,285,15,Above_Forecast
+2023-08-27,2023,August,Sunday,Marketing,382,406,24,Above_Forecast
+2023-08-28,2023,August,Monday,"Coffee Sales",673,667,-6,Below_Forecast
+2023-08-28,2023,August,Monday,"Food Sales",918,917,-1,Below_Forecast
+2023-08-28,2023,August,Monday,"Ingredients Cost",165,176,11,Above_Forecast
+2023-08-28,2023,August,Monday,Labor,381,350,-31,Below_Forecast
+2023-08-28,2023,August,Monday,Rent,208,205,-3,Below_Forecast
+2023-08-28,2023,August,Monday,Utilities,379,378,-1,Below_Forecast
+2023-08-28,2023,August,Monday,Marketing,133,123,-10,Below_Forecast
+2023-08-29,2023,August,Tuesday,"Coffee Sales",953,964,11,Above_Forecast
+2023-08-29,2023,August,Tuesday,"Food Sales",988,1009,21,Above_Forecast
+2023-08-29,2023,August,Tuesday,"Ingredients Cost",454,497,43,Above_Forecast
+2023-08-29,2023,August,Tuesday,Labor,214,229,15,Above_Forecast
+2023-08-29,2023,August,Tuesday,Rent,148,142,-6,Below_Forecast
+2023-08-29,2023,August,Tuesday,Utilities,264,238,-26,Below_Forecast
+2023-08-29,2023,August,Tuesday,Marketing,388,424,36,Above_Forecast
+2023-08-30,2023,August,Wednesday,"Coffee Sales",838,812,-26,Below_Forecast
+2023-08-30,2023,August,Wednesday,"Food Sales",388,377,-11,Below_Forecast
+2023-08-30,2023,August,Wednesday,"Ingredients Cost",294,289,-5,Below_Forecast
+2023-08-30,2023,August,Wednesday,Labor,500,510,10,Above_Forecast
+2023-08-30,2023,August,Wednesday,Rent,222,206,-16,Below_Forecast
+2023-08-30,2023,August,Wednesday,Utilities,264,242,-22,Below_Forecast
+2023-08-30,2023,August,Wednesday,Marketing,464,444,-20,Below_Forecast
+2023-08-31,2023,August,Thursday,"Coffee Sales",268,293,25,Above_Forecast
+2023-08-31,2023,August,Thursday,"Food Sales",361,348,-13,Below_Forecast
+2023-08-31,2023,August,Thursday,"Ingredients Cost",356,358,2,Above_Forecast
+2023-08-31,2023,August,Thursday,Labor,286,288,2,Above_Forecast
+2023-08-31,2023,August,Thursday,Rent,275,263,-12,Below_Forecast
+2023-08-31,2023,August,Thursday,Utilities,336,361,25,Above_Forecast
+2023-08-31,2023,August,Thursday,Marketing,455,462,7,Above_Forecast
+2023-09-01,2023,September,Friday,"Coffee Sales",735,732,-3,Below_Forecast
+2023-09-01,2023,September,Friday,"Food Sales",290,314,24,Above_Forecast
+2023-09-01,2023,September,Friday,"Ingredients Cost",244,227,-17,Below_Forecast
+2023-09-01,2023,September,Friday,Labor,432,408,-24,Below_Forecast
+2023-09-01,2023,September,Friday,Rent,175,177,2,Above_Forecast
+2023-09-01,2023,September,Friday,Utilities,142,152,10,Above_Forecast
+2023-09-01,2023,September,Friday,Marketing,195,197,2,Above_Forecast
+2023-09-02,2023,September,Saturday,"Coffee Sales",416,420,4,Above_Forecast
+2023-09-02,2023,September,Saturday,"Food Sales",267,260,-7,Below_Forecast
+2023-09-02,2023,September,Saturday,"Ingredients Cost",178,184,6,Above_Forecast
+2023-09-02,2023,September,Saturday,Labor,205,216,11,Above_Forecast
+2023-09-02,2023,September,Saturday,Rent,332,318,-14,Below_Forecast
+2023-09-02,2023,September,Saturday,Utilities,161,166,5,Above_Forecast
+2023-09-02,2023,September,Saturday,Marketing,376,413,37,Above_Forecast
+2023-09-03,2023,September,Sunday,"Coffee Sales",344,326,-18,Below_Forecast
+2023-09-03,2023,September,Sunday,"Food Sales",915,855,-60,Below_Forecast
+2023-09-03,2023,September,Sunday,"Ingredients Cost",239,242,3,Above_Forecast
+2023-09-03,2023,September,Sunday,Labor,464,453,-11,Below_Forecast
+2023-09-03,2023,September,Sunday,Rent,331,359,28,Above_Forecast
+2023-09-03,2023,September,Sunday,Utilities,291,319,28,Above_Forecast
+2023-09-03,2023,September,Sunday,Marketing,429,396,-33,Below_Forecast
+2023-09-04,2023,September,Monday,"Coffee Sales",486,472,-14,Below_Forecast
+2023-09-04,2023,September,Monday,"Food Sales",883,894,11,Above_Forecast
+2023-09-04,2023,September,Monday,"Ingredients Cost",405,396,-9,Below_Forecast
+2023-09-04,2023,September,Monday,Labor,382,362,-20,Below_Forecast
+2023-09-04,2023,September,Monday,Rent,382,393,11,Above_Forecast
+2023-09-04,2023,September,Monday,Utilities,342,332,-10,Below_Forecast
+2023-09-04,2023,September,Monday,Marketing,349,347,-2,Below_Forecast
+2023-09-05,2023,September,Tuesday,"Coffee Sales",353,377,24,Above_Forecast
+2023-09-05,2023,September,Tuesday,"Food Sales",389,367,-22,Below_Forecast
+2023-09-05,2023,September,Tuesday,"Ingredients Cost",218,207,-11,Below_Forecast
+2023-09-05,2023,September,Tuesday,Labor,211,217,6,Above_Forecast
+2023-09-05,2023,September,Tuesday,Rent,401,377,-24,Below_Forecast
+2023-09-05,2023,September,Tuesday,Utilities,485,469,-16,Below_Forecast
+2023-09-05,2023,September,Tuesday,Marketing,267,265,-2,Below_Forecast
+2023-09-06,2023,September,Wednesday,"Coffee Sales",541,580,39,Above_Forecast
+2023-09-06,2023,September,Wednesday,"Food Sales",339,315,-24,Below_Forecast
+2023-09-06,2023,September,Wednesday,"Ingredients Cost",310,289,-21,Below_Forecast
+2023-09-06,2023,September,Wednesday,Labor,110,103,-7,Below_Forecast
+2023-09-06,2023,September,Wednesday,Rent,303,309,6,Above_Forecast
+2023-09-06,2023,September,Wednesday,Utilities,121,113,-8,Below_Forecast
+2023-09-06,2023,September,Wednesday,Marketing,391,381,-10,Below_Forecast
+2023-09-07,2023,September,Thursday,"Coffee Sales",946,852,-94,Below_Forecast
+2023-09-07,2023,September,Thursday,"Food Sales",739,673,-66,Below_Forecast
+2023-09-07,2023,September,Thursday,"Ingredients Cost",255,264,9,Above_Forecast
+2023-09-07,2023,September,Thursday,Labor,207,194,-13,Below_Forecast
+2023-09-07,2023,September,Thursday,Rent,446,471,25,Above_Forecast
+2023-09-07,2023,September,Thursday,Utilities,216,216,0,Above_Forecast
+2023-09-07,2023,September,Thursday,Marketing,344,360,16,Above_Forecast
+2023-09-08,2023,September,Friday,"Coffee Sales",874,913,39,Above_Forecast
+2023-09-08,2023,September,Friday,"Food Sales",324,344,20,Above_Forecast
+2023-09-08,2023,September,Friday,"Ingredients Cost",310,296,-14,Below_Forecast
+2023-09-08,2023,September,Friday,Labor,352,383,31,Above_Forecast
+2023-09-08,2023,September,Friday,Rent,374,387,13,Above_Forecast
+2023-09-08,2023,September,Friday,Utilities,335,345,10,Above_Forecast
+2023-09-08,2023,September,Friday,Marketing,325,357,32,Above_Forecast
+2023-09-09,2023,September,Saturday,"Coffee Sales",553,509,-44,Below_Forecast
+2023-09-09,2023,September,Saturday,"Food Sales",433,458,25,Above_Forecast
+2023-09-09,2023,September,Saturday,"Ingredients Cost",317,314,-3,Below_Forecast
+2023-09-09,2023,September,Saturday,Labor,452,461,9,Above_Forecast
+2023-09-09,2023,September,Saturday,Rent,146,132,-14,Below_Forecast
+2023-09-09,2023,September,Saturday,Utilities,399,402,3,Above_Forecast
+2023-09-09,2023,September,Saturday,Marketing,446,456,10,Above_Forecast
+2023-09-10,2023,September,Sunday,"Coffee Sales",624,587,-37,Below_Forecast
+2023-09-10,2023,September,Sunday,"Food Sales",804,744,-60,Below_Forecast
+2023-09-10,2023,September,Sunday,"Ingredients Cost",458,485,27,Above_Forecast
+2023-09-10,2023,September,Sunday,Labor,351,380,29,Above_Forecast
+2023-09-10,2023,September,Sunday,Rent,126,123,-3,Below_Forecast
+2023-09-10,2023,September,Sunday,Utilities,432,426,-6,Below_Forecast
+2023-09-10,2023,September,Sunday,Marketing,350,317,-33,Below_Forecast
+2023-09-11,2023,September,Monday,"Coffee Sales",666,710,44,Above_Forecast
+2023-09-11,2023,September,Monday,"Food Sales",826,773,-53,Below_Forecast
+2023-09-11,2023,September,Monday,"Ingredients Cost",439,399,-40,Below_Forecast
+2023-09-11,2023,September,Monday,Labor,202,220,18,Above_Forecast
+2023-09-11,2023,September,Monday,Rent,367,390,23,Above_Forecast
+2023-09-11,2023,September,Monday,Utilities,490,535,45,Above_Forecast
+2023-09-11,2023,September,Monday,Marketing,211,199,-12,Below_Forecast
+2023-09-12,2023,September,Tuesday,"Coffee Sales",631,628,-3,Below_Forecast
+2023-09-12,2023,September,Tuesday,"Food Sales",664,725,61,Above_Forecast
+2023-09-12,2023,September,Tuesday,"Ingredients Cost",167,180,13,Above_Forecast
+2023-09-12,2023,September,Tuesday,Labor,481,521,40,Above_Forecast
+2023-09-12,2023,September,Tuesday,Rent,174,174,0,Above_Forecast
+2023-09-12,2023,September,Tuesday,Utilities,350,382,32,Above_Forecast
+2023-09-12,2023,September,Tuesday,Marketing,388,409,21,Above_Forecast
+2023-09-13,2023,September,Wednesday,"Coffee Sales",324,342,18,Above_Forecast
+2023-09-13,2023,September,Wednesday,"Food Sales",355,335,-20,Below_Forecast
+2023-09-13,2023,September,Wednesday,"Ingredients Cost",137,142,5,Above_Forecast
+2023-09-13,2023,September,Wednesday,Labor,109,107,-2,Below_Forecast
+2023-09-13,2023,September,Wednesday,Rent,264,261,-3,Below_Forecast
+2023-09-13,2023,September,Wednesday,Utilities,247,260,13,Above_Forecast
+2023-09-13,2023,September,Wednesday,Marketing,251,237,-14,Below_Forecast
+2023-09-14,2023,September,Thursday,"Coffee Sales",504,534,30,Above_Forecast
+2023-09-14,2023,September,Thursday,"Food Sales",358,323,-35,Below_Forecast
+2023-09-14,2023,September,Thursday,"Ingredients Cost",128,125,-3,Below_Forecast
+2023-09-14,2023,September,Thursday,Labor,105,105,0,Above_Forecast
+2023-09-14,2023,September,Thursday,Rent,247,246,-1,Below_Forecast
+2023-09-14,2023,September,Thursday,Utilities,215,196,-19,Below_Forecast
+2023-09-14,2023,September,Thursday,Marketing,271,277,6,Above_Forecast
+2023-09-15,2023,September,Friday,"Coffee Sales",859,894,35,Above_Forecast
+2023-09-15,2023,September,Friday,"Food Sales",554,524,-30,Below_Forecast
+2023-09-15,2023,September,Friday,"Ingredients Cost",469,474,5,Above_Forecast
+2023-09-15,2023,September,Friday,Labor,152,160,8,Above_Forecast
+2023-09-15,2023,September,Friday,Rent,414,380,-34,Below_Forecast
+2023-09-15,2023,September,Friday,Utilities,240,261,21,Above_Forecast
+2023-09-15,2023,September,Friday,Marketing,395,359,-36,Below_Forecast
+2023-09-16,2023,September,Saturday,"Coffee Sales",334,347,13,Above_Forecast
+2023-09-16,2023,September,Saturday,"Food Sales",526,513,-13,Below_Forecast
+2023-09-16,2023,September,Saturday,"Ingredients Cost",233,246,13,Above_Forecast
+2023-09-16,2023,September,Saturday,Labor,402,435,33,Above_Forecast
+2023-09-16,2023,September,Saturday,Rent,486,468,-18,Below_Forecast
+2023-09-16,2023,September,Saturday,Utilities,363,359,-4,Below_Forecast
+2023-09-16,2023,September,Saturday,Marketing,175,170,-5,Below_Forecast
+2023-09-17,2023,September,Sunday,"Coffee Sales",272,279,7,Above_Forecast
+2023-09-17,2023,September,Sunday,"Food Sales",911,940,29,Above_Forecast
+2023-09-17,2023,September,Sunday,"Ingredients Cost",400,391,-9,Below_Forecast
+2023-09-17,2023,September,Sunday,Labor,126,126,0,Above_Forecast
+2023-09-17,2023,September,Sunday,Rent,369,350,-19,Below_Forecast
+2023-09-17,2023,September,Sunday,Utilities,299,328,29,Above_Forecast
+2023-09-17,2023,September,Sunday,Marketing,254,260,6,Above_Forecast
+2023-09-18,2023,September,Monday,"Coffee Sales",256,263,7,Above_Forecast
+2023-09-18,2023,September,Monday,"Food Sales",614,605,-9,Below_Forecast
+2023-09-18,2023,September,Monday,"Ingredients Cost",425,443,18,Above_Forecast
+2023-09-18,2023,September,Monday,Labor,484,501,17,Above_Forecast
+2023-09-18,2023,September,Monday,Rent,380,368,-12,Below_Forecast
+2023-09-18,2023,September,Monday,Utilities,279,251,-28,Below_Forecast
+2023-09-18,2023,September,Monday,Marketing,251,226,-25,Below_Forecast
+2023-09-19,2023,September,Tuesday,"Coffee Sales",905,835,-70,Below_Forecast
+2023-09-19,2023,September,Tuesday,"Food Sales",476,507,31,Above_Forecast
+2023-09-19,2023,September,Tuesday,"Ingredients Cost",476,434,-42,Below_Forecast
+2023-09-19,2023,September,Tuesday,Labor,461,495,34,Above_Forecast
+2023-09-19,2023,September,Tuesday,Rent,192,207,15,Above_Forecast
+2023-09-19,2023,September,Tuesday,Utilities,378,350,-28,Below_Forecast
+2023-09-19,2023,September,Tuesday,Marketing,278,288,10,Above_Forecast
+2023-09-20,2023,September,Wednesday,"Coffee Sales",294,286,-8,Below_Forecast
+2023-09-20,2023,September,Wednesday,"Food Sales",502,506,4,Above_Forecast
+2023-09-20,2023,September,Wednesday,"Ingredients Cost",452,491,39,Above_Forecast
+2023-09-20,2023,September,Wednesday,Labor,489,460,-29,Below_Forecast
+2023-09-20,2023,September,Wednesday,Rent,303,323,20,Above_Forecast
+2023-09-20,2023,September,Wednesday,Utilities,274,278,4,Above_Forecast
+2023-09-20,2023,September,Wednesday,Marketing,454,444,-10,Below_Forecast
+2023-09-21,2023,September,Thursday,"Coffee Sales",865,805,-60,Below_Forecast
+2023-09-21,2023,September,Thursday,"Food Sales",804,756,-48,Below_Forecast
+2023-09-21,2023,September,Thursday,"Ingredients Cost",439,439,0,Above_Forecast
+2023-09-21,2023,September,Thursday,Labor,184,188,4,Above_Forecast
+2023-09-21,2023,September,Thursday,Rent,458,459,1,Above_Forecast
+2023-09-21,2023,September,Thursday,Utilities,348,315,-33,Below_Forecast
+2023-09-21,2023,September,Thursday,Marketing,200,188,-12,Below_Forecast
+2023-09-22,2023,September,Friday,"Coffee Sales",369,376,7,Above_Forecast
+2023-09-22,2023,September,Friday,"Food Sales",339,356,17,Above_Forecast
+2023-09-22,2023,September,Friday,"Ingredients Cost",319,338,19,Above_Forecast
+2023-09-22,2023,September,Friday,Labor,141,135,-6,Below_Forecast
+2023-09-22,2023,September,Friday,Rent,355,340,-15,Below_Forecast
+2023-09-22,2023,September,Friday,Utilities,438,402,-36,Below_Forecast
+2023-09-22,2023,September,Friday,Marketing,238,251,13,Above_Forecast
+2023-09-23,2023,September,Saturday,"Coffee Sales",272,284,12,Above_Forecast
+2023-09-23,2023,September,Saturday,"Food Sales",912,973,61,Above_Forecast
+2023-09-23,2023,September,Saturday,"Ingredients Cost",270,262,-8,Below_Forecast
+2023-09-23,2023,September,Saturday,Labor,489,491,2,Above_Forecast
+2023-09-23,2023,September,Saturday,Rent,313,287,-26,Below_Forecast
+2023-09-23,2023,September,Saturday,Utilities,189,175,-14,Below_Forecast
+2023-09-23,2023,September,Saturday,Marketing,168,156,-12,Below_Forecast
+2023-09-24,2023,September,Sunday,"Coffee Sales",706,674,-32,Below_Forecast
+2023-09-24,2023,September,Sunday,"Food Sales",348,379,31,Above_Forecast
+2023-09-24,2023,September,Sunday,"Ingredients Cost",275,267,-8,Below_Forecast
+2023-09-24,2023,September,Sunday,Labor,417,382,-35,Below_Forecast
+2023-09-24,2023,September,Sunday,Rent,232,221,-11,Below_Forecast
+2023-09-24,2023,September,Sunday,Utilities,138,131,-7,Below_Forecast
+2023-09-24,2023,September,Sunday,Marketing,433,455,22,Above_Forecast
+2023-09-25,2023,September,Monday,"Coffee Sales",807,827,20,Above_Forecast
+2023-09-25,2023,September,Monday,"Food Sales",707,659,-48,Below_Forecast
+2023-09-25,2023,September,Monday,"Ingredients Cost",479,482,3,Above_Forecast
+2023-09-25,2023,September,Monday,Labor,428,386,-42,Below_Forecast
+2023-09-25,2023,September,Monday,Rent,278,291,13,Above_Forecast
+2023-09-25,2023,September,Monday,Utilities,226,220,-6,Below_Forecast
+2023-09-25,2023,September,Monday,Marketing,182,168,-14,Below_Forecast
+2023-09-26,2023,September,Tuesday,"Coffee Sales",638,649,11,Above_Forecast
+2023-09-26,2023,September,Tuesday,"Food Sales",986,983,-3,Below_Forecast
+2023-09-26,2023,September,Tuesday,"Ingredients Cost",367,379,12,Above_Forecast
+2023-09-26,2023,September,Tuesday,Labor,383,379,-4,Below_Forecast
+2023-09-26,2023,September,Tuesday,Rent,351,335,-16,Below_Forecast
+2023-09-26,2023,September,Tuesday,Utilities,437,401,-36,Below_Forecast
+2023-09-26,2023,September,Tuesday,Marketing,435,476,41,Above_Forecast
+2023-09-27,2023,September,Wednesday,"Coffee Sales",783,784,1,Above_Forecast
+2023-09-27,2023,September,Wednesday,"Food Sales",479,477,-2,Below_Forecast
+2023-09-27,2023,September,Wednesday,"Ingredients Cost",157,142,-15,Below_Forecast
+2023-09-27,2023,September,Wednesday,Labor,399,438,39,Above_Forecast
+2023-09-27,2023,September,Wednesday,Rent,419,382,-37,Below_Forecast
+2023-09-27,2023,September,Wednesday,Utilities,136,144,8,Above_Forecast
+2023-09-27,2023,September,Wednesday,Marketing,428,412,-16,Below_Forecast
+2023-09-28,2023,September,Thursday,"Coffee Sales",238,247,9,Above_Forecast
+2023-09-28,2023,September,Thursday,"Food Sales",408,414,6,Above_Forecast
+2023-09-28,2023,September,Thursday,"Ingredients Cost",331,362,31,Above_Forecast
+2023-09-28,2023,September,Thursday,Labor,333,360,27,Above_Forecast
+2023-09-28,2023,September,Thursday,Rent,163,167,4,Above_Forecast
+2023-09-28,2023,September,Thursday,Utilities,379,399,20,Above_Forecast
+2023-09-28,2023,September,Thursday,Marketing,375,338,-37,Below_Forecast
+2023-09-29,2023,September,Friday,"Coffee Sales",585,600,15,Above_Forecast
+2023-09-29,2023,September,Friday,"Food Sales",554,588,34,Above_Forecast
+2023-09-29,2023,September,Friday,"Ingredients Cost",297,270,-27,Below_Forecast
+2023-09-29,2023,September,Friday,Labor,480,500,20,Above_Forecast
+2023-09-29,2023,September,Friday,Rent,284,267,-17,Below_Forecast
+2023-09-29,2023,September,Friday,Utilities,148,156,8,Above_Forecast
+2023-09-29,2023,September,Friday,Marketing,404,400,-4,Below_Forecast
+2023-09-30,2023,September,Saturday,"Coffee Sales",710,711,1,Above_Forecast
+2023-09-30,2023,September,Saturday,"Food Sales",494,454,-40,Below_Forecast
+2023-09-30,2023,September,Saturday,"Ingredients Cost",213,229,16,Above_Forecast
+2023-09-30,2023,September,Saturday,Labor,230,224,-6,Below_Forecast
+2023-09-30,2023,September,Saturday,Rent,391,395,4,Above_Forecast
+2023-09-30,2023,September,Saturday,Utilities,243,260,17,Above_Forecast
+2023-09-30,2023,September,Saturday,Marketing,405,440,35,Above_Forecast
+2023-10-01,2023,October,Sunday,"Coffee Sales",896,951,55,Above_Forecast
+2023-10-01,2023,October,Sunday,"Food Sales",428,387,-41,Below_Forecast
+2023-10-01,2023,October,Sunday,"Ingredients Cost",225,241,16,Above_Forecast
+2023-10-01,2023,October,Sunday,Labor,478,497,19,Above_Forecast
+2023-10-01,2023,October,Sunday,Rent,359,364,5,Above_Forecast
+2023-10-01,2023,October,Sunday,Utilities,419,405,-14,Below_Forecast
+2023-10-01,2023,October,Sunday,Marketing,147,139,-8,Below_Forecast
+2023-10-02,2023,October,Monday,"Coffee Sales",440,402,-38,Below_Forecast
+2023-10-02,2023,October,Monday,"Food Sales",575,580,5,Above_Forecast
+2023-10-02,2023,October,Monday,"Ingredients Cost",242,255,13,Above_Forecast
+2023-10-02,2023,October,Monday,Labor,262,262,0,Above_Forecast
+2023-10-02,2023,October,Monday,Rent,341,354,13,Above_Forecast
+2023-10-02,2023,October,Monday,Utilities,203,197,-6,Below_Forecast
+2023-10-02,2023,October,Monday,Marketing,232,210,-22,Below_Forecast
+2023-10-03,2023,October,Tuesday,"Coffee Sales",993,972,-21,Below_Forecast
+2023-10-03,2023,October,Tuesday,"Food Sales",481,527,46,Above_Forecast
+2023-10-03,2023,October,Tuesday,"Ingredients Cost",357,349,-8,Below_Forecast
+2023-10-03,2023,October,Tuesday,Labor,318,292,-26,Below_Forecast
+2023-10-03,2023,October,Tuesday,Rent,175,171,-4,Below_Forecast
+2023-10-03,2023,October,Tuesday,Utilities,275,248,-27,Below_Forecast
+2023-10-03,2023,October,Tuesday,Marketing,494,466,-28,Below_Forecast
+2023-10-04,2023,October,Wednesday,"Coffee Sales",469,495,26,Above_Forecast
+2023-10-04,2023,October,Wednesday,"Food Sales",789,854,65,Above_Forecast
+2023-10-04,2023,October,Wednesday,"Ingredients Cost",469,485,16,Above_Forecast
+2023-10-04,2023,October,Wednesday,Labor,297,273,-24,Below_Forecast
+2023-10-04,2023,October,Wednesday,Rent,202,219,17,Above_Forecast
+2023-10-04,2023,October,Wednesday,Utilities,210,216,6,Above_Forecast
+2023-10-04,2023,October,Wednesday,Marketing,413,417,4,Above_Forecast
+2023-10-05,2023,October,Thursday,"Coffee Sales",950,855,-95,Below_Forecast
+2023-10-05,2023,October,Thursday,"Food Sales",337,366,29,Above_Forecast
+2023-10-05,2023,October,Thursday,"Ingredients Cost",453,445,-8,Below_Forecast
+2023-10-05,2023,October,Thursday,Labor,353,379,26,Above_Forecast
+2023-10-05,2023,October,Thursday,Rent,162,164,2,Above_Forecast
+2023-10-05,2023,October,Thursday,Utilities,484,512,28,Above_Forecast
+2023-10-05,2023,October,Thursday,Marketing,155,169,14,Above_Forecast
+2023-10-06,2023,October,Friday,"Coffee Sales",891,916,25,Above_Forecast
+2023-10-06,2023,October,Friday,"Food Sales",700,723,23,Above_Forecast
+2023-10-06,2023,October,Friday,"Ingredients Cost",219,204,-15,Below_Forecast
+2023-10-06,2023,October,Friday,Labor,265,252,-13,Below_Forecast
+2023-10-06,2023,October,Friday,Rent,230,233,3,Above_Forecast
+2023-10-06,2023,October,Friday,Utilities,144,138,-6,Below_Forecast
+2023-10-06,2023,October,Friday,Marketing,375,373,-2,Below_Forecast
+2023-10-07,2023,October,Saturday,"Coffee Sales",714,733,19,Above_Forecast
+2023-10-07,2023,October,Saturday,"Food Sales",371,338,-33,Below_Forecast
+2023-10-07,2023,October,Saturday,"Ingredients Cost",152,145,-7,Below_Forecast
+2023-10-07,2023,October,Saturday,Labor,177,190,13,Above_Forecast
+2023-10-07,2023,October,Saturday,Rent,388,377,-11,Below_Forecast
+2023-10-07,2023,October,Saturday,Utilities,302,285,-17,Below_Forecast
+2023-10-07,2023,October,Saturday,Marketing,131,131,0,Above_Forecast
+2023-10-08,2023,October,Sunday,"Coffee Sales",265,244,-21,Below_Forecast
+2023-10-08,2023,October,Sunday,"Food Sales",250,240,-10,Below_Forecast
+2023-10-08,2023,October,Sunday,"Ingredients Cost",204,196,-8,Below_Forecast
+2023-10-08,2023,October,Sunday,Labor,290,275,-15,Below_Forecast
+2023-10-08,2023,October,Sunday,Rent,366,384,18,Above_Forecast
+2023-10-08,2023,October,Sunday,Utilities,419,413,-6,Below_Forecast
+2023-10-08,2023,October,Sunday,Marketing,305,319,14,Above_Forecast
+2023-10-09,2023,October,Monday,"Coffee Sales",873,893,20,Above_Forecast
+2023-10-09,2023,October,Monday,"Food Sales",257,239,-18,Below_Forecast
+2023-10-09,2023,October,Monday,"Ingredients Cost",479,484,5,Above_Forecast
+2023-10-09,2023,October,Monday,Labor,160,173,13,Above_Forecast
+2023-10-09,2023,October,Monday,Rent,465,478,13,Above_Forecast
+2023-10-09,2023,October,Monday,Utilities,182,196,14,Above_Forecast
+2023-10-09,2023,October,Monday,Marketing,323,347,24,Above_Forecast
+2023-10-10,2023,October,Tuesday,"Coffee Sales",438,446,8,Above_Forecast
+2023-10-10,2023,October,Tuesday,"Food Sales",565,542,-23,Below_Forecast
+2023-10-10,2023,October,Tuesday,"Ingredients Cost",444,452,8,Above_Forecast
+2023-10-10,2023,October,Tuesday,Labor,130,126,-4,Below_Forecast
+2023-10-10,2023,October,Tuesday,Rent,108,115,7,Above_Forecast
+2023-10-10,2023,October,Tuesday,Utilities,216,196,-20,Below_Forecast
+2023-10-10,2023,October,Tuesday,Marketing,262,265,3,Above_Forecast
+2023-10-11,2023,October,Wednesday,"Coffee Sales",753,819,66,Above_Forecast
+2023-10-11,2023,October,Wednesday,"Food Sales",259,245,-14,Below_Forecast
+2023-10-11,2023,October,Wednesday,"Ingredients Cost",228,217,-11,Below_Forecast
+2023-10-11,2023,October,Wednesday,Labor,403,406,3,Above_Forecast
+2023-10-11,2023,October,Wednesday,Rent,344,374,30,Above_Forecast
+2023-10-11,2023,October,Wednesday,Utilities,458,414,-44,Below_Forecast
+2023-10-11,2023,October,Wednesday,Marketing,436,393,-43,Below_Forecast
+2023-10-12,2023,October,Thursday,"Coffee Sales",739,811,72,Above_Forecast
+2023-10-12,2023,October,Thursday,"Food Sales",290,280,-10,Below_Forecast
+2023-10-12,2023,October,Thursday,"Ingredients Cost",277,285,8,Above_Forecast
+2023-10-12,2023,October,Thursday,Labor,242,248,6,Above_Forecast
+2023-10-12,2023,October,Thursday,Rent,282,295,13,Above_Forecast
+2023-10-12,2023,October,Thursday,Utilities,143,137,-6,Below_Forecast
+2023-10-12,2023,October,Thursday,Marketing,220,211,-9,Below_Forecast
+2023-10-13,2023,October,Friday,"Coffee Sales",733,749,16,Above_Forecast
+2023-10-13,2023,October,Friday,"Food Sales",709,727,18,Above_Forecast
+2023-10-13,2023,October,Friday,"Ingredients Cost",213,198,-15,Below_Forecast
+2023-10-13,2023,October,Friday,Labor,388,354,-34,Below_Forecast
+2023-10-13,2023,October,Friday,Rent,262,268,6,Above_Forecast
+2023-10-13,2023,October,Friday,Utilities,155,142,-13,Below_Forecast
+2023-10-13,2023,October,Friday,Marketing,314,327,13,Above_Forecast
+2023-10-14,2023,October,Saturday,"Coffee Sales",321,294,-27,Below_Forecast
+2023-10-14,2023,October,Saturday,"Food Sales",785,748,-37,Below_Forecast
+2023-10-14,2023,October,Saturday,"Ingredients Cost",147,155,8,Above_Forecast
+2023-10-14,2023,October,Saturday,Labor,485,529,44,Above_Forecast
+2023-10-14,2023,October,Saturday,Rent,385,407,22,Above_Forecast
+2023-10-14,2023,October,Saturday,Utilities,244,239,-5,Below_Forecast
+2023-10-14,2023,October,Saturday,Marketing,216,202,-14,Below_Forecast
+2023-10-15,2023,October,Sunday,"Coffee Sales",651,619,-32,Below_Forecast
+2023-10-15,2023,October,Sunday,"Food Sales",782,834,52,Above_Forecast
+2023-10-15,2023,October,Sunday,"Ingredients Cost",426,415,-11,Below_Forecast
+2023-10-15,2023,October,Sunday,Labor,381,402,21,Above_Forecast
+2023-10-15,2023,October,Sunday,Rent,160,152,-8,Below_Forecast
+2023-10-15,2023,October,Sunday,Utilities,137,135,-2,Below_Forecast
+2023-10-15,2023,October,Sunday,Marketing,115,125,10,Above_Forecast
+2023-10-16,2023,October,Monday,"Coffee Sales",583,573,-10,Below_Forecast
+2023-10-16,2023,October,Monday,"Food Sales",528,569,41,Above_Forecast
+2023-10-16,2023,October,Monday,"Ingredients Cost",342,363,21,Above_Forecast
+2023-10-16,2023,October,Monday,Labor,225,231,6,Above_Forecast
+2023-10-16,2023,October,Monday,Rent,170,164,-6,Below_Forecast
+2023-10-16,2023,October,Monday,Utilities,246,240,-6,Below_Forecast
+2023-10-16,2023,October,Monday,Marketing,268,255,-13,Below_Forecast
+2023-10-17,2023,October,Tuesday,"Coffee Sales",536,548,12,Above_Forecast
+2023-10-17,2023,October,Tuesday,"Food Sales",529,507,-22,Below_Forecast
+2023-10-17,2023,October,Tuesday,"Ingredients Cost",175,190,15,Above_Forecast
+2023-10-17,2023,October,Tuesday,Labor,255,241,-14,Below_Forecast
+2023-10-17,2023,October,Tuesday,Rent,403,440,37,Above_Forecast
+2023-10-17,2023,October,Tuesday,Utilities,119,108,-11,Below_Forecast
+2023-10-17,2023,October,Tuesday,Marketing,209,227,18,Above_Forecast
+2023-10-18,2023,October,Wednesday,"Coffee Sales",667,612,-55,Below_Forecast
+2023-10-18,2023,October,Wednesday,"Food Sales",830,750,-80,Below_Forecast
+2023-10-18,2023,October,Wednesday,"Ingredients Cost",353,341,-12,Below_Forecast
+2023-10-18,2023,October,Wednesday,Labor,125,112,-13,Below_Forecast
+2023-10-18,2023,October,Wednesday,Rent,139,148,9,Above_Forecast
+2023-10-18,2023,October,Wednesday,Utilities,286,290,4,Above_Forecast
+2023-10-18,2023,October,Wednesday,Marketing,406,438,32,Above_Forecast
+2023-10-19,2023,October,Thursday,"Coffee Sales",733,744,11,Above_Forecast
+2023-10-19,2023,October,Thursday,"Food Sales",885,894,9,Above_Forecast
+2023-10-19,2023,October,Thursday,"Ingredients Cost",155,170,15,Above_Forecast
+2023-10-19,2023,October,Thursday,Labor,374,384,10,Above_Forecast
+2023-10-19,2023,October,Thursday,Rent,187,199,12,Above_Forecast
+2023-10-19,2023,October,Thursday,Utilities,273,246,-27,Below_Forecast
+2023-10-19,2023,October,Thursday,Marketing,467,442,-25,Below_Forecast
+2023-10-20,2023,October,Friday,"Coffee Sales",748,737,-11,Below_Forecast
+2023-10-20,2023,October,Friday,"Food Sales",641,674,33,Above_Forecast
+2023-10-20,2023,October,Friday,"Ingredients Cost",217,206,-11,Below_Forecast
+2023-10-20,2023,October,Friday,Labor,435,406,-29,Below_Forecast
+2023-10-20,2023,October,Friday,Rent,228,212,-16,Below_Forecast
+2023-10-20,2023,October,Friday,Utilities,197,200,3,Above_Forecast
+2023-10-20,2023,October,Friday,Marketing,334,332,-2,Below_Forecast
+2023-10-21,2023,October,Saturday,"Coffee Sales",284,279,-5,Below_Forecast
+2023-10-21,2023,October,Saturday,"Food Sales",851,840,-11,Below_Forecast
+2023-10-21,2023,October,Saturday,"Ingredients Cost",347,361,14,Above_Forecast
+2023-10-21,2023,October,Saturday,Labor,195,208,13,Above_Forecast
+2023-10-21,2023,October,Saturday,Rent,124,132,8,Above_Forecast
+2023-10-21,2023,October,Saturday,Utilities,488,486,-2,Below_Forecast
+2023-10-21,2023,October,Saturday,Marketing,375,365,-10,Below_Forecast
+2023-10-22,2023,October,Sunday,"Coffee Sales",467,445,-22,Below_Forecast
+2023-10-22,2023,October,Sunday,"Food Sales",669,620,-49,Below_Forecast
+2023-10-22,2023,October,Sunday,"Ingredients Cost",126,118,-8,Below_Forecast
+2023-10-22,2023,October,Sunday,Labor,407,420,13,Above_Forecast
+2023-10-22,2023,October,Sunday,Rent,261,268,7,Above_Forecast
+2023-10-22,2023,October,Sunday,Utilities,193,186,-7,Below_Forecast
+2023-10-22,2023,October,Sunday,Marketing,123,117,-6,Below_Forecast
+2023-10-23,2023,October,Monday,"Coffee Sales",226,212,-14,Below_Forecast
+2023-10-23,2023,October,Monday,"Food Sales",815,805,-10,Below_Forecast
+2023-10-23,2023,October,Monday,"Ingredients Cost",274,288,14,Above_Forecast
+2023-10-23,2023,October,Monday,Labor,384,364,-20,Below_Forecast
+2023-10-23,2023,October,Monday,Rent,257,268,11,Above_Forecast
+2023-10-23,2023,October,Monday,Utilities,396,378,-18,Below_Forecast
+2023-10-23,2023,October,Monday,Marketing,228,230,2,Above_Forecast
+2023-10-24,2023,October,Tuesday,"Coffee Sales",900,846,-54,Below_Forecast
+2023-10-24,2023,October,Tuesday,"Food Sales",575,524,-51,Below_Forecast
+2023-10-24,2023,October,Tuesday,"Ingredients Cost",471,443,-28,Below_Forecast
+2023-10-24,2023,October,Tuesday,Labor,446,446,0,Above_Forecast
+2023-10-24,2023,October,Tuesday,Rent,401,401,0,Above_Forecast
+2023-10-24,2023,October,Tuesday,Utilities,401,366,-35,Below_Forecast
+2023-10-24,2023,October,Tuesday,Marketing,201,197,-4,Below_Forecast
+2023-10-25,2023,October,Wednesday,"Coffee Sales",570,566,-4,Below_Forecast
+2023-10-25,2023,October,Wednesday,"Food Sales",241,255,14,Above_Forecast
+2023-10-25,2023,October,Wednesday,"Ingredients Cost",299,297,-2,Below_Forecast
+2023-10-25,2023,October,Wednesday,Labor,181,191,10,Above_Forecast
+2023-10-25,2023,October,Wednesday,Rent,101,91,-10,Below_Forecast
+2023-10-25,2023,October,Wednesday,Utilities,492,497,5,Above_Forecast
+2023-10-25,2023,October,Wednesday,Marketing,172,166,-6,Below_Forecast
+2023-10-26,2023,October,Thursday,"Coffee Sales",491,512,21,Above_Forecast
+2023-10-26,2023,October,Thursday,"Food Sales",484,528,44,Above_Forecast
+2023-10-26,2023,October,Thursday,"Ingredients Cost",249,265,16,Above_Forecast
+2023-10-26,2023,October,Thursday,Labor,326,320,-6,Below_Forecast
+2023-10-26,2023,October,Thursday,Rent,244,223,-21,Below_Forecast
+2023-10-26,2023,October,Thursday,Utilities,310,324,14,Above_Forecast
+2023-10-26,2023,October,Thursday,Marketing,373,381,8,Above_Forecast
+2023-10-27,2023,October,Friday,"Coffee Sales",432,450,18,Above_Forecast
+2023-10-27,2023,October,Friday,"Food Sales",529,500,-29,Below_Forecast
+2023-10-27,2023,October,Friday,"Ingredients Cost",232,211,-21,Below_Forecast
+2023-10-27,2023,October,Friday,Labor,271,257,-14,Below_Forecast
+2023-10-27,2023,October,Friday,Rent,309,305,-4,Below_Forecast
+2023-10-27,2023,October,Friday,Utilities,250,246,-4,Below_Forecast
+2023-10-27,2023,October,Friday,Marketing,496,485,-11,Below_Forecast
+2023-10-28,2023,October,Saturday,"Coffee Sales",763,694,-69,Below_Forecast
+2023-10-28,2023,October,Saturday,"Food Sales",753,684,-69,Below_Forecast
+2023-10-28,2023,October,Saturday,"Ingredients Cost",302,319,17,Above_Forecast
+2023-10-28,2023,October,Saturday,Labor,288,313,25,Above_Forecast
+2023-10-28,2023,October,Saturday,Rent,138,145,7,Above_Forecast
+2023-10-28,2023,October,Saturday,Utilities,181,190,9,Above_Forecast
+2023-10-28,2023,October,Saturday,Marketing,104,108,4,Above_Forecast
+2023-10-29,2023,October,Sunday,"Coffee Sales",897,920,23,Above_Forecast
+2023-10-29,2023,October,Sunday,"Food Sales",588,631,43,Above_Forecast
+2023-10-29,2023,October,Sunday,"Ingredients Cost",247,229,-18,Below_Forecast
+2023-10-29,2023,October,Sunday,Labor,368,341,-27,Below_Forecast
+2023-10-29,2023,October,Sunday,Rent,257,241,-16,Below_Forecast
+2023-10-29,2023,October,Sunday,Utilities,189,204,15,Above_Forecast
+2023-10-29,2023,October,Sunday,Marketing,453,483,30,Above_Forecast
+2023-10-30,2023,October,Monday,"Coffee Sales",661,656,-5,Below_Forecast
+2023-10-30,2023,October,Monday,"Food Sales",251,253,2,Above_Forecast
+2023-10-30,2023,October,Monday,"Ingredients Cost",496,460,-36,Below_Forecast
+2023-10-30,2023,October,Monday,Labor,489,512,23,Above_Forecast
+2023-10-30,2023,October,Monday,Rent,295,277,-18,Below_Forecast
+2023-10-30,2023,October,Monday,Utilities,259,245,-14,Below_Forecast
+2023-10-30,2023,October,Monday,Marketing,471,458,-13,Below_Forecast
+2023-10-31,2023,October,Tuesday,"Coffee Sales",582,612,30,Above_Forecast
+2023-10-31,2023,October,Tuesday,"Food Sales",808,754,-54,Below_Forecast
+2023-10-31,2023,October,Tuesday,"Ingredients Cost",105,94,-11,Below_Forecast
+2023-10-31,2023,October,Tuesday,Labor,253,247,-6,Below_Forecast
+2023-10-31,2023,October,Tuesday,Rent,425,444,19,Above_Forecast
+2023-10-31,2023,October,Tuesday,Utilities,191,199,8,Above_Forecast
+2023-10-31,2023,October,Tuesday,Marketing,211,191,-20,Below_Forecast
+2023-11-01,2023,November,Wednesday,"Coffee Sales",551,570,19,Above_Forecast
+2023-11-01,2023,November,Wednesday,"Food Sales",236,220,-16,Below_Forecast
+2023-11-01,2023,November,Wednesday,"Ingredients Cost",218,228,10,Above_Forecast
+2023-11-01,2023,November,Wednesday,Labor,164,151,-13,Below_Forecast
+2023-11-01,2023,November,Wednesday,Rent,257,264,7,Above_Forecast
+2023-11-01,2023,November,Wednesday,Utilities,418,444,26,Above_Forecast
+2023-11-01,2023,November,Wednesday,Marketing,472,474,2,Above_Forecast
+2023-11-02,2023,November,Thursday,"Coffee Sales",651,693,42,Above_Forecast
+2023-11-02,2023,November,Thursday,"Food Sales",766,818,52,Above_Forecast
+2023-11-02,2023,November,Thursday,"Ingredients Cost",225,244,19,Above_Forecast
+2023-11-02,2023,November,Thursday,Labor,124,114,-10,Below_Forecast
+2023-11-02,2023,November,Thursday,Rent,453,453,0,Above_Forecast
+2023-11-02,2023,November,Thursday,Utilities,200,207,7,Above_Forecast
+2023-11-02,2023,November,Thursday,Marketing,485,501,16,Above_Forecast
+2023-11-03,2023,November,Friday,"Coffee Sales",412,383,-29,Below_Forecast
+2023-11-03,2023,November,Friday,"Food Sales",371,356,-15,Below_Forecast
+2023-11-03,2023,November,Friday,"Ingredients Cost",338,318,-20,Below_Forecast
+2023-11-03,2023,November,Friday,Labor,489,447,-42,Below_Forecast
+2023-11-03,2023,November,Friday,Rent,255,235,-20,Below_Forecast
+2023-11-03,2023,November,Friday,Utilities,370,379,9,Above_Forecast
+2023-11-03,2023,November,Friday,Marketing,134,133,-1,Below_Forecast
+2023-11-04,2023,November,Saturday,"Coffee Sales",429,430,1,Above_Forecast
+2023-11-04,2023,November,Saturday,"Food Sales",477,458,-19,Below_Forecast
+2023-11-04,2023,November,Saturday,"Ingredients Cost",171,161,-10,Below_Forecast
+2023-11-04,2023,November,Saturday,Labor,304,274,-30,Below_Forecast
+2023-11-04,2023,November,Saturday,Rent,275,262,-13,Below_Forecast
+2023-11-04,2023,November,Saturday,Utilities,379,363,-16,Below_Forecast
+2023-11-04,2023,November,Saturday,Marketing,275,282,7,Above_Forecast
+2023-11-05,2023,November,Sunday,"Coffee Sales",611,573,-38,Below_Forecast
+2023-11-05,2023,November,Sunday,"Food Sales",369,382,13,Above_Forecast
+2023-11-05,2023,November,Sunday,"Ingredients Cost",321,350,29,Above_Forecast
+2023-11-05,2023,November,Sunday,Labor,455,457,2,Above_Forecast
+2023-11-05,2023,November,Sunday,Rent,179,194,15,Above_Forecast
+2023-11-05,2023,November,Sunday,Utilities,436,400,-36,Below_Forecast
+2023-11-05,2023,November,Sunday,Marketing,252,261,9,Above_Forecast
+2023-11-06,2023,November,Monday,"Coffee Sales",483,512,29,Above_Forecast
+2023-11-06,2023,November,Monday,"Food Sales",283,278,-5,Below_Forecast
+2023-11-06,2023,November,Monday,"Ingredients Cost",150,163,13,Above_Forecast
+2023-11-06,2023,November,Monday,Labor,419,380,-39,Below_Forecast
+2023-11-06,2023,November,Monday,Rent,270,270,0,Above_Forecast
+2023-11-06,2023,November,Monday,Utilities,197,180,-17,Below_Forecast
+2023-11-06,2023,November,Monday,Marketing,189,176,-13,Below_Forecast
+2023-11-07,2023,November,Tuesday,"Coffee Sales",408,410,2,Above_Forecast
+2023-11-07,2023,November,Tuesday,"Food Sales",798,805,7,Above_Forecast
+2023-11-07,2023,November,Tuesday,"Ingredients Cost",281,304,23,Above_Forecast
+2023-11-07,2023,November,Tuesday,Labor,440,452,12,Above_Forecast
+2023-11-07,2023,November,Tuesday,Rent,268,274,6,Above_Forecast
+2023-11-07,2023,November,Tuesday,Utilities,210,213,3,Above_Forecast
+2023-11-07,2023,November,Tuesday,Marketing,394,413,19,Above_Forecast
+2023-11-08,2023,November,Wednesday,"Coffee Sales",274,291,17,Above_Forecast
+2023-11-08,2023,November,Wednesday,"Food Sales",458,437,-21,Below_Forecast
+2023-11-08,2023,November,Wednesday,"Ingredients Cost",241,221,-20,Below_Forecast
+2023-11-08,2023,November,Wednesday,Labor,341,320,-21,Below_Forecast
+2023-11-08,2023,November,Wednesday,Rent,199,201,2,Above_Forecast
+2023-11-08,2023,November,Wednesday,Utilities,217,197,-20,Below_Forecast
+2023-11-08,2023,November,Wednesday,Marketing,364,353,-11,Below_Forecast
+2023-11-09,2023,November,Thursday,"Coffee Sales",917,830,-87,Below_Forecast
+2023-11-09,2023,November,Thursday,"Food Sales",836,753,-83,Below_Forecast
+2023-11-09,2023,November,Thursday,"Ingredients Cost",132,125,-7,Below_Forecast
+2023-11-09,2023,November,Thursday,Labor,177,162,-15,Below_Forecast
+2023-11-09,2023,November,Thursday,Rent,349,375,26,Above_Forecast
+2023-11-09,2023,November,Thursday,Utilities,160,146,-14,Below_Forecast
+2023-11-09,2023,November,Thursday,Marketing,226,217,-9,Below_Forecast
+2023-11-10,2023,November,Friday,"Coffee Sales",898,931,33,Above_Forecast
+2023-11-10,2023,November,Friday,"Food Sales",737,753,16,Above_Forecast
+2023-11-10,2023,November,Friday,"Ingredients Cost",164,178,14,Above_Forecast
+2023-11-10,2023,November,Friday,Labor,154,168,14,Above_Forecast
+2023-11-10,2023,November,Friday,Rent,489,495,6,Above_Forecast
+2023-11-10,2023,November,Friday,Utilities,403,403,0,Above_Forecast
+2023-11-10,2023,November,Friday,Marketing,108,102,-6,Below_Forecast
+2023-11-11,2023,November,Saturday,"Coffee Sales",421,433,12,Above_Forecast
+2023-11-11,2023,November,Saturday,"Food Sales",951,970,19,Above_Forecast
+2023-11-11,2023,November,Saturday,"Ingredients Cost",328,332,4,Above_Forecast
+2023-11-11,2023,November,Saturday,Labor,368,404,36,Above_Forecast
+2023-11-11,2023,November,Saturday,Rent,460,417,-43,Below_Forecast
+2023-11-11,2023,November,Saturday,Utilities,219,208,-11,Below_Forecast
+2023-11-11,2023,November,Saturday,Marketing,319,309,-10,Below_Forecast
+2023-11-12,2023,November,Sunday,"Coffee Sales",894,860,-34,Below_Forecast
+2023-11-12,2023,November,Sunday,"Food Sales",233,228,-5,Below_Forecast
+2023-11-12,2023,November,Sunday,"Ingredients Cost",236,258,22,Above_Forecast
+2023-11-12,2023,November,Sunday,Labor,455,483,28,Above_Forecast
+2023-11-12,2023,November,Sunday,Rent,270,278,8,Above_Forecast
+2023-11-12,2023,November,Sunday,Utilities,392,384,-8,Below_Forecast
+2023-11-12,2023,November,Sunday,Marketing,189,204,15,Above_Forecast
+2023-11-13,2023,November,Monday,"Coffee Sales",279,284,5,Above_Forecast
+2023-11-13,2023,November,Monday,"Food Sales",575,627,52,Above_Forecast
+2023-11-13,2023,November,Monday,"Ingredients Cost",469,429,-40,Below_Forecast
+2023-11-13,2023,November,Monday,Labor,336,358,22,Above_Forecast
+2023-11-13,2023,November,Monday,Rent,181,176,-5,Below_Forecast
+2023-11-13,2023,November,Monday,Utilities,188,199,11,Above_Forecast
+2023-11-13,2023,November,Monday,Marketing,231,213,-18,Below_Forecast
+2023-11-14,2023,November,Tuesday,"Coffee Sales",838,845,7,Above_Forecast
+2023-11-14,2023,November,Tuesday,"Food Sales",407,385,-22,Below_Forecast
+2023-11-14,2023,November,Tuesday,"Ingredients Cost",393,376,-17,Below_Forecast
+2023-11-14,2023,November,Tuesday,Labor,438,417,-21,Below_Forecast
+2023-11-14,2023,November,Tuesday,Rent,299,292,-7,Below_Forecast
+2023-11-14,2023,November,Tuesday,Utilities,236,221,-15,Below_Forecast
+2023-11-14,2023,November,Tuesday,Marketing,178,187,9,Above_Forecast
+2023-11-15,2023,November,Wednesday,"Coffee Sales",993,1072,79,Above_Forecast
+2023-11-15,2023,November,Wednesday,"Food Sales",465,468,3,Above_Forecast
+2023-11-15,2023,November,Wednesday,"Ingredients Cost",448,427,-21,Below_Forecast
+2023-11-15,2023,November,Wednesday,Labor,454,418,-36,Below_Forecast
+2023-11-15,2023,November,Wednesday,Rent,493,537,44,Above_Forecast
+2023-11-15,2023,November,Wednesday,Utilities,280,292,12,Above_Forecast
+2023-11-15,2023,November,Wednesday,Marketing,417,384,-33,Below_Forecast
+2023-11-16,2023,November,Thursday,"Coffee Sales",369,345,-24,Below_Forecast
+2023-11-16,2023,November,Thursday,"Food Sales",650,589,-61,Below_Forecast
+2023-11-16,2023,November,Thursday,"Ingredients Cost",476,496,20,Above_Forecast
+2023-11-16,2023,November,Thursday,Labor,438,470,32,Above_Forecast
+2023-11-16,2023,November,Thursday,Rent,371,344,-27,Below_Forecast
+2023-11-16,2023,November,Thursday,Utilities,488,510,22,Above_Forecast
+2023-11-16,2023,November,Thursday,Marketing,101,90,-11,Below_Forecast
+2023-11-17,2023,November,Friday,"Coffee Sales",346,322,-24,Below_Forecast
+2023-11-17,2023,November,Friday,"Food Sales",919,932,13,Above_Forecast
+2023-11-17,2023,November,Friday,"Ingredients Cost",355,355,0,Above_Forecast
+2023-11-17,2023,November,Friday,Labor,469,457,-12,Below_Forecast
+2023-11-17,2023,November,Friday,Rent,170,178,8,Above_Forecast
+2023-11-17,2023,November,Friday,Utilities,169,179,10,Above_Forecast
+2023-11-17,2023,November,Friday,Marketing,456,488,32,Above_Forecast
+2023-11-18,2023,November,Saturday,"Coffee Sales",355,335,-20,Below_Forecast
+2023-11-18,2023,November,Saturday,"Food Sales",462,449,-13,Below_Forecast
+2023-11-18,2023,November,Saturday,"Ingredients Cost",277,286,9,Above_Forecast
+2023-11-18,2023,November,Saturday,Labor,413,398,-15,Below_Forecast
+2023-11-18,2023,November,Saturday,Rent,184,190,6,Above_Forecast
+2023-11-18,2023,November,Saturday,Utilities,104,94,-10,Below_Forecast
+2023-11-18,2023,November,Saturday,Marketing,214,225,11,Above_Forecast
+2023-11-19,2023,November,Sunday,"Coffee Sales",284,299,15,Above_Forecast
+2023-11-19,2023,November,Sunday,"Food Sales",815,774,-41,Below_Forecast
+2023-11-19,2023,November,Sunday,"Ingredients Cost",196,202,6,Above_Forecast
+2023-11-19,2023,November,Sunday,Labor,357,347,-10,Below_Forecast
+2023-11-19,2023,November,Sunday,Rent,210,201,-9,Below_Forecast
+2023-11-19,2023,November,Sunday,Utilities,292,284,-8,Below_Forecast
+2023-11-19,2023,November,Sunday,Marketing,181,194,13,Above_Forecast
+2023-11-20,2023,November,Monday,"Coffee Sales",880,915,35,Above_Forecast
+2023-11-20,2023,November,Monday,"Food Sales",524,496,-28,Below_Forecast
+2023-11-20,2023,November,Monday,"Ingredients Cost",200,189,-11,Below_Forecast
+2023-11-20,2023,November,Monday,Labor,358,345,-13,Below_Forecast
+2023-11-20,2023,November,Monday,Rent,196,192,-4,Below_Forecast
+2023-11-20,2023,November,Monday,Utilities,181,178,-3,Below_Forecast
+2023-11-20,2023,November,Monday,Marketing,254,277,23,Above_Forecast
+2023-11-21,2023,November,Tuesday,"Coffee Sales",319,308,-11,Below_Forecast
+2023-11-21,2023,November,Tuesday,"Food Sales",651,621,-30,Below_Forecast
+2023-11-21,2023,November,Tuesday,"Ingredients Cost",311,297,-14,Below_Forecast
+2023-11-21,2023,November,Tuesday,Labor,314,320,6,Above_Forecast
+2023-11-21,2023,November,Tuesday,Rent,101,92,-9,Below_Forecast
+2023-11-21,2023,November,Tuesday,Utilities,152,137,-15,Below_Forecast
+2023-11-21,2023,November,Tuesday,Marketing,174,183,9,Above_Forecast
+2023-11-22,2023,November,Wednesday,"Coffee Sales",478,486,8,Above_Forecast
+2023-11-22,2023,November,Wednesday,"Food Sales",948,964,16,Above_Forecast
+2023-11-22,2023,November,Wednesday,"Ingredients Cost",243,266,23,Above_Forecast
+2023-11-22,2023,November,Wednesday,Labor,172,182,10,Above_Forecast
+2023-11-22,2023,November,Wednesday,Rent,224,226,2,Above_Forecast
+2023-11-22,2023,November,Wednesday,Utilities,154,141,-13,Below_Forecast
+2023-11-22,2023,November,Wednesday,Marketing,476,504,28,Above_Forecast
+2023-11-23,2023,November,Thursday,"Coffee Sales",573,549,-24,Below_Forecast
+2023-11-23,2023,November,Thursday,"Food Sales",279,254,-25,Below_Forecast
+2023-11-23,2023,November,Thursday,"Ingredients Cost",408,386,-22,Below_Forecast
+2023-11-23,2023,November,Thursday,Labor,334,343,9,Above_Forecast
+2023-11-23,2023,November,Thursday,Rent,391,412,21,Above_Forecast
+2023-11-23,2023,November,Thursday,Utilities,243,245,2,Above_Forecast
+2023-11-23,2023,November,Thursday,Marketing,138,150,12,Above_Forecast
+2023-11-24,2023,November,Friday,"Coffee Sales",723,666,-57,Below_Forecast
+2023-11-24,2023,November,Friday,"Food Sales",256,269,13,Above_Forecast
+2023-11-24,2023,November,Friday,"Ingredients Cost",308,277,-31,Below_Forecast
+2023-11-24,2023,November,Friday,Labor,399,372,-27,Below_Forecast
+2023-11-24,2023,November,Friday,Rent,106,104,-2,Below_Forecast
+2023-11-24,2023,November,Friday,Utilities,273,271,-2,Below_Forecast
+2023-11-24,2023,November,Friday,Marketing,248,259,11,Above_Forecast
+2023-11-25,2023,November,Saturday,"Coffee Sales",698,659,-39,Below_Forecast
+2023-11-25,2023,November,Saturday,"Food Sales",963,948,-15,Below_Forecast
+2023-11-25,2023,November,Saturday,"Ingredients Cost",187,181,-6,Below_Forecast
+2023-11-25,2023,November,Saturday,Labor,155,163,8,Above_Forecast
+2023-11-25,2023,November,Saturday,Rent,404,378,-26,Below_Forecast
+2023-11-25,2023,November,Saturday,Utilities,165,173,8,Above_Forecast
+2023-11-25,2023,November,Saturday,Marketing,199,209,10,Above_Forecast
+2023-11-26,2023,November,Sunday,"Coffee Sales",872,800,-72,Below_Forecast
+2023-11-26,2023,November,Sunday,"Food Sales",446,459,13,Above_Forecast
+2023-11-26,2023,November,Sunday,"Ingredients Cost",359,350,-9,Below_Forecast
+2023-11-26,2023,November,Sunday,Labor,263,260,-3,Below_Forecast
+2023-11-26,2023,November,Sunday,Rent,371,376,5,Above_Forecast
+2023-11-26,2023,November,Sunday,Utilities,389,388,-1,Below_Forecast
+2023-11-26,2023,November,Sunday,Marketing,404,365,-39,Below_Forecast
+2023-11-27,2023,November,Monday,"Coffee Sales",224,216,-8,Below_Forecast
+2023-11-27,2023,November,Monday,"Food Sales",604,551,-53,Below_Forecast
+2023-11-27,2023,November,Monday,"Ingredients Cost",277,260,-17,Below_Forecast
+2023-11-27,2023,November,Monday,Labor,394,410,16,Above_Forecast
+2023-11-27,2023,November,Monday,Rent,482,447,-35,Below_Forecast
+2023-11-27,2023,November,Monday,Utilities,147,152,5,Above_Forecast
+2023-11-27,2023,November,Monday,Marketing,353,363,10,Above_Forecast
+2023-11-28,2023,November,Tuesday,"Coffee Sales",860,822,-38,Below_Forecast
+2023-11-28,2023,November,Tuesday,"Food Sales",721,725,4,Above_Forecast
+2023-11-28,2023,November,Tuesday,"Ingredients Cost",272,271,-1,Below_Forecast
+2023-11-28,2023,November,Tuesday,Labor,307,322,15,Above_Forecast
+2023-11-28,2023,November,Tuesday,Rent,302,289,-13,Below_Forecast
+2023-11-28,2023,November,Tuesday,Utilities,352,329,-23,Below_Forecast
+2023-11-28,2023,November,Tuesday,Marketing,233,244,11,Above_Forecast
+2023-11-29,2023,November,Wednesday,"Coffee Sales",562,604,42,Above_Forecast
+2023-11-29,2023,November,Wednesday,"Food Sales",251,268,17,Above_Forecast
+2023-11-29,2023,November,Wednesday,"Ingredients Cost",247,264,17,Above_Forecast
+2023-11-29,2023,November,Wednesday,Labor,131,139,8,Above_Forecast
+2023-11-29,2023,November,Wednesday,Rent,110,100,-10,Below_Forecast
+2023-11-29,2023,November,Wednesday,Utilities,496,466,-30,Below_Forecast
+2023-11-29,2023,November,Wednesday,Marketing,394,408,14,Above_Forecast
+2023-11-30,2023,November,Thursday,"Coffee Sales",632,581,-51,Below_Forecast
+2023-11-30,2023,November,Thursday,"Food Sales",222,210,-12,Below_Forecast
+2023-11-30,2023,November,Thursday,"Ingredients Cost",376,342,-34,Below_Forecast
+2023-11-30,2023,November,Thursday,Labor,227,223,-4,Below_Forecast
+2023-11-30,2023,November,Thursday,Rent,121,116,-5,Below_Forecast
+2023-11-30,2023,November,Thursday,Utilities,324,307,-17,Below_Forecast
+2023-11-30,2023,November,Thursday,Marketing,106,109,3,Above_Forecast
+2023-12-01,2023,December,Friday,"Coffee Sales",706,709,3,Above_Forecast
+2023-12-01,2023,December,Friday,"Food Sales",781,823,42,Above_Forecast
+2023-12-01,2023,December,Friday,"Ingredients Cost",343,354,11,Above_Forecast
+2023-12-01,2023,December,Friday,Labor,318,289,-29,Below_Forecast
+2023-12-01,2023,December,Friday,Rent,500,514,14,Above_Forecast
+2023-12-01,2023,December,Friday,Utilities,291,282,-9,Below_Forecast
+2023-12-01,2023,December,Friday,Marketing,274,269,-5,Below_Forecast
+2023-12-02,2023,December,Saturday,"Coffee Sales",919,971,52,Above_Forecast
+2023-12-02,2023,December,Saturday,"Food Sales",256,276,20,Above_Forecast
+2023-12-02,2023,December,Saturday,"Ingredients Cost",267,271,4,Above_Forecast
+2023-12-02,2023,December,Saturday,Labor,178,192,14,Above_Forecast
+2023-12-02,2023,December,Saturday,Rent,267,252,-15,Below_Forecast
+2023-12-02,2023,December,Saturday,Utilities,206,222,16,Above_Forecast
+2023-12-02,2023,December,Saturday,Marketing,341,313,-28,Below_Forecast
+2023-12-03,2023,December,Sunday,"Coffee Sales",359,371,12,Above_Forecast
+2023-12-03,2023,December,Sunday,"Food Sales",933,935,2,Above_Forecast
+2023-12-03,2023,December,Sunday,"Ingredients Cost",422,437,15,Above_Forecast
+2023-12-03,2023,December,Sunday,Labor,142,145,3,Above_Forecast
+2023-12-03,2023,December,Sunday,Rent,224,231,7,Above_Forecast
+2023-12-03,2023,December,Sunday,Utilities,166,159,-7,Below_Forecast
+2023-12-03,2023,December,Sunday,Marketing,406,367,-39,Below_Forecast
+2023-12-04,2023,December,Monday,"Coffee Sales",830,848,18,Above_Forecast
+2023-12-04,2023,December,Monday,"Food Sales",463,418,-45,Below_Forecast
+2023-12-04,2023,December,Monday,"Ingredients Cost",286,293,7,Above_Forecast
+2023-12-04,2023,December,Monday,Labor,434,448,14,Above_Forecast
+2023-12-04,2023,December,Monday,Rent,363,379,16,Above_Forecast
+2023-12-04,2023,December,Monday,Utilities,324,352,28,Above_Forecast
+2023-12-04,2023,December,Monday,Marketing,167,172,5,Above_Forecast
+2023-12-05,2023,December,Tuesday,"Coffee Sales",808,831,23,Above_Forecast
+2023-12-05,2023,December,Tuesday,"Food Sales",666,652,-14,Below_Forecast
+2023-12-05,2023,December,Tuesday,"Ingredients Cost",500,531,31,Above_Forecast
+2023-12-05,2023,December,Tuesday,Labor,438,441,3,Above_Forecast
+2023-12-05,2023,December,Tuesday,Rent,351,378,27,Above_Forecast
+2023-12-05,2023,December,Tuesday,Utilities,342,325,-17,Below_Forecast
+2023-12-05,2023,December,Tuesday,Marketing,223,224,1,Above_Forecast
+2023-12-06,2023,December,Wednesday,"Coffee Sales",229,241,12,Above_Forecast
+2023-12-06,2023,December,Wednesday,"Food Sales",448,423,-25,Below_Forecast
+2023-12-06,2023,December,Wednesday,"Ingredients Cost",215,196,-19,Below_Forecast
+2023-12-06,2023,December,Wednesday,Labor,294,285,-9,Below_Forecast
+2023-12-06,2023,December,Wednesday,Rent,219,197,-22,Below_Forecast
+2023-12-06,2023,December,Wednesday,Utilities,124,130,6,Above_Forecast
+2023-12-06,2023,December,Wednesday,Marketing,172,185,13,Above_Forecast
+2023-12-07,2023,December,Thursday,"Coffee Sales",884,833,-51,Below_Forecast
+2023-12-07,2023,December,Thursday,"Food Sales",278,292,14,Above_Forecast
+2023-12-07,2023,December,Thursday,"Ingredients Cost",116,118,2,Above_Forecast
+2023-12-07,2023,December,Thursday,Labor,362,338,-24,Below_Forecast
+2023-12-07,2023,December,Thursday,Rent,126,138,12,Above_Forecast
+2023-12-07,2023,December,Thursday,Utilities,214,198,-16,Below_Forecast
+2023-12-07,2023,December,Thursday,Marketing,364,393,29,Above_Forecast
+2023-12-08,2023,December,Friday,"Coffee Sales",402,373,-29,Below_Forecast
+2023-12-08,2023,December,Friday,"Food Sales",462,422,-40,Below_Forecast
+2023-12-08,2023,December,Friday,"Ingredients Cost",279,268,-11,Below_Forecast
+2023-12-08,2023,December,Friday,Labor,203,215,12,Above_Forecast
+2023-12-08,2023,December,Friday,Rent,468,498,30,Above_Forecast
+2023-12-08,2023,December,Friday,Utilities,170,176,6,Above_Forecast
+2023-12-08,2023,December,Friday,Marketing,419,382,-37,Below_Forecast
+2023-12-09,2023,December,Saturday,"Coffee Sales",552,564,12,Above_Forecast
+2023-12-09,2023,December,Saturday,"Food Sales",853,793,-60,Below_Forecast
+2023-12-09,2023,December,Saturday,"Ingredients Cost",389,422,33,Above_Forecast
+2023-12-09,2023,December,Saturday,Labor,114,123,9,Above_Forecast
+2023-12-09,2023,December,Saturday,Rent,301,291,-10,Below_Forecast
+2023-12-09,2023,December,Saturday,Utilities,162,177,15,Above_Forecast
+2023-12-09,2023,December,Saturday,Marketing,402,375,-27,Below_Forecast
+2023-12-10,2023,December,Sunday,"Coffee Sales",911,889,-22,Below_Forecast
+2023-12-10,2023,December,Sunday,"Food Sales",319,289,-30,Below_Forecast
+2023-12-10,2023,December,Sunday,"Ingredients Cost",417,440,23,Above_Forecast
+2023-12-10,2023,December,Sunday,Labor,161,160,-1,Below_Forecast
+2023-12-10,2023,December,Sunday,Rent,187,196,9,Above_Forecast
+2023-12-10,2023,December,Sunday,Utilities,167,168,1,Above_Forecast
+2023-12-10,2023,December,Sunday,Marketing,493,507,14,Above_Forecast
+2023-12-11,2023,December,Monday,"Coffee Sales",329,329,0,Above_Forecast
+2023-12-11,2023,December,Monday,"Food Sales",337,352,15,Above_Forecast
+2023-12-11,2023,December,Monday,"Ingredients Cost",392,420,28,Above_Forecast
+2023-12-11,2023,December,Monday,Labor,156,148,-8,Below_Forecast
+2023-12-11,2023,December,Monday,Rent,112,104,-8,Below_Forecast
+2023-12-11,2023,December,Monday,Utilities,445,469,24,Above_Forecast
+2023-12-11,2023,December,Monday,Marketing,178,163,-15,Below_Forecast
+2023-12-12,2023,December,Tuesday,"Coffee Sales",416,456,40,Above_Forecast
+2023-12-12,2023,December,Tuesday,"Food Sales",509,528,19,Above_Forecast
+2023-12-12,2023,December,Tuesday,"Ingredients Cost",440,401,-39,Below_Forecast
+2023-12-12,2023,December,Tuesday,Labor,305,290,-15,Below_Forecast
+2023-12-12,2023,December,Tuesday,Rent,169,156,-13,Below_Forecast
+2023-12-12,2023,December,Tuesday,Utilities,344,351,7,Above_Forecast
+2023-12-12,2023,December,Tuesday,Marketing,358,327,-31,Below_Forecast
+2023-12-13,2023,December,Wednesday,"Coffee Sales",481,484,3,Above_Forecast
+2023-12-13,2023,December,Wednesday,"Food Sales",770,772,2,Above_Forecast
+2023-12-13,2023,December,Wednesday,"Ingredients Cost",348,355,7,Above_Forecast
+2023-12-13,2023,December,Wednesday,Labor,119,115,-4,Below_Forecast
+2023-12-13,2023,December,Wednesday,Rent,201,186,-15,Below_Forecast
+2023-12-13,2023,December,Wednesday,Utilities,227,233,6,Above_Forecast
+2023-12-13,2023,December,Wednesday,Marketing,262,283,21,Above_Forecast
+2023-12-14,2023,December,Thursday,"Coffee Sales",870,893,23,Above_Forecast
+2023-12-14,2023,December,Thursday,"Food Sales",342,325,-17,Below_Forecast
+2023-12-14,2023,December,Thursday,"Ingredients Cost",290,317,27,Above_Forecast
+2023-12-14,2023,December,Thursday,Labor,483,530,47,Above_Forecast
+2023-12-14,2023,December,Thursday,Rent,199,191,-8,Below_Forecast
+2023-12-14,2023,December,Thursday,Utilities,166,150,-16,Below_Forecast
+2023-12-14,2023,December,Thursday,Marketing,278,294,16,Above_Forecast
+2023-12-15,2023,December,Friday,"Coffee Sales",628,600,-28,Below_Forecast
+2023-12-15,2023,December,Friday,"Food Sales",257,276,19,Above_Forecast
+2023-12-15,2023,December,Friday,"Ingredients Cost",220,199,-21,Below_Forecast
+2023-12-15,2023,December,Friday,Labor,114,119,5,Above_Forecast
+2023-12-15,2023,December,Friday,Rent,204,198,-6,Below_Forecast
+2023-12-15,2023,December,Friday,Utilities,417,397,-20,Below_Forecast
+2023-12-15,2023,December,Friday,Marketing,496,530,34,Above_Forecast
+2023-12-16,2023,December,Saturday,"Coffee Sales",569,554,-15,Below_Forecast
+2023-12-16,2023,December,Saturday,"Food Sales",569,517,-52,Below_Forecast
+2023-12-16,2023,December,Saturday,"Ingredients Cost",301,295,-6,Below_Forecast
+2023-12-16,2023,December,Saturday,Labor,138,151,13,Above_Forecast
+2023-12-16,2023,December,Saturday,Rent,276,276,0,Above_Forecast
+2023-12-16,2023,December,Saturday,Utilities,391,403,12,Above_Forecast
+2023-12-16,2023,December,Saturday,Marketing,165,149,-16,Below_Forecast
+2023-12-17,2023,December,Sunday,"Coffee Sales",298,293,-5,Below_Forecast
+2023-12-17,2023,December,Sunday,"Food Sales",569,532,-37,Below_Forecast
+2023-12-17,2023,December,Sunday,"Ingredients Cost",224,236,12,Above_Forecast
+2023-12-17,2023,December,Sunday,Labor,235,246,11,Above_Forecast
+2023-12-17,2023,December,Sunday,Rent,395,359,-36,Below_Forecast
+2023-12-17,2023,December,Sunday,Utilities,421,455,34,Above_Forecast
+2023-12-17,2023,December,Sunday,Marketing,208,213,5,Above_Forecast
+2023-12-18,2023,December,Monday,"Coffee Sales",322,299,-23,Below_Forecast
+2023-12-18,2023,December,Monday,"Food Sales",831,821,-10,Below_Forecast
+2023-12-18,2023,December,Monday,"Ingredients Cost",164,147,-17,Below_Forecast
+2023-12-18,2023,December,Monday,Labor,319,320,1,Above_Forecast
+2023-12-18,2023,December,Monday,Rent,291,292,1,Above_Forecast
+2023-12-18,2023,December,Monday,Utilities,415,442,27,Above_Forecast
+2023-12-18,2023,December,Monday,Marketing,352,333,-19,Below_Forecast
+2023-12-19,2023,December,Tuesday,"Coffee Sales",696,758,62,Above_Forecast
+2023-12-19,2023,December,Tuesday,"Food Sales",496,455,-41,Below_Forecast
+2023-12-19,2023,December,Tuesday,"Ingredients Cost",139,133,-6,Below_Forecast
+2023-12-19,2023,December,Tuesday,Labor,447,482,35,Above_Forecast
+2023-12-19,2023,December,Tuesday,Rent,356,390,34,Above_Forecast
+2023-12-19,2023,December,Tuesday,Utilities,426,407,-19,Below_Forecast
+2023-12-19,2023,December,Tuesday,Marketing,485,499,14,Above_Forecast
+2023-12-20,2023,December,Wednesday,"Coffee Sales",632,643,11,Above_Forecast
+2023-12-20,2023,December,Wednesday,"Food Sales",354,334,-20,Below_Forecast
+2023-12-20,2023,December,Wednesday,"Ingredients Cost",441,408,-33,Below_Forecast
+2023-12-20,2023,December,Wednesday,Labor,177,176,-1,Below_Forecast
+2023-12-20,2023,December,Wednesday,Rent,118,129,11,Above_Forecast
+2023-12-20,2023,December,Wednesday,Utilities,492,478,-14,Below_Forecast
+2023-12-20,2023,December,Wednesday,Marketing,212,206,-6,Below_Forecast
+2023-12-21,2023,December,Thursday,"Coffee Sales",301,297,-4,Below_Forecast
+2023-12-21,2023,December,Thursday,"Food Sales",638,663,25,Above_Forecast
+2023-12-21,2023,December,Thursday,"Ingredients Cost",343,351,8,Above_Forecast
+2023-12-21,2023,December,Thursday,Labor,317,324,7,Above_Forecast
+2023-12-21,2023,December,Thursday,Rent,197,183,-14,Below_Forecast
+2023-12-21,2023,December,Thursday,Utilities,181,166,-15,Below_Forecast
+2023-12-21,2023,December,Thursday,Marketing,493,448,-45,Below_Forecast
+2023-12-22,2023,December,Friday,"Coffee Sales",233,246,13,Above_Forecast
+2023-12-22,2023,December,Friday,"Food Sales",883,930,47,Above_Forecast
+2023-12-22,2023,December,Friday,"Ingredients Cost",421,386,-35,Below_Forecast
+2023-12-22,2023,December,Friday,Labor,350,346,-4,Below_Forecast
+2023-12-22,2023,December,Friday,Rent,441,415,-26,Below_Forecast
+2023-12-22,2023,December,Friday,Utilities,344,331,-13,Below_Forecast
+2023-12-22,2023,December,Friday,Marketing,138,150,12,Above_Forecast
+2023-12-23,2023,December,Saturday,"Coffee Sales",586,572,-14,Below_Forecast
+2023-12-23,2023,December,Saturday,"Food Sales",229,221,-8,Below_Forecast
+2023-12-23,2023,December,Saturday,"Ingredients Cost",219,232,13,Above_Forecast
+2023-12-23,2023,December,Saturday,Labor,113,110,-3,Below_Forecast
+2023-12-23,2023,December,Saturday,Rent,236,219,-17,Below_Forecast
+2023-12-23,2023,December,Saturday,Utilities,310,332,22,Above_Forecast
+2023-12-23,2023,December,Saturday,Marketing,278,264,-14,Below_Forecast
+2023-12-24,2023,December,Sunday,"Coffee Sales",245,257,12,Above_Forecast
+2023-12-24,2023,December,Sunday,"Food Sales",860,874,14,Above_Forecast
+2023-12-24,2023,December,Sunday,"Ingredients Cost",307,302,-5,Below_Forecast
+2023-12-24,2023,December,Sunday,Labor,175,159,-16,Below_Forecast
+2023-12-24,2023,December,Sunday,Rent,497,474,-23,Below_Forecast
+2023-12-24,2023,December,Sunday,Utilities,485,506,21,Above_Forecast
+2023-12-24,2023,December,Sunday,Marketing,467,440,-27,Below_Forecast
+2023-12-25,2023,December,Monday,"Coffee Sales",745,802,57,Above_Forecast
+2023-12-25,2023,December,Monday,"Food Sales",276,252,-24,Below_Forecast
+2023-12-25,2023,December,Monday,"Ingredients Cost",266,241,-25,Below_Forecast
+2023-12-25,2023,December,Monday,Labor,307,331,24,Above_Forecast
+2023-12-25,2023,December,Monday,Rent,370,390,20,Above_Forecast
+2023-12-25,2023,December,Monday,Utilities,307,316,9,Above_Forecast
+2023-12-25,2023,December,Monday,Marketing,139,138,-1,Below_Forecast
+2023-12-26,2023,December,Tuesday,"Coffee Sales",211,221,10,Above_Forecast
+2023-12-26,2023,December,Tuesday,"Food Sales",873,853,-20,Below_Forecast
+2023-12-26,2023,December,Tuesday,"Ingredients Cost",180,173,-7,Below_Forecast
+2023-12-26,2023,December,Tuesday,Labor,343,331,-12,Below_Forecast
+2023-12-26,2023,December,Tuesday,Rent,174,160,-14,Below_Forecast
+2023-12-26,2023,December,Tuesday,Utilities,278,283,5,Above_Forecast
+2023-12-26,2023,December,Tuesday,Marketing,149,138,-11,Below_Forecast
+2023-12-27,2023,December,Wednesday,"Coffee Sales",812,783,-29,Below_Forecast
+2023-12-27,2023,December,Wednesday,"Food Sales",601,649,48,Above_Forecast
+2023-12-27,2023,December,Wednesday,"Ingredients Cost",167,155,-12,Below_Forecast
+2023-12-27,2023,December,Wednesday,Labor,251,236,-15,Below_Forecast
+2023-12-27,2023,December,Wednesday,Rent,170,165,-5,Below_Forecast
+2023-12-27,2023,December,Wednesday,Utilities,107,99,-8,Below_Forecast
+2023-12-27,2023,December,Wednesday,Marketing,254,269,15,Above_Forecast
+2023-12-28,2023,December,Thursday,"Coffee Sales",330,344,14,Above_Forecast
+2023-12-28,2023,December,Thursday,"Food Sales",979,955,-24,Below_Forecast
+2023-12-28,2023,December,Thursday,"Ingredients Cost",379,374,-5,Below_Forecast
+2023-12-28,2023,December,Thursday,Labor,282,259,-23,Below_Forecast
+2023-12-28,2023,December,Thursday,Rent,133,134,1,Above_Forecast
+2023-12-28,2023,December,Thursday,Utilities,165,171,6,Above_Forecast
+2023-12-28,2023,December,Thursday,Marketing,298,282,-16,Below_Forecast
+2023-12-29,2023,December,Friday,"Coffee Sales",374,358,-16,Below_Forecast
+2023-12-29,2023,December,Friday,"Food Sales",702,635,-67,Below_Forecast
+2023-12-29,2023,December,Friday,"Ingredients Cost",258,247,-11,Below_Forecast
+2023-12-29,2023,December,Friday,Labor,290,265,-25,Below_Forecast
+2023-12-29,2023,December,Friday,Rent,428,426,-2,Below_Forecast
+2023-12-29,2023,December,Friday,Utilities,180,178,-2,Below_Forecast
+2023-12-29,2023,December,Friday,Marketing,462,418,-44,Below_Forecast
+2023-12-30,2023,December,Saturday,"Coffee Sales",827,771,-56,Below_Forecast
+2023-12-30,2023,December,Saturday,"Food Sales",536,536,0,Above_Forecast
+2023-12-30,2023,December,Saturday,"Ingredients Cost",352,321,-31,Below_Forecast
+2023-12-30,2023,December,Saturday,Labor,370,403,33,Above_Forecast
+2023-12-30,2023,December,Saturday,Rent,332,327,-5,Below_Forecast
+2023-12-30,2023,December,Saturday,Utilities,194,209,15,Above_Forecast
+2023-12-30,2023,December,Saturday,Marketing,135,134,-1,Below_Forecast
+2023-12-31,2023,December,Sunday,"Coffee Sales",593,593,0,Above_Forecast
+2023-12-31,2023,December,Sunday,"Food Sales",670,684,14,Above_Forecast
+2023-12-31,2023,December,Sunday,"Ingredients Cost",452,489,37,Above_Forecast
+2023-12-31,2023,December,Sunday,Labor,295,269,-26,Below_Forecast
+2023-12-31,2023,December,Sunday,Rent,295,302,7,Above_Forecast
+2023-12-31,2023,December,Sunday,Utilities,266,268,2,Above_Forecast
+2023-12-31,2023,December,Sunday,Marketing,174,166,-8,Below_Forecast
